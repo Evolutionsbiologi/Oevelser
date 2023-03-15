@@ -67,7 +67,7 @@ linjer. Kendes mutationsraten *μ* for et gen, kan man således ud fra antallet 
 nukleotidforskelle, *D*, mellem to sekvenser beregne hvor lang tid siden
 de splittedes ad,
 
-$\scriptsizeT = D/(2L).$
+$\scriptsize T = D/(2L).$
 
 
  <figure>
