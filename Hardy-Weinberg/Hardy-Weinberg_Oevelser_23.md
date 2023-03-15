@@ -12,10 +12,10 @@ locus med to allele gener *A*<sub>1</sub> og *A*<sub>2</sub>. Vi tager en stikpr
 
 </br>
 
- Genotype| *A*<sub>1</sub>*A*<sub>1</sub> | *A*<sub>1</sub>*A*<sub>2</sub>| *A*<sub>2</sub>*A*<sub>2</sub>|Sum|
- ------|:----------------:  |:-----:|:--:|:--:|-- |
- Antal |*N*<sub>11</sub>  | *N*<sub>12</sub>      |*N*<sub>22</sub>  | *N*|
- Frekvens |*P*<sub>11</sub>  | *N*<sub>12</sub>    |*P*<sub>22</sub>  | 1|
+ |Genotype |*A*<sub>1</sub>*A*<sub>1</sub>|*A*<sub>1</sub>*A*<sub>2</sub>|*A*<sub>2</sub>*A*<sub>2</sub>|Sum   |
+ |---------|:----------------------------:|:----------------------------:|:----------------------------:|:----:|
+ |Antal    |*N*<sub>11</sub>              | *N*<sub>12</sub>             |*N*<sub>22</sub>              | *N*  | 
+ |Frekvens |*P*<sub>11</sub>              | *P*<sub>12</sub>             |*P*<sub>22</sub>              | 1    |   
 
 </br>
 
