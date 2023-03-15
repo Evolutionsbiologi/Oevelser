@@ -305,7 +305,7 @@ Disse øvelser har deres fokus på
   for autosomale loci med dominans mellem allelerne
 - at beregne forventede Hardy-Weinberg frekvenser
 - at teste for afvigelser fra Hardy-Weinberg frekvenser
-- at kvantificere afvigelser fra Hardy-Weinberg frekvenser ved hjælp af   indavls­koefficienten *F*
+- at kvantificere afvigelser fra Hardy-Weinberg frekvenser ved hjælp af   indavlskoefficienten *F*
 
 </br>
 
@@ -411,20 +411,16 @@ udspaltninger i Rhesus-systemet hos de tre mulige forældrekombinationer:
 
 Blandt de 375 børn har vi 302 Rh+ og 73Rh− individer. Under antagelse af Hardy-Weinberg-proportioner kan vi beregne frekvensen af den recessive allel. Det forventede antal rhrh individer, N(Rh−), er givet ved
 
-$$
-Rh- = Nq^2
-$$
+Rh- = *Nq*<sup>2</sup>
 
 så vi kan beregne allelfrekvensen som
-$$$
-q = \sqrt{N(Rh-)/N}
-$$$ 
+
+*q* = √(N(Rh-)/N)
+ 
 
  Frekvensen af Rh-allelen findes som
  
-$$$
-q = \sqrt{73/375}=0,441
-$$$
+*q* = √(73/375)=0,441
 
 Vi har ingen mulighed for at teste for Hardy-Weinberg-proportioner blandt børnene, da vi beskriver deres fænotypefordeling med en enkelt frihedsgrad; summen af de to fænotyper er jo givet. Ligeledes beskrives allelfrekvensen med en enkelt frihedsgrad, da deres sum er 1. Der er ingen frihedsgrad tilovers til testen. De observerede og forventede er lig med hinanden. 
 
@@ -439,7 +435,7 @@ antigen og danner antistoffer. Ved næste graviditet transporteres disse
 antistoffer til fostret via placentaen og skader fostret. Nu til dags
 kan man dog forebygge de fleste forekomster af sygdommen.
 
- c\) Mod hvilken genotype virker selektionen, som skyldes Rhe­sus-sygdommen?
+ c\) Mod hvilken genotype virker selektionen, som skyldes Rhesus-sygdommen?
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
@@ -612,10 +608,10 @@ p(♀, L)  = (2 × 12 + 55) / (2 × 130) = 0,304
 
 Lad os så teste, om hunnernes genotypefordeling stemmer overens med den forventede Hardy-Weinberg-fordeling.
 
-|                   |MM	|ML	|LL|	Sum|
-|:------------|:---	|:----|:--|:---|
-|Observeret	|63	    |55       |	12	|130|
-|Forventet	 |63,00	|55,00	|12,00	|130|
+|           |MM	   |ML	  |LL   |Sum |
+|:----------|:-----|:----|:----|:---|
+|Observeret	|63	   |55   |	12	 |130 |
+|Forventet	 |63,00	|55,00|12,00|130 |
 
 Vi ser en perfekt overensstemmelse med Hardy-Weinberg proportioner, så en test er unødvendig. Den ville resultere i en χ<sup>2</sup>-værdi på 0.
 
@@ -630,9 +626,9 @@ b\) Bestem frekvensen af de to observerede fænotyper hos hannerne.
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-*f*(♂, mørk) = 74 / 112 = 0,661
+*f*(♂, mørk) = 74/112 = 0,661
 
-*f*(♂, lys)     = 38 / 112 = 0,339
+*f*(♂, lys)  = 38/112 = 0,339
 
 
 </p>
@@ -778,10 +774,7 @@ b)  Hvad er “coefficient of linkage disequilibrium” *D* i dette  tilfælde?
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-$$$ 
-\scriptsize
-D = f_{AB} -p_A\times p_B=0,5-0,5\times0,5=0,5
-$$$
+ *D* = *f<sub>AB</sub> - *p*<sub>A</sub> x p<sub>B</sub> = 0,5-0,5 x 0,5 = 0,25
 
 </p>
 </details>
