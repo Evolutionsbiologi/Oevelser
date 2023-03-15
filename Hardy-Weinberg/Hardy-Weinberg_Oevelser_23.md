@@ -218,13 +218,13 @@ og at allelerne *D* og *d* optræder med hyppighederne *p* og *q*, kan
 populationens sammensætning beskrives på følgende måde
 
 
-| Genotype |*DD*  *Dd*                |*dd* |Sum|
-| :-------              |:------------------------:|:------:|:---:|
-|                  |└───┬───┘                 |        |        |
-|Fænotype  |*D-*                      |  *dd*      | Sum       |
-| Observeret       |*N*<sub>*D*-</sub>        |*N*<sub>*dd*</sub>                | *N*   |
-| HW-Frekvens   |*p*<sup>2</sup>+2*pq*     |    *q*<sup>2</sup>*N*    |     *N* |
-| HW-Forventet  |(*p*<sup>2</sup>+2*pq*)*N*|    *q*<sup>2</sup>*N*    | *N* |
+| Genotype       |*DD*  *Dd*                |*dd*               |     |
+| :--------------|:------------------------:|:-----------------:|:---:|
+|                |└───┬───┘                 |                   |     |
+|Fænotype        |*D-*                      |  *dd*             | Sum |
+| Observeret     |*N*<sub>*D*-</sub>        |*N*<sub>*dd*</sub> | *N* |
+| HW-Frekvens    |*p*<sup>2</sup>+2*pq*     |*q*<sup>2</sup>*N* | *N* |
+| HW-Forventet   |(*p*<sup>2</sup>+2*pq*)*N*|*q*<sup>2</sup>*N* | *N* |
 
 </br>
 
