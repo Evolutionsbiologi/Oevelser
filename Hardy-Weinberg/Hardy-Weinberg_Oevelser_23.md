@@ -88,12 +88,12 @@ foretages på følgende måde (Det er en god idé både at bestemme *p* og *q*; 
 
 </br>
 
-| Genotype| *A*<sub>1</sub>*A*<sub>1</sub> | *A*<sub>1</sub>*A*<sub>2</sub>| *A*<sub>2</sub>*A*<sub>2</sub>|Sum|
-| ------|:----------------:|:-----:|:--:|:--:|-- |
-Observeret |*N*<sub>11</sub>|*N*<sub>12</sub>|*N*<sub>22</sub>|*N*
-Forventet  |*E*<sub>11</sub>|*E*<sub>12</sub>|*E*<sub>22</sub>|*N*
-| |=|=|=||
-|  |*p*<sup>2</sup>*N*|2*pqN*|*q*<sup>2</sup>*N*|*N*|
+| Genotype  |*A*<sub>1</sub>*A*<sub>1</sub>   | *A*<sub>1</sub>*A*<sub>2</sub>| *A*<sub>2</sub>*A*<sub>2</sub>|Sum   |
+|-----------|:-------------------------------:|:-----------------------------:|:-----------------------------:|:----:|
+|Observeret |*N*<sub>11</sub>                 |*N*<sub>12</sub>               |*N*<sub>22</sub>               |*N*   |
+|Forventet  |*E*<sub>11</sub>                 |*E*<sub>12</sub>               |*E*<sub>22</sub>               |*N*   |
+|           |  =                              |  =                            |=                              |      |
+|           |*p*<sup>2</sup>*N*               |2*pqN*                         |*q*<sup>2</sup>*N*             |*N*   |
 
 
 </br>
