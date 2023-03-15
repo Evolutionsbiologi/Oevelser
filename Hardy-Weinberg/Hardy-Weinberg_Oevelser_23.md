@@ -410,18 +410,19 @@ udspaltninger i Rhesus-systemet hos de tre mulige forældrekombinationer:
 <p>
 
 Blandt de 375 børn har vi 302 Rh+ og 73Rh− individer. Under antagelse af Hardy-Weinberg-proportioner kan vi beregne frekvensen af den recessive allel. Det forventede antal rhrh individer, N(Rh−), er givet ved
+
 $$
-\scriptsize
-N(Rh-) = Nq^2
+Rh- = Nq^2
 $$
+
 så vi kan beregne allelfrekvensen som
 $$$
-\scriptsize
 q = \sqrt{N(Rh-)/N}
 $$$ 
-Frekvensen af Rh-allelen findes som
- $$$
-\scriptsize
+
+ Frekvensen af Rh-allelen findes som
+ 
+$$$
 q = \sqrt{73/375}=0,441
 $$$
 
