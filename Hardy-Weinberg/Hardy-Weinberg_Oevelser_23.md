@@ -774,7 +774,7 @@ b)  Hvad er “coefficient of linkage disequilibrium” *D* i dette  tilfælde?
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
- *D* = *f<sub>AB</sub> - *p*<sub>A</sub> x p<sub>B</sub> = 0,5-0,5 x 0,5 = 0,25
+ *D* = *f*<sub>AB</sub> - *p*<sub>A</sub> x *p*<sub>B</sub> = 0,5 - 0,5 x 0,5 = 0,25
 
 </p>
 </details>
