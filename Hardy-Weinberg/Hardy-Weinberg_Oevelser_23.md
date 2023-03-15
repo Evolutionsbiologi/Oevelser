@@ -101,10 +101,12 @@ foretages på følgende måde (Det er en god idé både at bestemme *p* og *q*; 
 Allelfrekvenserne bestemmes som beskrevet foroven. Når man angiver allelfrekvenser, bør man benytte et antal decimaler, der svarer til stikprøvens størrelse. For eksempel, hvis *N* \< 50 har det ingen mening at angive allelfrekvensen med mere end to decimaler. Det er dog vigtigt at beregne de forventede genotypefordelinger med værdier, der ikke afrundes.
 
 Den observerede og den forventede fordeling kan sammenlignes med et “Goodness of fit”-test. Teststørrelsen
-$$$
+
+$$
 \scriptsize
 \chi ^2=\sum_i \frac{(O_i-E_i)^2}{E_i}
-$$$
+$$
+
 er tilnærmelsesvis χ<sup>2</sup>-fordelt med én enkelt frihedsgrad. Antallet af frihedsgrader fremkommer på følgende måde. Antallet af
 frihedsgrader for at beskrive den observerede genotypefordeling er 2. Vi kender jo summen, og når vi kender de to, kan den tredje jo nemt
 udledes. Antallet af frihedsgrader for at beskrive allelernes frekvens er én. Kender vi frekvensen af én allel, kan den andens frekvens jo bestemmes som dens difference fra 1. Testens frihedsgrader er differencen i antallet af frihedsgrader for at beskrive henholdsvis genotypefordeling og allelfordeling, hvilket er 2 – 1 = 1. Er
@@ -116,9 +118,9 @@ Et simpelt eksempel kan tjene som illustration: Antag, at begge homozygoter er s
 
 </br>
 
-| *A*<sub>1</sub>*A*<sub>1</sub> |*A*<sub>1</sub>*A*<sub>2</sub> |*A*<sub>2</sub>*A*<sub>2</sub> |
-| :------------------: |:----------------------------: |:----------------------------: |
-| 1/4                            |1/2                            |1/4                            |
+| *A*<sub>1</sub>*A*<sub>1</sub> |*A*<sub>1</sub>*A*<sub>2</sub>|*A*<sub>2</sub>*A*<sub>2</sub> |
+| :-----------------------------:|:----------------------------:|:----------------------------: |
+| 1/4                            |1/2                           |1/4                            |
 
 </br>
 
