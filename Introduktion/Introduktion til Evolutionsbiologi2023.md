@@ -60,14 +60,16 @@ illustrerer disse to eksempler.
 
 Mutationsrater for DNA sekvenser kan f. eks. bestemmes ved at sammenligne sekvenser fra to arter, der har udviklet sig uafhængigt af hinanden; antag at de blevet splittet op for *T* år siden. Med en mutationsrate *μ* (per site per år) forventer vi, at der i hver linje for en sekvens, der er *L* baser lang, vil være opstået *μTL* mutationer, se figuren til højre. Vi antager her, at der ikke forekommer to mutationer på samme position. Så er det totale antal nukleotidforskelle mellem de to sekvenser givet ved
 
-$\scriptsize D = 2 μTL$
+$$
+D = 2 μTL
+$$
 
 hvor to-tallet skyldes, at der akkumuleres mutationer i hver af de to
 linjer. Kendes mutationsraten *μ* for et gen, kan man således ud fra antallet af
 nukleotidforskelle, *D*, mellem to sekvenser beregne hvor lang tid siden
 de splittedes ad,
 
-$\scriptsize T = D/(2L).$
+$ T = D/(2L).$
 
 
  <figure>
@@ -119,7 +121,7 @@ Mitokondrier findes i langt flere kopier end det nukleare genom i hver celle og 
 ### Opgave 2 (Mutationer i enkelte gener)
 
 Lægen Mørch fandt blandt 94.000 fødsler i Danmark 10 tilfælde af
-chondrodystro­fe dværge. Denne form for dværgvækst er dominant betinget: Personer med normal vækst har genotypen *dd*, medens chondrodystro­fe har genotypen *Dd*. Det antages, at individer med genotypen *DD* ikke observeres, fordi genotypen er letal. 
+chondrodystrofe dværge. Denne form for dværgvækst er dominant betinget: Personer med normal vækst har genotypen *dd*, medens chondrodystro­fe har genotypen *Dd*. Det antages, at individer med genotypen *DD* ikke observeres, fordi genotypen er letal. 
 Der foreligger yderligere oplyst, at 3 af de 10 fødte dværge havde en
 chondrodystrof forælder, mens 7 havde normale forældre; det vil sige, at
 der optræder 7 nye mutationer i populationen.
@@ -227,19 +229,16 @@ antal sekvenser fra den samme population, bestemmes alle parvise
 forskelle mellem sekvenserne og divideres bagefter med antallet af
 sammenligninger og sekvensernes længde.  For eksempel, hvis man har fire sekvenser, der er tusind basepar lange, med de parvise forskelle givet i den følgende tabel
 
-|                     |[1] | [2] | [3] |[4]   |
-|-------------------- |--- |---  |---- |------|
-|[1] Sekvens 1	      | -  |     |     |      |
-|[2] Sekvens 2        |10  | -   |     |      |
-|[3] Sekvens 3	      |15  | 20  | -   |      |
-|[4] Sekvens 4	      |18  | 17  |27   | -    |
+|                    |[1]   | [2]  | [3]  |[4]   |
+|--------------------|:----:|:----:|:----:|:----:|
+|[1] Sekvens 1	      | -    |      |      |      |
+|[2] Sekvens 2       |10    | -    |      |      |
+|[3] Sekvens 3	      |15    | 20   | -    |      |
+|[4] Sekvens 4	      |18    | 17   |27    | -    |
 
 så beregnes nukleotiddiversiteten som 
 
-
-$$\scriptsize \pi = \frac{(10+15+20+18+17+27)}{1000\times6}=107/6000=0,018 $$
-
-
+$$ \pi = \frac{(10+15+20+18+17+27)}{1000\times6}=107/6000=0,018 $$
 
  <figure>
   <img  align="right" src="IntroNeandertal.png" width=250 title="Neandertal">
@@ -273,8 +272,7 @@ basepar.
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-$$\scriptsize\pi = \frac{(10 + 10 + 6 + 0 + 10 + 10 + 46 + 40 + 44 + 46 + 10 + 8 + 10 + 10 + 46)}{15\times16.565}
-=0,012 $$
+π = (10 + 10 + 6 + 0 + 10 + 10 + 46 + 40 + 44 + 46 + 10 + 8 + 10 + 10 + 46)/(15 x 16.565 = 0,012 
 </p>
 </details>
 
@@ -372,8 +370,8 @@ at overleve multipliceret med antallet af afkom, som et individ får.
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-|Klon               |*A*           |*B*         |
-|------------------ |:------------:|:----------:|
+|Klon            |*A*           |*B*         |
+|----------------|:------------:|:----------:|
 |Absolut fitness	|0,1 × 120 = 12|0,2 × 40 = 8|
 
 </p>
