@@ -72,9 +72,9 @@ genotypeligevægt med den nye allel-frekvens:
 
 </br>
 
-| Genotype| *A*<sub>1</sub>*A*<sub>1</sub> | *A*<sub>1</sub>*A*<sub>2</sub>| *A*<sub>2</sub>*A*<sub>2</sub>|Sum|
-| ------|:----------------:|:-----:|:--:|:--:|-- |
-| Frekvens |*p'*<sup>2</sup>|2*p'q'*|*q*'<sup>2</sup>|1|
+|Genotype|*A*<sub>1</sub>*A*<sub>1</sub>|*A*<sub>1</sub>*A*<sub>2</sub>| *A*<sub>2</sub>*A*<sub>2</sub>|Sum  |
+|--------|:----------------------------:|:----------------------------:|:-----------------------------:|:---:|
+|Frekvens|*p'*<sup>2</sup>              |2*p'q'*                       |*q*'<sup>2</sup>               |1    |
 
 
 </br>
