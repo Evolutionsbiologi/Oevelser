@@ -69,7 +69,9 @@ linjer. Kendes mutationsraten *μ* for et gen, kan man således ud fra antallet 
 nukleotidforskelle, *D*, mellem to sekvenser beregne hvor lang tid siden
 de splittedes ad,
 
-$ T = D/(2L).$
+$$ 
+T = D/(2L).
+$$
 
 
  <figure>
@@ -272,7 +274,7 @@ basepar.
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-π = (10 + 10 + 6 + 0 + 10 + 10 + 46 + 40 + 44 + 46 + 10 + 8 + 10 + 10 + 46)/(15 x 16.565 = 0,012 
+π = (10 + 10 + 6 + 0 + 10 + 10 + 46 + 40 + 44 + 46 + 10 + 8 + 10 + 10 + 46)/(15 x 16.565) = 0,012 
 </p>
 </details>
 
@@ -359,7 +361,7 @@ gang og dør. Sandsynligheden for at overleve til den reproduktive alder
 og antal afkom er givet i nedenstående tabel
 
 |Klon               |*A*    |  *B*|
-|------------------ |:----: | :--:|
+|------------------ |:-----:|:---:|
 |Overlevelse        |0,1    |  0,2|
 |Antal afkom        |120    |  40 |
 
