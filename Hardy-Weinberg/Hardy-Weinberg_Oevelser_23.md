@@ -237,10 +237,10 @@ recessive allel og frekvensen af den recessive homozygot. Da vi har, at
 
 får vi dermed, at
 
-$$$
-\scriptsize
+$$
 q=\sqrt{N_{dd}/N}
-$$$
+$$
+
 og
 
 *p* = 1 – *q*.
