@@ -46,10 +46,10 @@ afkommet bliver Hardy-Weinberg-ligevægten
 </br>
 
 
-| Genotype| *A*<sub>1</sub>*A*<sub>1</sub> | *A*<sub>1</sub>*A*<sub>2</sub>| *A*<sub>2</sub>*A*<sub>2</sub>|Sum|
-|------|:----------------:|:-----:|:--:|:--:|-- |
-| Antal |*N*<sub>11</sub>  | *N*<sub>12</sub>      |*N*<sub>22</sub>  | *N*|
-| Frekvens |*p*<sup>2  </sup>|2*pq*|*q*<sup>2  </sup>|1|
+| Genotype|*A*<sub>1</sub>*A*<sub>1</sub>|*A*<sub>1</sub>*A*<sub>2</sub>|*A*<sub>2</sub>*A*<sub>2</sub>|Sum  |
+|---------|:----------------------------:|:----------------------------:|:----------------------------:|:---:|
+|Antal    |*N*<sub>11</sub>              | *N*<sub>12</sub>             |*N*<sub>22</sub>              | *N* |
+|Frekvens |*p*<sup>2  </sup>             |2*pq*                         |*q*<sup>2</sup>               |1    |
 
 </br>
 
