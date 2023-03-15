@@ -243,7 +243,9 @@ $$
 
 og
 
-*p* = 1 – *q*.
+$$
+p = 1 – q.
+$$
 
 Forudsætningen herfor er, som allerede nævnt, at der er
 Hardy-Weinberg-proportioner for dette locus i populationen. Såfremt
@@ -266,10 +268,10 @@ med genotyperne *X*<sub>1</sub>*Y* og *X*<sub>2</sub>*Y*. Vi antager nu, at alle
 
 </br>
 
-   ||   <span style="color:red">Hunner </style>|||<span style="color:blue">Hanner</style> ||
- | -|:-----:|:--:|:--:|- |-|
-Genotype |<span style="color:red">*X*<sub>1</sub>*X*<sub>1</sub>|<span style="color:red">*X*<sub>1</sub>*X*<sub>2</sub>|<span style="color:red">*X*<sub>2</sub>*X*<sub>2</sub>|<span style="color:blue">*X*<sub>1</sub>*Y*|<span style="color:blue">*X*<sub>2</sub>*Y*|
-Forventet  |<span style="color:red">*p*<sup>2</sup>|<span style="color:red">2*pq*|<span style="color:red">*q*<sup>2</sup>|<span style="color:blue">*p*|<span style="color:blue">*q*|
+|         |Hunner </style>               |                              |                              |Hanner            |                  |
+|---------|:----------------------------:|:----------------------------:|:----------------------------:|:----------------:|:----------------:|
+|Genotype |*X*<sub>1</sub>*X*<sub>1</sub>|*X*<sub>1</sub>*X*<sub>2</sub>|*X*<sub>2</sub>*X*<sub>2</sub>|*X*<sub>1</sub>*Y*|*X*<sub>2</sub>*Y*|
+|Forventet|*p*<sup>2</sup>               |2*pq*                         |*q*<sup>2</sup>               |*p*               |*q*               |
 </br>
 
 Forskellen i genotypefordelingen mellem hanner og hunner bliver specielt
@@ -284,7 +286,7 @@ mænd, der lider af denne sygdom.
 
 
  <figure>
-  <img  align="right" src="HWFarveblind.png" width=170 title="*Avena*">
+  <img  align="right" src="HWFarveblind.png" width=250 title="Faveblindhed">
  </figure>
 
 *Eksempel*: Rød-grøn farveblindhed nedarves kønsbundet hos mennesket.
@@ -315,13 +317,13 @@ Betragt de følgende genotypefordelinger i fem autosomale loci (I-V).
 </br>
 
 
-| Locus    |11 |12 |22 |Sum|
-| :-------- |--:|--:|--:|--:|
-|I |100|0  |0  |100|
-|II |81 |18 |1  |100|
-|III |0  |100|0  |100|
-|IV|0  |0  |100|100|
-|V |50 |0  |50 |100|
+|Locus |11  |12  |22 |Sum |
+|:-----|---:|---:|--:|---:|
+|I     |100 |0   |0  |100 |
+|II    |81  |18  |1  |100 |
+|III   |0   |100 |0  |100 |
+|IV    |0   |0   |100|100 |
+|V     |50  |0   |50 |100 |
  
 
 </br>
