@@ -197,11 +197,11 @@ tre alleler er givet ved
 
 </br>
 
-|     |*A*<sub>1</sub>|*A*<sub>2</sub> |*A*<sub>3</sub>|
-| :-------------:|:-------------: |:-------------:|:---:|
-*A*<sub>1</sub>| *p*<sub>1</sub><sup>2</sup>|2*p*<sub>1</sub>*p*<sub>2</sub>| 2*p*<sub>1</sub>*p*<sub>3</sub>||
-*A*<sub>2</sub>|| *p*<sub>2</sub><sup>2</sup>| 2*p*<sub>2</sub>*p*<sub>3</sub>||
-*A*<sub>3</sub> | ||*p*<sub>3</sub><sup>2</sup>|
+|                |*A*<sub>1</sub>            |*A*<sub>2</sub>                |*A*<sub>3</sub>                |
+|:--------------:|:-------------------------:|:-----------------------------:|:-----------------------------:|
+|*A*<sub>1</sub> |*p*<sub>1</sub><sup>2</sup>|2*p*<sub>1</sub>*p*<sub>2</sub>|2*p*<sub>1</sub>*p*<sub>3</sub>|
+|*A*<sub>2</sub> |                           | *p*<sub>2</sub><sup>2</sup>   |2*p*<sub>2</sub>*p*<sub>3</sub>|
+|*A*<sub>3</sub> |                           |                               |*p*<sub>3</sub><sup>2</sup>    |
 
 </br>
 
