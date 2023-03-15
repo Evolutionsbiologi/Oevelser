@@ -159,10 +159,10 @@ hos den vilde hvede *Avena barbata* i Californien. De fandt den følgende genoty
 </br>
 
 
-| Genotype| *A*<sub>1</sub>*A*<sub>1</sub> | *A*<sub>1</sub>*A*<sub>2</sub>| *A*<sub>2</sub>*A*<sub>2</sub>|Sum|
-| ------|:----------------:|:-----:|:--:|:--:|-- |
-Observeret | 66|6|15|87
-Forventet  |54,72|28,55|  3,72|87
+|    Genotype| *A*<sub>1</sub>*A*<sub>1</sub> | *A*<sub>1</sub>*A*<sub>2</sub>| *A*<sub>2</sub>*A*<sub>2</sub>|Sum   |
+|------------|:------------------------------:|:-----------------------------:|:-----------------------------:|:----:|
+|Observeret  | 66                             |6                              |15                             |87    |
+|Forventet   |54,72                           |28,55                          |  3,72                         |87    |
 
 </br>
 
