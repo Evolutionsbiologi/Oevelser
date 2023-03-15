@@ -60,14 +60,14 @@ illustrerer disse to eksempler.
 
 Mutationsrater for DNA sekvenser kan f. eks. bestemmes ved at sammenligne sekvenser fra to arter, der har udviklet sig uafhængigt af hinanden; antag at de blevet splittet op for *T* år siden. Med en mutationsrate *μ* (per site per år) forventer vi, at der i hver linje for en sekvens, der er *L* baser lang, vil være opstået *μTL* mutationer, se figuren til højre. Vi antager her, at der ikke forekommer to mutationer på samme position. Så er det totale antal nukleotidforskelle mellem de to sekvenser givet ved
 
-$\footnotesize D = 2 μTL$
+$\scriptsize D = 2 μTL$
 
 hvor to-tallet skyldes, at der akkumuleres mutationer i hver af de to
 linjer. Kendes mutationsraten *μ* for et gen, kan man således ud fra antallet af
 nukleotidforskelle, *D*, mellem to sekvenser beregne hvor lang tid siden
 de splittedes ad,
 
-$\footnotesize T = D/(2L).$
+$\scriptsizeT = D/(2L).$
 
 
  <figure>
