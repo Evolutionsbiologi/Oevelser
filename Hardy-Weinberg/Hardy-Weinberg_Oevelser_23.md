@@ -103,7 +103,6 @@ Allelfrekvenserne bestemmes som beskrevet foroven. Når man angiver allelfrekven
 Den observerede og den forventede fordeling kan sammenlignes med et “Goodness of fit”-test. Teststørrelsen
 
 $$
-\scriptsize
 \chi ^2=\sum_i \frac{(O_i-E_i)^2}{E_i}
 $$
 
@@ -150,7 +149,7 @@ heterozygoter, som i eksemplet forneden.) Der gælder så, at
 
 
  <figure>
-  <img  align="right" src="HWAvena.jpg" width=175 title="*Avena*">
+  <img  align="right" src="HWAvena.jpg" width=250 title="*Avena*">
  </figure>
 
 *Eksempel:*
@@ -286,7 +285,7 @@ mænd, der lider af denne sygdom.
 
 
  <figure>
-  <img  align="right" src="HWFarveblind.png" width=250 title="Faveblindhed">
+  <img  align="right" src="HWFarveblind.png" width=250 title="Farveblindhed">
  </figure>
 
 *Eksempel*: Rød-grøn farveblindhed nedarves kønsbundet hos mennesket.
@@ -337,13 +336,13 @@ den samme population.
 <details><summary>Klik for at se svaret (Tænk lidt før du gør det)</summary>
 <p>
 
-| Locus    ||
-| :-------- |:-------:|
-|I|1,0|
-|II |0,9|
-|III |0,5 |
-|IV|0,0| 
-|V |0,5 |
+|Locus  |      |
+|:------|:-----|
+|I      |1,0   |
+|II     |0,9   | 
+|III    |0,5   |
+|IV     |0,0   | 
+|V      |0,5   |
 </p>
 </details>
 
@@ -354,13 +353,13 @@ den samme population.
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-| Locus    |                                                                        |
-| :-------- | :--------------------------------------------------------------------- |
-|I| Ja, men kan ikke testes, da antallet af frihedsgrader er 0 til testen  |
-|II | Ja, perfekt overensstemmelse                                           |
-|III | Nej, forventede er ¼, ½, ¼. Stor afvigelse,  χ<sup>2</sup>  = 100      |
-|IV|	Ja, men kan ikke testes, da antallet af frihedsgrader er 0 til testen  | 
-|V | Nej, forventede er ¼, ½, ¼. Stor afvigelse,  χ<sup>2</sup>  = 100      |
+|Locus |                                                                        |
+|:-----|:---------------------------------------------------------------------- |
+|I     | Ja, men kan ikke testes, da antallet af frihedsgrader er 0 til testen  |
+|II    | Ja, perfekt overensstemmelse                                           |
+|III   | Nej, forventede er ¼, ½, ¼. Stor afvigelse,  χ<sup>2</sup>  = 100      |
+|IV    |	Ja, men kan ikke testes, da antallet af frihedsgrader er 0 til testen  | 
+|V     | Nej, forventede er ¼, ½, ¼. Stor afvigelse,  χ<sup>2</sup>  = 100      |
 </p>
 </details>
 
@@ -370,10 +369,10 @@ den samme population.
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-| Locus|                                                      |
-| :----|:---------------------------------------------------- |
-|III |Naturlig selektion i form af overdominant selektion   |
-|V |Indavl eller populationsblanding                      |
+|Locus|                                                      |
+|:----|:---------------------------------------------------- |
+|III  |Naturlig selektion i form af overdominant selektion   |
+|V    |Indavl eller populationsblanding                      |
 </p>
 </details>
 
@@ -504,35 +503,33 @@ Nej. Man kunne lave en 2 × 2 kontingenstest på antallet af alleler i de to gru
 
 De forventede antal under antagelse af Hardy-Weinberg proportioner beregnes på følgende måde (for frøplanter):
 
-|Genotype |11                      | 12     | 22             |Sum  |
-|-------- |:---------------------: |:------:|:--------------:|:--: |
-|O        |79                      | 43     | 21             |143  |
-|E        |*p*<sup>2</sup>*N*      | 2*pqN*  |*q*<sup>2</sup> |*N*  |
-|         |=                       |  =      | =              |     |
-|         |0,703<sup>2</sup> × 143 |  2×0,703 ×0,297×143      | 0,297<sup>2</sup> × 143      |143  |
-|         |=                       |  =      | =              |     |
-|         |70,63                   |  59,74     | 12,63              |143  |
+|Genotype |11                      | 12                  | 22                     |Sum  |
+|-------- |:---------------------: |:-------------------:|:----------------------:|:---:|
+|O        |79                      | 43                  | 21                     |143  |
+|E        |*p*<sup>2</sup>*N*      | 2*pqN*              |*q*<sup>2</sup>         |*N*  |
+|         |=                       |  =                  | =                      |     |
+|         |0,703<sup>2</sup> × 143 |  2×0,703 ×0,297×143 | 0,297<sup>2</sup> × 143|143  |
+|         |=                       |  =                  | =                      |     |
+|         |70,63                   |  59,74              | 12,63                  |143  |
 </br>
 
 Bemærk det store overskud af homozygoter – som er lige store for hver af homozygoterne. Overensstemmelse med Hardy-Weinberg proportioner testes ved hjælp af en χ<sup>2</sup> test, hvor teststørrelsen findes som
 
-$$$
-\scriptsize
+$$
 \chi^2 =\sum_{i=1}^3\frac{(O_i-E_i)^2}{E_i}
-$$$
+$$
 som for frøplanternes tilfælde bliver
-$$$
-\scriptsize
+$$
 \chi^2 =\frac{(79-70,63)^2}{70,63}+\frac{(43-59,74)^2}{59,74}+\frac{21-12,63}{12,63}=12,23
-$$$
+$$
 Teststørrelsen er derfor signifikant på 5% niveauet, når den overstiger 3,84. Dette er tilfældet for frøplanterne, så vi forkaster hypotesen om Hardy-Weinberg proportioner for dem.
 
 For de voksne er resultatet 
 
-|Genotype|   |11   |	12   |	22|
-|--------|:- |:----| :----|:---|
-|Voksne	 |O	 |55   |	47   |	10|
-|        |E  |55,02| 46,96|	10,02 |
+|Genotype|      |11   |	12   |	22    |
+|--------|:---- |:----|:-----|:------|
+|Voksne	 |O	    |55   |	47   |	10    |
+|        |E     |55,02| 46,96|	10,02 |
 
 χ<sup>2</sup> = 0,00, dvs. der er HW-proportioner.
 </p>
