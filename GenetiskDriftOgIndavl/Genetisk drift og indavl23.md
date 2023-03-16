@@ -56,7 +56,7 @@ arv kvantificeres ved hjælp af indavlskoefficienten *F*. Denne defineres
 som sandsynligheden for, at et individ i et locus bærer to gener, der er
 identiske ved arv, så
 
-$\scriptsize <0 \leq F \leq 1$
+$<0 \leq F \leq 1$
 
 Denne form for indavl medfører en afvigelse fra Hardy-Weinberg
 proportioner, hvor genotypefordelingen i den enkelte population bliver
