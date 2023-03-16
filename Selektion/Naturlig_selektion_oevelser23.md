@@ -82,7 +82,6 @@ analysere selektionens virkning på polymorfien. Dette gøres ved at se på
 ændring beregnes som
 
 $$
-\scriptsize
 \begin{aligned}
 \Delta p &= p'-p\\
 &=(p^2W_{11}+2pqW_{12}/2)/\overline{W} -p\\  
@@ -94,7 +93,6 @@ $$
 der må gælde at
 
 $$
-\scriptsize
 \begin{aligned}
 \Delta p &= pq[(p(W_{11} - W_{12}) -q(W_{22}-W_{12})]/\overline{W}  \\
 &=0
@@ -117,7 +115,7 @@ Ligningen kan løses efter *p* (hvor vi husker, at *q* = 1 – *p*).
 
 $$
 \begin{aligned}
-p= \frac{\scriptsize W_{22}-W_{12}}{\scriptsize W_{11} - W_{12}+W_{22}-W_{12}}
+p= \frac{W_{22}-W_{12}}{\scriptsize W_{11} - W_{12}+W_{22}-W_{12}}
 \end{aligned}
 $$
 
@@ -138,7 +136,7 @@ For et autosomalt locus med to alleler, hvorpå der virker
 overlevelsesselektion på genotyperne, findes der fire principielle
 muligheder for selektionens virkning.
 
-**1) Retningsselektion** $\scriptsize W_{11} \ge W_{12} \ge W_{12}$
+**1) Retningsselektion** $ W_{11} \ge W_{12} \ge W_{12}$
 med højst ét lighedstegn.  
 
  <figure>
@@ -221,7 +219,7 @@ nu en indre ligevægt
 
 $$
 \begin{aligned}
-p= \frac{\scriptsize W_{22}-W_{12}}{\scriptsize W_{11} - W_{12}+W_{22}-W_{12}}:
+p= \frac{ W_{22}-W_{12}}{\scriptsize W_{11} - W_{12}+W_{22}-W_{12}}:
 \end{aligned}
 $$
 
@@ -259,9 +257,8 @@ overdominans ved hjælp af selektionskoefficienterne *s* og *t.*
 .
 
 $$
-\scriptsize
 \begin{aligned}
-p &= \frac{\scriptsize W_{22}-W_{12}}{\scriptsize W_{11} - W_{12}+W_{22}-W_{12}}\\
+p &= \frac{W_{22}-W_{12}}{W_{11} - W_{12}+W_{22}-W_{12}}\\
   &= \frac{1-t-1}{1-s-1+1-t-1}\\
   &= \frac{t}{s+t}
 \end{aligned}
@@ -280,12 +277,10 @@ selektion, som er beskrevet foroven.
 Lad os tage et simpelt eksempel, hvor de tre genotypers fitness kan
 beskrives som
 
-|                |*A*<sub>11</sub> |*A*<sub>12</sub>|*A*<sub>22</sub>|
-| ---------------|----------------- |:--------------:|:--------------:|
-| Relativ fitness|0,6 |1               |0,4             |
-Selektionskoefficient   | 0,4   |0                            | 0,6                         |
-
-
+|                     |*A*<sub>11</sub> |*A*<sub>12</sub>|*A*<sub>22</sub>|
+| --------------------|:---------------:|:--------------:|:--------------:|
+| Relativ fitness     |0,6              |1               |0,4             |
+|Selektionskoefficient| 0,4             |0               | 0,6            |
 
 <figure>
   <img  align="right" src="SelAveW.png" width=250 title="SelAve">
@@ -297,18 +292,17 @@ For dette simple system ses, at ligevægten er *p* = 0,6/(0,4 + 0,6) =
 populationens gennemsnitlige fitness
 
 $$
-\scriptsize
  \overline{W} =p^2W_{11}+2pqW_{12}+q^2W_{12} 
 $$
 
 som funktion af allelfrekvensen, hvilket er gjort i figuren.
 Når *p* = 0 er der udelukkende *A*<sub>22</sub> i populationen, som har
 en
-$\scriptsize\overline{W}$ på
+$\overline{W}$ på
 0,4, og når populationen er fikseret for *A*<sub>1</sub>, så er
 $\scriptsize\overline{W}$*=*
 0,6. Vi ser, at
-$\scriptsize\overline{W}$ 
+$overline{W}$ 
 har
 sit maksimum i ligevægten 0,6. Dermed stemmer evolutionen i dette simple
 system fint overens med vores intuition for evolution gennem naturlig
@@ -323,10 +317,10 @@ $\scriptsize\overline{W}$.
 Lad os tage et simpelt eksempel, hvor de tre genotypers fitness kan
 beskrives som
 
-| |*A*<sub>11</sub>|*A*<sub>12</sub> |*A*<sub>22</sub>|
-|-|:--------------:|:---------------------:|:--------------------:|
-|Relativ fitness   |1,4|  1 |1,6
-|Selektionskoefficient |–0,4 |0 |–0,6|
+|Genotype              |*A*<sub>11</sub>|*A*<sub>12</sub> |*A*<sub>22</sub>|
+|----------------------|:--------------:|:---------------:|:--------------:|
+|Relativ fitness       |1,4             |  1              |1,6             |
+|Selektionskoefficient |–0,4            |0                |–0,6            |
 
 
 <figure>
