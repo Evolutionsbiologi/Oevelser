@@ -193,11 +193,9 @@ som er ***stabil***, dvs, hvis man ændrer frekvensen af allel
 1: som er ***stabil***, dvs, hvis man ændrer frekvensen af allel
 *A*<sub>1</sub> lidt fra 1, vil den bevæge sig tilbage til 1
 
-$$
-\begin{aligned}
+$
 p= \frac{W_{22}-W_{12}}{W_{11} - W_{12}+W_{22}-W_{12}}:
-\end{aligned}
-$$
+$
 
 som er en ***ustabil ligevægt***, dvs, hvis man ændrer frekvensen af allel
 *A*<sub>1</sub> lidt fra ligevægten, vil den bevæge sig bort fra den.
@@ -206,7 +204,7 @@ I dette system vil vi ende op med en allelfrekvens af *A*<sub>1</sub> på
 enten 0 eller 1, afhængigt af, om der startes under eller over den
 ustabile ligevægt.
 
-**4) Overdominans** $W_{11} <W_{12}$ og  $W_{22} <W_{12}$  .
+**4) Overdominans** $W_{11} <W_{12}$ og   $W_{22} <W_{12}$.
 
 <figure>
   <img  align="right" src="SelOverD.png" width=150 title="Over">
@@ -218,9 +216,7 @@ ligevægte*** for polymorfien, men i modsætning til underdominans har vi
 nu en indre ligevægt
 
 $$
-\begin{aligned}
 p= \frac{ W_{22}-W_{12}}{W_{11} - W_{12}+W_{22}-W_{12}}:
-\end{aligned}
 $$
 
 som er en ***stabil ligevægt***, dvs, hvis man ændrer frekvensen af allel
