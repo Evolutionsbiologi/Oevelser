@@ -95,7 +95,7 @@ der må gælde at
 $$
 \begin{aligned}
 \Delta p &= pq[(p(W_{11} - W_{12}) -q(W_{22}-W_{12})]/\overline{W}  \\
-&=0
+         &=0
 \end{aligned}
 $$
 
@@ -105,18 +105,14 @@ for enten den ene eller den anden allel. Den tredje mulige ligevægt
 eksisterer, hvis ligningen
 
 $$
-\begin{aligned}
 p(W_{11} - W_{12}) -q(W_{22}-W_{12})=0
-\end{aligned}
 $$
 
 har en løsning med allelfrekvenserne i intervallet fra 0 til 1.
 Ligningen kan løses efter *p* (hvor vi husker, at *q* = 1 – *p*).
 
 $$
-\begin{aligned}
 p= \frac{W_{22}-W_{12}}{ W_{11} - W_{12}+W_{22}-W_{12}}
-\end{aligned}
 $$
 
 Der findes to løsninger med allelfrekvenserne i intervallet mellem 0 og
