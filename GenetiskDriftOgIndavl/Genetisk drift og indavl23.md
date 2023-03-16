@@ -127,7 +127,7 @@ En populations indavlskoefficient *F* bestemmes ved at tage
 gennemsnittet af de forskellige parringstypers indavlskoefficienter
 *F<sub>i</sub>* vægtet med deres frekvens *c<sub>i</sub>* i populationen
 
-$$\scriptsize \overline F = \sum_i c_iF_i.$$
+$$ \overline F = \sum_i c_iF_i.$$
 
 ## Genetisk drift
 
@@ -156,7 +156,7 @@ populationens størrelse. Med en populationsstørrelse på *N* vil der være
 2*N* gener i en diploid population. Her vil identitet gennem arv, målt
 som indavlskoefficienten i generation *t*, *F<sub>t</sub>*, vokse efter
 formlen
-$$\scriptsize F_t = 1 -\left(1- \frac{1}{2N}\right)^t$$
+$$ F_t = 1 -\left(1- \frac{1}{2N}\right)^t$$
 hvor det antages, at identiteten ved arv i generation 0 var 0.
 
 Genetisk drift i isolerede populationer af endelig størrelse påvirker
@@ -168,7 +168,6 @@ grad af populationsstørrelsen, hvilket fremgår af de følgende formler,
 hvor *t* er tiden målt i generationer.
 
 $$
-\scriptsize
 \begin{aligned}
 F_t &=1 -\left(1- \frac{1}{2N}\right)^t\\  
 H_t &= H_0\left(1- \frac{1}{2N}\right)^t\\  
@@ -208,7 +207,7 @@ individer med antallet *N,* og at hyppigheden af allel *A*<sub>1</sub>
 er *p*<sub>1</sub> i generation 0. Så er sandsynligheden for at der i
 generation 1 er *j* *A*<sub>1</sub>-alleler i populationen givet ved
 
-$$ \scriptsize p(j) = {2N \choose j}p_1^i (1-p_1)^{2N-j}$$
+$$  p(j) = {2N \choose j}p_1^i (1-p_1)^{2N-j}$$
 
 Ligningen giver en fuldstændig beskrivelse af fordelingen af antallet af
 allel *A*<sub>1</sub> i generation 1. Lad os starte med en population i
@@ -259,11 +258,11 @@ Vi kan illustrere effektiv populationsstørrelse ved hjælp af et
 eksperiment med bananfluen *Drosophila melanogaster.* Her startede man
 107 populationer, der i et givet locus havde to alleler med samme
 allelfrekvens, dvs. 0.5. Frekvensen af heterozygoter i generation 0 var
-derfor $\scriptsize2pq=2\times 0,5 \times 0,5 =0,5.$
+derfor $2pq=2\times 0,5 \times 0,5 =0,5.$
 Man holdt populationsstørrelsen i hver generation på 16. Derfor ville
 man forvente, at heterozygotien ville aftage efter følgende formel
 
-$$\scriptsize H_t = 0,5\left(1-\frac{1}{2\times 16}\right)^t$$
+$$ H_t = 0,5\left(1-\frac{1}{2\times 16}\right)^t$$
 
 Dette er illustreret ved den stiplede kurve i den følgende figur. I
 virkeligheden faldt heterozygotien hurtigere. Den faldt med en rate, som
@@ -278,7 +277,7 @@ melanogaster.*
 For en population med variabel størrelse, kan den effektive
 populationsstørrelse beregnes som det harmoniske gennemsnit
 
-$$\scriptsize \frac{1}{N_{e}} = \ \frac{\underline{1}}{t}\sum_{i}^{t}{}\frac{1}{N_{i}}$$
+$$ \frac{1}{N_{e}} = \ \frac{\underline{1}}{t}\sum_{i}^{t}{}\frac{1}{N_{i}}$$
 
 hvor *N<sub>i</sub>* er populationens størrelse i generation *i*. Det
 samlede antal generationer sættes til *t*. Det antages, at der er lige
@@ -288,7 +287,7 @@ Hvis kønsratioen i en population afviger fra 50% hunner og 50% hanner,
 vil den effektive populationsstørrelse være mindre end den observerede.
 Den kan estimeres med følgende formel
 
-$$\scriptsize{N_{e}} = \ \frac{4N_f\times N_m}{N_f+N_m}$$
+$${N_{e}} = \ \frac{4N_f\times N_m}{N_f+N_m}$$
 
 hvor *N<sub>f</sub>* og *N<sub>m</sub>* er henholdsvis antallet af
 hunner og hanner i populationen.
@@ -336,14 +335,14 @@ er fikserede for enten den ene eller den anden allel, må *F* være lig
 med 1. Her er der ingen heterozygoter i totalpopulationen. Man kan
 beregne populationernes differentiering ved hjælp af
 
-$$\scriptsize V=p_0(1-p_0)F $$
+$$ V=p_0(1-p_0)F $$
 
 hvor vi har droppet referencen til tiden *t*, som vi af gode grunde ikke
 kender. Vi husker på, at den gennemsnitlige allelfrekvens kan bruges som
 et godt bud på allelfrekvensen i populationen før den blev delt op.
 Derfor kan vi beregne det, der kaldes Wright’s *F*-statistik, hvor vi
 beregner den totale populations indavlskoefficient som
-$$\scriptsize F_{ST}= \frac {V} {p_0(1-p_0)}  $$
+$$ F_{ST}= \frac {V} {p_0(1-p_0)}  $$
 
 her er *V* variansen af allelfrekvensen hen over alle populationer og
 *p*<sub>0</sub> er den gennemsnitlige allelfrekvens. Bemærk, at vi her
@@ -357,11 +356,11 @@ diversiteten i en totalpopulation nedsættes på grund af dens opsplitning
 i subpopulationer. Her benyttes ligningen
 
 
-$$\scriptsize F_{ST}=\frac{{H_T-\overline{H}_S }}{H_T}$$
+$$ F_{ST}=\frac{{H_T-\overline{H}_S }}{H_T}$$
 
 hvor *H<sub>T</sub>* er den forventede diversitet i totalpopulationen
 beregnet under antagelse af tilfældig parring og hvor
-$\scriptsize\overline{H}_{S}$ er den gennemsnitlige diversitet i
+$\overline{H}_{S}$ er den gennemsnitlige diversitet i
 subpopulationerne. Lad os illustrere det med et simpelt eksempel. Antag,
 at vi har to subpopulationer, der har allelfrekvenser for
 *A*<sub>1</sub> på 0,7 i subpopulation 1 og 0,3 i subpopulation 2 og
@@ -378,12 +377,11 @@ Hardy-Weinberg-proportioner i hver af subpopulationerne:
 | Totalpopulation, obs | 58                           | 84                           | 58                           | 200 |
 | Totalpopulation, HW  | 50                           | 100                          | 50                           | 200 |
 
-Her indses, at $\scriptsize \overline{H}_{S}$ er 0,42 og at *H<sub>T</sub>* er 0,5.
+Her indses, at $ \overline{H}_{S}$ er 0,42 og at *H<sub>T</sub>* er 0,5.
 Derfor kan vi beregne Wright’s F-statistik til at være
 
 
 $$
-\scriptsize
 \begin{aligned}
 F_{ST} &=\frac{H_T -\overline{H}_{S}}
               {H_T}\\  
@@ -699,7 +697,7 @@ til
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-$$\scriptsize
+$$
 \begin{aligned}
 \overline{N} &= \sum_{i=1}^6 N_i/6\\
 &=(27+150+834+2400+3500+4000)/6\\
@@ -714,7 +712,7 @@ $$
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-$$\scriptsize
+$$
 \begin{aligned}
 \frac{1}{N_e} &= \frac{1}{6}\sum_{i=1}^6 \frac{1}{N_i}\\
 &=\left(\frac{1}{27}+\frac{1}{150}+\frac{1}{834}+\frac{1}{2400}+\frac{1}{3500}+\frac{1}{4000}\right)/6\\
@@ -750,7 +748,7 @@ et stort antal hunner. Antag, at antallet af hunner, *N<sub>f</sub>*, er
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-$$\scriptsize
+$$
 \begin{aligned}
 N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
     &= \frac{ 4N_m}{1+ N_m/N_f}\\
@@ -809,7 +807,7 @@ Betragt den følgende genealogi af *k* = 10 gener.
 <p>
 
 De bliver længere. Ventetiden får at gå fra $k$ til $k - 1$ gener er
-$$\scriptsize  \frac{4N}{{k(k-1)}}$$
+$$  \frac{4N}{{k(k-1)}}$$
 </p>
 </details>
 
@@ -825,14 +823,14 @@ $$\scriptsize  \frac{4N}{{k(k-1)}}$$
 <p>
 
 Tiden for at gå fra *k* til 2 gener er.
-$$\scriptsize
+$$
 2N(1-1/k )\approx 2N \textrm{ hvis  }k\textrm{  ikke er alt for lille  }$$
 
 Ventetiden får at gå fra $k$ til $k - 1$ gener er
-$$\scriptsize  \frac{4N}{{k(k-1)}}$$
+$$\frac{4N}{{k(k-1)}}$$
 
 Så tiden for at gå fra 2 gener til 1 gen er
-$$\scriptsize  \frac{4N}{{2(2-1)}}= 2N$$
+$$ \frac{4N}{{2(2-1)}}= 2N$$
 
 <figure>
   <img  align="center" src="DriftCoalescenceMRCA.png" width=5000 title="Coalescence">
@@ -855,7 +853,7 @@ Bestem indavlskoefficienten for afkom af parringer blandt
   <img  align="right" src="DriftIndavlSoeskende.png" width=100 title="Coalescence">
  </figure>
 
-$$\scriptsize
+$$
 \begin{aligned}
 F &=  (1/2)^3 + (1/2)^3\\
  &=  (1/2)^2\\
@@ -875,7 +873,7 @@ F &=  (1/2)^3 + (1/2)^3\\
   <img  align="right" src="DriftIndavlmorbror_niece.png" width=100 title="Coalescence">
  </figure>
 
-$$\scriptsize
+$$
 \begin{aligned}
 F &=  (1/2)^4 + (1/2)^4\\
  &=  (1/2)^3\\
@@ -893,7 +891,7 @@ F &=  (1/2)^4 + (1/2)^4\\
   <img  align="right" src="DriftIndavlSelvbefrugtning.png" width=35 title="Coalescence">
  </figure>
 
-$$\scriptsize
+$$
 \begin{aligned}
 F &=  (1/2)^1\\
  &= 0,5
