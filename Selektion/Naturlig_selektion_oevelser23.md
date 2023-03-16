@@ -159,7 +159,7 @@ ligevægte for allel *A*<sub>1</sub>.
 
 
 **2) Retningsselektion**  $W_{11} \le W_{12} \le W_{12}$
- højst ét lighedstegn
+med højst ét lighedstegn
 <figure>
   <img  align="right" src="SelRetning2.png" width=150 title="Retning2">
  </figure>
@@ -175,7 +175,7 @@ for allel *A*<sub>1</sub>
 *A*<sub>1</sub> lidt fra 1, vil den bevæge sig bort fra
 1.
 
-**3) Underdominans**  $W_{11} >W_{12}$ og  $ W_{22} >W_{12}$  .
+**3) Underdominans**  $W_{11} >W_{12}$ og   $W_{22} >W_{12}$.
 
 <figure>
   <img  align="right" src="SelUnderD.png" width=150 title="Under">
@@ -205,7 +205,7 @@ I dette system vil vi ende op med en allelfrekvens af *A*<sub>1</sub> på
 enten 0 eller 1, afhængigt af, om der startes under eller over den
 ustabile ligevægt.
 
-**4) Overdominans** $W_{11} <W_{12}$ og   $W_{22} <W_{12}$.
+**4) Overdominans**  $W_{11} < W_{12}$ og   $W_{22} <W_{12}$.
 
 <figure>
   <img  align="right" src="SelOverD.png" width=150 title="Over">
@@ -217,7 +217,8 @@ ligevægte*** for polymorfien, men i modsætning til underdominans har vi
 nu en indre ligevægt
 
 $$
-p= \frac{ W_{22}-W_{12}}{W_{11} - W_{12}+W_{22}-W_{12}}:
+p= \frac{W_{22} - W_{12}}
+        {W_{11} - W_{12} + W_{22} - W_{12}}
 $$
 
 som er en ***stabil ligevægt***, dvs, hvis man ændrer frekvensen af allel
