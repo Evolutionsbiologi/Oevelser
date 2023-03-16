@@ -115,7 +115,7 @@ Ligningen kan løses efter *p* (hvor vi husker, at *q* = 1 – *p*).
 
 $$
 \begin{aligned}
-p= \frac{W_{22}-W_{12}}{\scriptsize W_{11} - W_{12}+W_{22}-W_{12}}
+p= \frac{W_{22}-W_{12}}{ W_{11} - W_{12}+W_{22}-W_{12}}
 \end{aligned}
 $$
 
@@ -174,7 +174,7 @@ for allel *A*<sub>1</sub>
 *A*<sub>1</sub> lidt fra 1, vil den bevæge sig bort fra
 1.
 
-**3) Underdominans**  $W_{11} >W_{12}$ og  $\scriptsize W_{22} >W_{12}$  .
+**3) Underdominans**  $W_{11} >W_{12}$ og  $ W_{22} >W_{12}$  .
 
 <figure>
   <img  align="right" src="SelUnderD.png" width=150 title="Under">
@@ -219,7 +219,7 @@ nu en indre ligevægt
 
 $$
 \begin{aligned}
-p= \frac{ W_{22}-W_{12}}{\scriptsize W_{11} - W_{12}+W_{22}-W_{12}}:
+p= \frac{ W_{22}-W_{12}}{W_{11} - W_{12}+W_{22}-W_{12}}:
 \end{aligned}
 $$
 
@@ -300,7 +300,7 @@ Når *p* = 0 er der udelukkende *A*<sub>22</sub> i populationen, som har
 en
 $\overline{W}$ på
 0,4, og når populationen er fikseret for *A*<sub>1</sub>, så er
-$\scriptsize\overline{W}$*=*
+$\overline{W}$*=*
 0,6. Vi ser, at
 $overline{W}$ 
 har
@@ -311,9 +311,9 @@ fitness over tid. Den har sit maksimum i den stabile ligevægt.*** Dette
 gælder også for de øvrige tilfælde, retningsselektion og underdominans.
 
 I tilfældet med underdominans kan det dog hænde, at naturlig selektion
-ikke ender med et ***globalt maksimum*** for $\scriptsize\overline{W}$,
+ikke ender med et ***globalt maksimum*** for $\overline{W}$,
 men kan ende op i et ***lokalt maksimum*** for
-$\scriptsize\overline{W}$.
+$\overline{W}$.
 Lad os tage et simpelt eksempel, hvor de tre genotypers fitness kan
 beskrives som
 
@@ -358,7 +358,7 @@ generations zygoter, er *p*, der med raten *μ* muterer til den skadelige
 allel. Mængden af ny-introducerede skadelige alleler i næste generation
 er så
 
-$$ \scriptsize \Delta q(\mu) = p\mu$$
+$$ Delta q(\mu) = p\mu$$
 
 Samtidigt fjernes der i hver generation skadelige alleler på grund af
 deres bæreres nedsatte overlevelse. Måden, det sker på, er forskelligt
@@ -381,13 +381,12 @@ sammensmeltning af gameter, som resulterer i Hardy-Weinberg
 fjerne det følgende antal skadelige alleler fra populationen
 
 
-$$ \scriptsize \Delta q(sel) = q^2s$$
+$$ \Delta q(sel) = q^2s$$
 
 I ligevægt mellem mutation og selektion må vi have, at
 
 
 $$
-\scriptsize
 \begin{aligned}
 \Delta q(sel) &= q^2s\\
 q^2s&= p\mu  
@@ -396,11 +395,11 @@ $$
 
 Da *p* er tæt på 1, vil vi have
 
-$$ \scriptsize sq^2\approx \mu$$
+$$e sq^2\approx \mu$$
 
 som løses til
 
-$$ \scriptsize q =\sqrt{ \mu/s}$$
+$$ q =\sqrt{ \mu/s}$$
 
 ### Dominante skadelige gener
 Her er de tre genotypers fitness givet med
@@ -420,7 +419,6 @@ samme som nævnt før, medens naturlig selektion i hver generation vil
 fjerne det følgende antal skadelige alleler fra populationen
 
 $$
-\scriptsize
 \begin{aligned}
 \Delta q(sel) &= 2pqs/2\\
 s&= pqs  
@@ -432,11 +430,11 @@ allel. Vi husker på, at *p* er tæt på 1. I ligevægt mellem mutation og
 selektion må vi have, at
 
 
-$$ \scriptsize sq\approx \mu$$
+$$ sq\approx \mu$$
 
 som løses til
 
-$$ \scriptsize q = \mu/s$$
+$$ q = \mu/s$$
 
 Der er stor forskel i allelernes ligevægtsfrekvenser, afhængig om det er
 en recessiv eller en dominant skadelig mutation. Betragt et autosomalt
@@ -444,14 +442,12 @@ locus med en letal allel, dvs. *s* = 1, hvor mutationsraten er
 10<sup>-6</sup>. Her er
 
 $$
-\scriptsize
 \begin{aligned}
-\scriptsize 
-q_{res}&= \scriptsize  \sqrt{\mu/s}\\
-       &= \scriptsize \sqrt{10^{-6}/1}\\
+q_{res}&=  \sqrt{\mu/s}\\
+       &=  \sqrt{10^{-6}/1}\\
        &= 0,001\\
-q_{dom}&= \scriptsize  \mu/s\\
-       &= \scriptsize 10^{-6}/1\\
+q_{dom}&=  \mu/s\\
+       &=  10^{-6}/1\\
        &= 0,000.001
 \end{aligned}
 $$
@@ -501,7 +497,14 @@ gametofytisk selvuforeneligheds-system som beskrevet ovenfor.
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-Det gametofytiske selvuforenelighedssystem er et eksempel på ***selektion på det haploide niveau***. Med dette system, hvor pollen kun kan bestøve en plante, når det bærer en allel i selvuforenelighedssystemet, som ikke findes i denne plante i forvejen, vil der kun findes heterozygote individer. Det er også et eksempel på ***negativ frekvensafhængig selektion***, hvor pollen, der bærer en sjælden allel, stort set kan spire på alle andre planter end moderplanten.
+Det gametofytiske selvuforenelighedssystem er et eksempel på 
+***selektion på det haploide niveau***. Med dette system, hvor 
+pollen kun kan bestøve en plante, når det bærer en allel i 
+selvuforenelighedssystemet, som ikke findes i denne plante i 
+forvejen, vil der kun findes heterozygote individer. Det er 
+også et eksempel på ***negativ frekvensafhængig selektion***, 
+hvor pollen, der bærer en sjælden allel, stort set kan spire 
+på alle andre planter end moderplanten.
 
 </p>
 </details>
