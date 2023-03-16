@@ -175,7 +175,7 @@ for allel *A*<sub>1</sub>
 *A*<sub>1</sub> lidt fra 1, vil den bevæge sig bort fra
 1.
 
-**3) Underdominans**  $W_{11} >W_{12}$ og   $W_{22} >W_{12}$.
+**3) Underdominans** *W*<sub>11</sub> > *W*<sub>12</sub> og *W*<sub>22</sub> > *W*<sub>22</sub>
 
 <figure>
   <img  align="right" src="SelUnderD.png" width=150 title="Under">
@@ -198,19 +198,18 @@ som er en ***ustabil ligevægt***, dvs, hvis man ændrer frekvensen af allel
 *A*<sub>1</sub> lidt fra ligevægten, vil den bevæge sig bort fra den.
 
 I dette system vil vi ende op med en allelfrekvens af *A*<sub>1</sub> på
-enten 0 eller 1, afhængigt af, om der startes under eller over den
+enten 0 eller 1, afhængigt af, om ceder startes under eller over den
 ustabile ligevægt.
 
 
-**4) Overdominans**  $W_{11} <W_{12}$ og   $W_{22} <W_{12}$.
+**4) Overdominans**  *W*<sub>11</sub> < *W*<sub>12</sub> og *W*<sub>22</sub> < *W*<sub>22</sub>
 
 <figure>
   <img  align="right" src="SelOverD.png" width=150 title="Over">
  </figure>
-
 I dette tilfælde har heterozygoten en større fitness end begge
-homozygoter. Der er tale om ***overdominans***. Vi har nu igen ***tre
-ligevægte*** for polymorfien, men i modsætning til underdominans har vi
+homozygoter. Der er tale om *overdominans*. Vi har nu igen *tre
+ligevægte*e for polymorfien, men i modsætning til underdominans har vi
 nu en indre ligevægt
 
 *p* = (*W*<sub>22</sub> - *W*<sub>12</sub>)/(*W*<sub>11</sub> - *W*<sub>12</sub> + *W*<sub>22</sub> - *W*<sub>12</sub>)
@@ -349,7 +348,7 @@ generations zygoter, er *p*, der med raten *μ* muterer til den skadelige
 allel. Mængden af ny-introducerede skadelige alleler i næste generation
 er så
 
-$$ Delta q(\mu) = p\mu$$
+$$ \Delta  q(\mu) = p\mu$$
 
 Samtidigt fjernes der i hver generation skadelige alleler på grund af
 deres bæreres nedsatte overlevelse. Måden, det sker på, er forskelligt
@@ -359,10 +358,10 @@ De to tilfælde gennemgås derfor særskilt.
 ### Recessive skadelige gener 
 Her kan de tre genotypers fitness beskrives som
 
-|                |*A*<sub>11</sub>  |*A*<sub>12</sub> |*A*<sub>22</sub>|
-|----------------|:----------------:|:--------------:|:--------------:|
-|Relativ fitness |1                 | 1              |1 – *s*          |
-|Selektionskoefficient| 0           | 0              | *s*|                      
+|                     |*A*<sub>11</sub>  |*A*<sub>12</sub> |*A*<sub>22</sub>|
+|---------------------|:----------------:|:---------------:|:--------------:|
+|Relativ fitness      |1                 | 1               |1 – *s*         |
+|Selektionskoefficient|0                 | 0               | *s*            |                      
 
 Hvor *s* er selektionskoefficienten mod den recessive homozygote bærer.
 Antag nu, at polymorfien befinder sig i ligevægt mellem mutation og
@@ -702,7 +701,8 @@ Allelen er opstået gennem mutation og har gennem genetisk drift opnået den hø
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-Ligevægtsfrekvensen mellem mutation og naturlig selektion er givet ved  $\scriptsize q=\sqrt{10^{-6}/1}=0,001$
+Ligevægtsfrekvensen mellem mutation og naturlig selektion er givet ved
+	$ q=\sqrt{10^{-6}/1}=0,001$
 
 </p>
 </details>
@@ -783,7 +783,7 @@ d.v.s, at vi har et overskud af heterozygoter og et tilsvarende underskud af hom
 |Overlevende (O)      | 9196     |800    |   4      |10000|
 |Zygoter (Z)          | 9208,32  |775,36 |   16,32  |10000|
 |Absolut fitness (O/Z)|	0,99866	 |1,03178|   0,2450 |     |
-|Relativ fitness      |	0,9679   |1	     |   0,2375 |     |
+|Relativ fitness      |	0,9679   |1	 |   0,2375 |     |
 	
 <figure>
   <img  align="right" src="SelHaldane.png" width=100 title="Haldane">
@@ -811,15 +811,12 @@ hovedsageligt humlebier og kolibrier – foretrak de blå blomster.
 
 1)  Hvad er frekvensen af allelen for hvid? Antag, at der er
     Hardy-Weinberg proportioner i dette system.
+
+
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-$$
-\scriptsize
- q^2 = 7,4 \times10^{-4}  \Leftrightarrow  q =\sqrt{7,4 \times10^{-4}}= 0,0272
-$$
-
-
+$$q^2 = 7,4 \times10^{-4}  \Leftrightarrow  q =\sqrt{7,4 \times10^{-4}}= 0,0272$$
 </p>
 </details>
 
@@ -848,12 +845,7 @@ skal mutationsraten bestemmes.
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-
-$$
-\scriptsize
- \sqrt{\mu/s} \Leftrightarrow \mu = q^2s  =7,4 \times10^{-4}\times 0,376= 2,78\times \times10^{-4}
-$$
-
+$$\sqrt{\mu/s} \Leftrightarrow \mu = q^2s  =7,4 \times10^{-4}\times 0,376= 2,78\times \times10^{-4}$$
 </p>
 </details>
 
