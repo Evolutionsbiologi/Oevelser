@@ -175,6 +175,13 @@ for allel *A*<sub>1</sub>
 *A*<sub>1</sub> lidt fra 1, vil den bevæge sig bort fra
 1.
 
+a
+$
+p= \frac{W_{22} - W_{12}}
+        {W_{11} - W_{12} + W_{22} - W_{12}}
+$
+a
+
 **3) Underdominans**  $W_{11} >W_{12}$ og   $W_{22} >W_{12}$.
 
 <figure>
