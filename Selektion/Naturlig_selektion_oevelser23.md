@@ -187,8 +187,7 @@ med denne relation mellem genotypernes fitness forløber fundamentalt
 anderledes end i de ovennævnte tilfælde. Vi har nu ***tre ligevægte***
 for polymorfien.
 
-0:
-som er ***stabil***, dvs, hvis man ændrer frekvensen af allel
+0:som er ***stabil***, dvs, hvis man ændrer frekvensen af allel
 *A*<sub>1</sub> lidt fra 0, vil den bevæge sig tilbage til 0.
 
 1: som er ***stabil***, dvs, hvis man ændrer frekvensen af allel
@@ -196,9 +195,9 @@ som er ***stabil***, dvs, hvis man ændrer frekvensen af allel
 
 
 $
-p= \frac{W_{22}-W_{12}}{ W_{11} - W_{12}+W_{22}-W_{12}}
+p= \frac{W_{22} - W_{12}}
+        {W_{11} - W_{12} + W_{22} - W_{12}}
 $
-
 som er en ***ustabil ligevægt***, dvs, hvis man ændrer frekvensen af allel
 *A*<sub>1</sub> lidt fra ligevægten, vil den bevæge sig bort fra den.
 
