@@ -26,7 +26,6 @@ ved at indse, at hyppigheden af de forventede heterozygoter er lig med
 én minus hyppigheden af alle homozygoter
 
 $$
-\scriptsize 
 H_E = 1 - \sum_{i=1}^{n} p_i^2
 $$
 
@@ -209,7 +208,6 @@ nye neutrale mutationer introduceres, med sandsynligheden for at de
 fikseres. Dette bliver så
 
 $$
-\scriptsize
 2N\mu \times 1/(2N) =\mu
 $$
 
@@ -234,7 +232,6 @@ populationer. Man kan vise at ***heterozygotien***
 genetisk drift og neutral mutation er givet ved***
 
 $$
-\scriptsize
 H_E = \frac{4N\mu}{1 + 4N\mu}.
 $$
 
@@ -587,7 +584,6 @@ undersøgte variationen i 33 enzymloci ved hjælp af enzymelektroforese.
 ligevægt er givet ved
 
 $$
-\scriptsize
 H_E  = \frac{4N\mu}{1 + 4N\mu}
 $$
 
