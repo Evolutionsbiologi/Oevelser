@@ -204,9 +204,6 @@ ustabile ligevægt.
 
 **4) Overdominans**  $W_{11} <W_{12}$ og   $W_{22} <W_{12}$.
 
-
-**4) Overdominans**  $W_{11} <W_{12}$ og   $W_{22} <W_{12}$.
-
 <figure>
   <img  align="right" src="SelOverD.png" width=150 title="Over">
  </figure>
@@ -216,11 +213,7 @@ homozygoter. Der er tale om ***overdominans***. Vi har nu igen ***tre
 ligevægte*** for polymorfien, men i modsætning til underdominans har vi
 nu en indre ligevægt
 
-$$
-p= \frac{W_{22} - W_{12}}
-        {W_{11} - W_{12} + W_{22} - W_{12}}
-$$
-
+*p* = (*W*<sub>22</sub> - *W*<sub>12</sub>)/(*W*<sub>11</sub> - *W*<sub>12</sub> + *W*<sub>22</sub> - *W*<sub>12</sub>)
 som er en ***stabil ligevægt***, dvs, hvis man ændrer frekvensen af allel
 *A*<sub>1</sub> lidt fra ligevægten, vil den bevæge sig tilbage til den.
 
