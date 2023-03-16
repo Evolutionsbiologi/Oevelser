@@ -202,7 +202,7 @@ enten 0 eller 1, afhængigt af, om der startes under eller over den
 ustabile ligevægt.
 
 
-**3) Underdominans**  $W_{11} >W_{12}$ og   $W_{22} >W_{12}$.
+**4) Overdominans**  $W_{11} <W_{12}$ og   $W_{22} <W_{12}$.
 
 
 **4) Overdominans**  $W_{11} <W_{12}$ og   $W_{22} <W_{12}$.
