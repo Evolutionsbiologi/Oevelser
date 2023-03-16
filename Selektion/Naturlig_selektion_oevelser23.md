@@ -194,10 +194,11 @@ som er ***stabil***, dvs, hvis man ændrer frekvensen af allel
 1: som er ***stabil***, dvs, hvis man ændrer frekvensen af allel
 *A*<sub>1</sub> lidt fra 1, vil den bevæge sig tilbage til 1
 
-$
-p= \frac{W_{22}-W_{12}}{W_{11} - W_{12}+W_{22}-W_{12}}:
-$
 
+$
+p= \frac{W_{22} - W_{12}}
+        {W_{11} - W_{12} + W_{22} - W_{12}}
+$
 som er en ***ustabil ligevægt***, dvs, hvis man ændrer frekvensen af allel
 *A*<sub>1</sub> lidt fra ligevægten, vil den bevæge sig bort fra den.
 
