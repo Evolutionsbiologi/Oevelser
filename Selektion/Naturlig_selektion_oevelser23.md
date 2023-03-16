@@ -62,13 +62,13 @@ $$
 Frekvensen for allel *A*<sub>2</sub> bestemmes tilsvarende. Det hele kan
 sammenfattes i den følgende tabel
 
-|           |*A*<sub>11</sub>|*A*<sub>12</sub>|*A*<sub>22</sub> |Sum          |
-|-----------|:--------------:|:--------------:|:--------------: |:-----------:|
-|Zygoter    |*p*<sup>2</sup> |2*p  q*         |*q*<sup>2</sup>  |1            |
-|Fitness    |*W*<sub>11</sub>|*W*<sub>12</sub>| *W*<sub>22</sub>|             |
-|Overlevende|*p*<sup>2</sup>*W*<sub>11</sub>| 2*pq* *W*<sub>12</sub>|*q*<sup>2</sup>*W*<sub>22</sub>|$\overline{W}$|
-Frekvens    |*p*<sup>2</sup> *W*<sub>11</sub>/$\overline{W}$ | 2*pq* *W*<sub>12</sub> /$\overline{W}$     | *q*<sup>2</sup>*W*<sub>22</sub>/$\overline{W}$   |1      |
-Næste generation | *p’*<sup>2</sup> |2*p’q’*|*q’*<sup>2</sup>| 1|
+|                |*A*<sub>11</sub>|*A*<sub>12</sub>|*A*<sub>22</sub> |Sum          |
+|----------------|:--------------:|:--------------:|:--------------: |:-----------:|
+|Zygoter         |*p*<sup>2</sup> |2*p  q*         |*q*<sup>2</sup>  |1            |
+|Fitness         | *W*<sub>11</sub>|*W*<sub>12</sub>| *W*<sub>22</sub>|             |
+|Overlevende     |*p*<sup>2</sup>*W*<sub>11</sub>| 2*pq* *W*<sub>12</sub>|*q*<sup>2</sup>*W*<sub>22</sub>|$\overline{W}$|
+|Frekvens        |*p*<sup>2</sup>*W*<sub>11</sub>$\overline{W}$ |2*pqW*<sub>12</sub>/$\overline{W}$|*q*<sup>2</sup>*W*<sub>22</sub>/$\overline{W}$ |1      |
+|Næste generation| *p’*<sup>2</sup> |2*p’q’*|*q’*<sup>2</sup>| 1|
 
 Vi kan nu gentage hele processen for at finde allelfrekvenserne i den
 næste generation. Det foregår på tilsvarende vis som angivet foroven.
