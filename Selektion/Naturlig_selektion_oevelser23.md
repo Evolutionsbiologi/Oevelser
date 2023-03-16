@@ -193,7 +193,7 @@ for polymorfien.
 1: som er ***stabil***, dvs, hvis man ændrer frekvensen af allel
 *A*<sub>1</sub> lidt fra 1, vil den bevæge sig tilbage til 1
 
-*p* = (*W*<sub>{22}</sub> - *W*<sub>{12}</sub>)/(*W*<sub>{11}</sub> - *W*<sub>{12}</sub> + *W*<sub>{22}</sub> - *W*<sub>{12}</sub>)
+*p* = (*W*<sub>22</sub> - *W*<sub>12</sub>)/(*W*<sub>11</sub> - *W*<sub>12</sub> + *W*<sub>22</sub> - *W*<sub>12</sub>)
 som er en ***ustabil ligevægt***, dvs, hvis man ændrer frekvensen af allel
 *A*<sub>1</sub> lidt fra ligevægten, vil den bevæge sig bort fra den.
 
