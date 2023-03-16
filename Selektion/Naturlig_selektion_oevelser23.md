@@ -1,14 +1,13 @@
 
 
-# Naturlig Selektion
+## Naturlig Selektion
 
 <br>
 
-## Hans R. Siegismund
+### Hans R. Siegismund
 <br>
 
-## Teoretisk baggrund
-<font size="4"> 
+### Teoretisk baggrund
 Darwin's evolutionsteori fra 1859 var i det væsentlige baseret på
 naturlig selektion, som sker på baggrund af nogle simple observationer:
 
@@ -47,17 +46,16 @@ hyppighederne blandt de overlevende må vi dividere med summen af de
 overlevende,
 
 $$
-\scriptsize
  \overline{W} =p^2W_{11}+2pqW_{12}+q^2W_{12} 
 $$
 
 der sigende betegnes som ***populationens gennemsnitlige fitness***. Man
 kan så finde næste generations frekvens for allel *A*<sub>1</sub> som
+
 $$
-\scriptsize
 \begin{aligned}
-p'&=(p^2W_{11}+2pqW_{12}/2)/\overline{W}\\  
-&= (p^2W_{11}+pqW_{12})/\overline{W}  
+     p'&=(p^2W_{11}+2pqW_{12}/2)/\overline{W}\\  
+       &= (p^2W_{11}+pqW_{12})/\overline{W}  
 \end{aligned}
 $$
 
@@ -68,8 +66,8 @@ sammenfattes i den følgende tabel
 |-----------|:--------------:|:--------------:|:--------------: |:-----------:|
 |Zygoter    |*p*<sup>2</sup> |2*p  q*         |*q*<sup>2</sup>  |1            |
 |Fitness    |*W*<sub>11</sub>|*W*<sub>12</sub>| *W*<sub>22</sub>|             |
-|Overlevende|*p*<sup>2</sup>*W*<sub>11</sub>| 2*pq* *W*<sub>12</sub>|*q*<sup>2</sup>*W*<sub>22</sub>|$\scriptsize\overline{W}$|
-Frekvens    |*p*<sup>2</sup> *W*<sub>11</sub>/$\scriptsize\overline{W}$ | 2*pq* *W*<sub>12</sub> /$\scriptsize\overline{W}$     | *q*<sup>2</sup>*W*<sub>22</sub>/$\scriptsize\overline{W}$   |1      |
+|Overlevende|*p*<sup>2</sup>*W*<sub>11</sub>| 2*pq* *W*<sub>12</sub>|*q*<sup>2</sup>*W*<sub>22</sub>|$\overline{W}$|
+Frekvens    |*p*<sup>2</sup> *W*<sub>11</sub>/$\overline{W}$ | 2*pq* *W*<sub>12</sub> /$\overline{W}$     | *q*<sup>2</sup>*W*<sub>22</sub>/$\overline{W}$   |1      |
 Næste generation | *p’*<sup>2</sup> |2*p’q’*|*q’*<sup>2</sup>| 1|
 
 Vi kan nu gentage hele processen for at finde allelfrekvenserne i den
@@ -109,7 +107,6 @@ for enten den ene eller den anden allel. Den tredje mulige ligevægt
 eksisterer, hvis ligningen
 
 $$
-\scriptsize
 \begin{aligned}
 p(W_{11} - W_{12}) -q(W_{22}-W_{12})=0
 \end{aligned}
@@ -117,8 +114,8 @@ $$
 
 har en løsning med allelfrekvenserne i intervallet fra 0 til 1.
 Ligningen kan løses efter *p* (hvor vi husker, at *q* = 1 – *p*).
+
 $$
-\scriptsize
 \begin{aligned}
 p= \frac{\scriptsize W_{22}-W_{12}}{\scriptsize W_{11} - W_{12}+W_{22}-W_{12}}
 \end{aligned}
@@ -127,12 +124,12 @@ $$
 Der findes to løsninger med allelfrekvenserne i intervallet mellem 0 og
 1, nemlig én hvis
 
-$\scriptsize W_{11} > W_{12}$  og $\scriptsize W_{22} > W_{12}$, 
+$W_{11} > W_{12}$  og $ W_{22} > W_{12}$, 
 
 det vil sige, at heterozygoten har mindre fitness end begge homozygoter.
 En anden mulighed er, hvis
 
-$\scriptsize W_{11} < W_{12}$  og $\scriptsize W_{22} < W_{12}$, 
+$W_{11} < W_{12}$  og $ W_{22} < W_{12}$, 
 
 det vil sige, at heterozygoten har større fitness end begge homozygoter.
 Vi vender tilbage til disse løsninger senere.
@@ -162,7 +159,7 @@ ligevægte for allel *A*<sub>1</sub>.
 *A*<sub>1</sub> lidt fra 1, vil den bevæge sig tilbage til 1.
 
 
-**2) Retningsselektion**  $\scriptsize W_{11} \le W_{12} \le W_{12}$
+**2) Retningsselektion**  $W_{11} \le W_{12} \le W_{12}$
  højst ét lighedstegn
 <figure>
   <img  align="right" src="SelRetning2.png" width=150 title="Retning2">
@@ -179,7 +176,7 @@ for allel *A*<sub>1</sub>
 *A*<sub>1</sub> lidt fra 1, vil den bevæge sig bort fra
 1.
 
-**3) Underdominans**  $\scriptsize W_{11} >W_{12}$ og  $\scriptsize W_{22} >W_{12}$  .
+**3) Underdominans**  $W_{11} >W_{12}$ og  $\scriptsize W_{22} >W_{12}$  .
 
 <figure>
   <img  align="right" src="SelUnderD.png" width=150 title="Under">
@@ -199,9 +196,8 @@ som er ***stabil***, dvs, hvis man ændrer frekvensen af allel
 *A*<sub>1</sub> lidt fra 1, vil den bevæge sig tilbage til 1
 
 $$
-\scriptsize
 \begin{aligned}
-p= \frac{\scriptsize W_{22}-W_{12}}{\scriptsize W_{11} - W_{12}+W_{22}-W_{12}}:
+p= \frac{W_{22}-W_{12}}{W_{11} - W_{12}+W_{22}-W_{12}}:
 \end{aligned}
 $$
 
@@ -212,7 +208,7 @@ I dette system vil vi ende op med en allelfrekvens af *A*<sub>1</sub> på
 enten 0 eller 1, afhængigt af, om der startes under eller over den
 ustabile ligevægt.
 
-**4) Overdominans** $\scriptsize W_{11} <W_{12}$ og  $\scriptsize W_{22} <W_{12}$  .
+**4) Overdominans** $W_{11} <W_{12}$ og  $W_{22} <W_{12}$  .
 
 <figure>
   <img  align="right" src="SelOverD.png" width=150 title="Over">
@@ -224,7 +220,6 @@ ligevægte*** for polymorfien, men i modsætning til underdominans har vi
 nu en indre ligevægt
 
 $$
-\scriptsize
 \begin{aligned}
 p= \frac{\scriptsize W_{22}-W_{12}}{\scriptsize W_{11} - W_{12}+W_{22}-W_{12}}:
 \end{aligned}
@@ -251,11 +246,11 @@ Derfor kan vi normere værdierne, hvor vi sætter den højeste værdi til 1.
 I det nævnte tilfælde bliver værdierne så ½, 1 og ½. Generelt kan vi
 udtrykke fitnessværdierne som i følgende tabel
 
-| |*A*<sub>11</sub>|*A*<sub>12</sub>|*A..*<sub>22</sub>|
-|-|:--------------:|:--------------:|:----------------:|
-Fitness            |*W*<sub>11</sub>| *W*<sub>12</sub> |*W*<sub>22</sub> |
-Relativ fitness |1 – *s*                     |1                               | 1 – *t*                     |
-Selektionskoefficient |*s*                | 0                              | *t*                           |
+|Genotype             |*A*<sub>11</sub>|*A*<sub>12</sub> |*A..*<sub>22</sub>|
+|---------------------|:--------------:|:---------------:|:----------------:|
+|Fitness              |*W*<sub>11</sub>| *W*<sub>12</sub>|*W*<sub>22</sub>  |
+|Relativ fitness      |1 – *s*         |1                | 1 – *t*          |
+|Selektionskoefficient|*s*             | 0               | *t*              |
 
 Fitnessværdiernes difference fra 1 betegner vi som
 ***selektionskoefficent***. Vi kan derfor udtrykke ligevægtspunktet for
