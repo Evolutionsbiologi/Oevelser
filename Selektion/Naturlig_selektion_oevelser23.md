@@ -126,7 +126,7 @@ det vil sige, at heterozygoten har mindre fitness end begge homozygoter.
 En anden mulighed er, hvis
 
 $W_{11} < W_{12}$  
-og 
+og
 $W_{22} < W_{12}$, 
 
 det vil sige, at heterozygoten har større fitness end begge homozygoter.
