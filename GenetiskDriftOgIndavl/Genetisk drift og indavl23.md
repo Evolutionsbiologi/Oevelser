@@ -729,14 +729,16 @@ et stort antal hunner. Antag, at antallet af hunner, *N<sub>f</sub>*, er
     *N<sub>m</sub>*)? Divider tæller og nævner med *N<sub>f</sub>*, og
     husk på at *N<sub>m</sub>*/*N<sub>f</sub>* → 0 når antallet af
     hunner er meget større end antallet af hanner.
+
 $$\frac{ 4N_m}{1+ N_m/N_f}
 $$
+
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
 $$\begin{aligned}N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
     &= \frac{ 4N_m}{1+ N_m/N_f}\\
-    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty\\
+    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty
 \end{aligned}$$
 
 </p>
