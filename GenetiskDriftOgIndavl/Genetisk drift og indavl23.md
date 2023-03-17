@@ -728,7 +728,6 @@ et stort antal hunner. Antag, at antallet af hunner, *N<sub>f</sub>*, er
     husk på at *N<sub>m</sub>*/*N<sub>f</sub>* → 0 når antallet af
     hunner er meget større end antallet af hanner.
 
-
 $$
   \begin{aligned}N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
     &= \frac{ 4N_m}{1+ N_m/N_f}\\
@@ -739,13 +738,6 @@ $$
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-$$
-  \begin{aligned}N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
-    &= \frac{ 4N_m}{1+ N_m/N_f}\\
-    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty\\
-\end{aligned}
-$$
- 
   <figure>
   <img  align="center" src="DriftIndavlNeSkaevKoensratio.png" width=250 title="NeSkaevKoensratio">
  </figure>
@@ -753,17 +745,7 @@ $$
 </p>
 </details>
 
-<details><summary>Klik for at se svaret.</summary>
-<p>
-
-$$\begin{aligned}
-N_e &= \frac{4N_f\times N_m}{N_f+ N_m}
-\end{aligned}$$
-</p>
-</details>
-
-
-1)  Hvilken effekt har den hårde kunstige selektion på kort sigt?
+2)  Hvilken effekt har den hårde kunstige selektion på kort sigt?
 <details><summary>Klik for at se svaret.</summary>
 <p>
 På kort sigt vil den hårde kunstige selektion virke meget stærk. Man vil kunne 
