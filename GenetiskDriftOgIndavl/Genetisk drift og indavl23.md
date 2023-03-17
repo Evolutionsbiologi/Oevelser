@@ -66,15 +66,6 @@ Hardy-Weinberg proportioner i den enkelte population* – i modsætning til
 genetisk drift, hvor der er Hardy-Weinberg proportioner i den enkelte
 population.
 
-Vi skal i det følgende udlede, hvordan man beregner indavlskoefficienten
-*F* for tilfældet hvor to individer, der er mere beslægtede med hinanden
-end to tilfældigt udvalgte individer. Har et individ modtaget to kopier
-af samme gen fra en stamfader (m/k), betragtes disse gener som værende
-identiske ved arv. Kender man individets stamtavle, er det muligt at
-beregne indavlskoefficienten. Her vil vi som eksempel beregne
-indavlskoefficienten hos et barn, hvis forældre er fætter og kusine
-(Figur A-C). I stamtavler får kvinder en cirkel,  medens mænd får
-en firkant. Er kønnet ukendt, angives det som en firkant, der er drejet 45 grader.
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
@@ -85,6 +76,18 @@ N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
 \end{aligned}$$
 </p>
 </details>
+
+
+Vi skal i det følgende udlede, hvordan man beregner indavlskoefficienten
+*F* for tilfældet hvor to individer, der er mere beslægtede med hinanden
+end to tilfældigt udvalgte individer. Har et individ modtaget to kopier
+af samme gen fra en stamfader (m/k), betragtes disse gener som værende
+identiske ved arv. Kender man individets stamtavle, er det muligt at
+beregne indavlskoefficienten. Her vil vi som eksempel beregne
+indavlskoefficienten hos et barn, hvis forældre er fætter og kusine
+(Figur A-C). I stamtavler får kvinder en cirkel,  medens mænd får
+en firkant. Er kønnet ukendt, angives det som en firkant, der er drejet 45 grader.
+
 <figure>
   <img  align="center" src="DriftDriftIndavl.png" width=650 title="Drift og indavl">
  </figure>
