@@ -11,7 +11,7 @@ afsnittet danner baggrund for forelæsningen om dette
 emne.
 
 <figure>
-  <img  align="right" src="DriftIndavl.png" width=350 title="Driftn">
+  <img  align="right" src="DriftIndavl.png" width=350 title="Indavl">
  </figure>
 
 Naturlige populationer har en endelig størrelse. Dette har til følge, at
@@ -38,7 +38,7 @@ specifikt individ. Ved genetisk drift ser man længere tilbage i tiden og
 fokuserer på hele populationen. Se den følgende figur.
 
 <figure>
-  <img  align="center" src="DriftDriftIndavl.png" width=650 title="Driftn">
+  <img  align="center" src="DriftDriftIndavl.png" width=650 title="Drift og indavl">
  </figure>
 
 Begge processer kan godt foregå samtidigt. Vi kan have en specifik
@@ -131,11 +131,9 @@ $$ \overline F = \sum_i c_iF_i.$$
 
 ## Genetisk drift
 
-
 <figure>
   <img  align="right" src="DriftSimul.png" width=320 title="Indavl">
  </figure>
-
 I naturlige populationer forekommer der på grund af deres endelige
 størrelse genetisk drift, hvor den genetiske sammensætning i
 populationen ændres fra generation til generation på grund af tilfældige
