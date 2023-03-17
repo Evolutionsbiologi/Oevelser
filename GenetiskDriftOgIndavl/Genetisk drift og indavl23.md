@@ -693,17 +693,13 @@ til
  
 
 1)  Beregn populationens gennemsnitsstørrelse over de 6 generationer.
-<figure>
-  <img  align="center" src="DriftAveMuskox.png" width=250 title="Gennemsnit">
- </figure>
-<figure>
-  <img  align="right" src="DriftMuskox.jpg" width=250 title="Moskusokser">
- </figure>
-
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
+  <figure>
+  <img  align="right" src="DriftMuskox.jpg" width=250 title="Moskusokser">
+ </figure>
   
  <figure>
   <img  align="left" src="DriftAveMuskox.png" width=250 title="Gennemsnit">
