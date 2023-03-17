@@ -782,7 +782,6 @@ Betragt den følgende genealogi af *k* = 10 gener.
   <img  align="center" src="DriftCoalescence.jpg" width=350 title="Coalescence">
  </figure>
 
-
 1)  Angiv med en pil tidens retning.
 
 2)  Find coalescent-punktet for genkopierne A, B, C og D.
@@ -798,8 +797,6 @@ Betragt den følgende genealogi af *k* = 10 gener.
 </p>
 </details>
 
-
-
 4)  Bliver ventetiderne for coalescent-hændelser kortere eller længere
     jo mere tilbage i tiden man går?
 
@@ -807,7 +804,7 @@ Betragt den følgende genealogi af *k* = 10 gener.
 <p>
 
 De bliver længere. Ventetiden får at gå fra $k$ til $k - 1$ gener er
-$$  \frac{4N}{{k(k-1)}}$$
+$$\frac{4N}{{k(k-1)}}$$
 </p>
 </details>
 
@@ -823,14 +820,13 @@ $$  \frac{4N}{{k(k-1)}}$$
 <p>
 
 Tiden for at gå fra *k* til 2 gener er.
-$$
-2N(1-1/k )\approx 2N \textrm{ hvis  }k\textrm{  ikke er alt for lille  }$$
+$$2N(1-1/k )\approx 2N \textrm{ hvis  }k\textrm{  ikke er alt for lille}$$
 
 Ventetiden får at gå fra $k$ til $k - 1$ gener er
 $$\frac{4N}{{k(k-1)}}$$
 
 Så tiden for at gå fra 2 gener til 1 gen er
-$$ \frac{4N}{{2(2-1)}}= 2N$$
+$$\frac{4N}{{2(2-1)}}= 2N$$
 
 <figure>
   <img  align="center" src="DriftCoalescenceMRCA.png" width=5000 title="Coalescence">
