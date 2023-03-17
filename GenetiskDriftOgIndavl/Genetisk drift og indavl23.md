@@ -36,19 +36,6 @@ De to processer har et forskelligt tidsperspektiv. Ved indavl kigger man
 kun nogle få generationer tilbage i tiden. Desuden fokuserer man på et
 specifikt individ. Ved genetisk drift ser man længere tilbage i tiden og
 fokuserer på hele populationen. Se den følgende figur.
-<details><summary>Klik for at se svaret.</summary>
-<p>
-
-$$\begin{aligned}
-N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
-    &= \frac{ 4N_m}{1+ N_m/N_f}\\
-    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty
-\end{aligned}$$
-</p>
-</details>
-<figure>
-  <img  align="center" src="DriftDriftIndavl.png" width=650 title="Drift og indavl">
- </figure>
 
 Begge processer kan godt foregå samtidigt. Vi kan have en specifik
 population, hvor vi kan beregne, hvorledes identiteten ved arv er steget
@@ -88,6 +75,19 @@ beregne indavlskoefficienten. Her vil vi som eksempel beregne
 indavlskoefficienten hos et barn, hvis forældre er fætter og kusine
 (Figur A-C). I stamtavler får kvinder en cirkel,  medens mænd får
 en firkant. Er kønnet ukendt, angives det som en firkant, der er drejet 45 grader.
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+$$\begin{aligned}
+N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
+    &= \frac{ 4N_m}{1+ N_m/N_f}\\
+    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty
+\end{aligned}$$
+</p>
+</details>
+<figure>
+  <img  align="center" src="DriftDriftIndavl.png" width=650 title="Drift og indavl">
+ </figure>
 
 <figure>
   <img  align="center" src="DriftIndavlBeregning.png" width=650 title="Indavl">
