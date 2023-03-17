@@ -853,6 +853,7 @@ Bestem indavlskoefficienten for afkom af parringer blandt
   <img  align="right" src="DriftIndavlSoeskende.png" width=100 title="Coalescence">
  </figure>
 
+ *F* = (1/2)<sup>3</sup> + (1/2)<sup>3</sup> = (1/2)(1/2)<sup>2</sup> = 0,25
 $$\begin{aligned}
 F &=  (1/2)^3 + (1/2)^3\\
   &=  (1/2)^2\\
