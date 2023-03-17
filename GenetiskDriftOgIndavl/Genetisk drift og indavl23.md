@@ -70,6 +70,17 @@ Hardy-Weinberg proportioner i den enkelte population* – i modsætning til
 genetisk drift, hvor der er Hardy-Weinberg proportioner i den enkelte
 population.
 
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+$$\begin{aligned}
+N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
+    &= \frac{ 4N_m}{1+ N_m/N_f}\\
+    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty
+\end{aligned}$$
+</p>
+</details>
+
 Vi skal i det følgende udlede, hvordan man beregner indavlskoefficienten
 *F* for tilfældet hvor to individer, der er mere beslægtede med hinanden
 end to tilfældigt udvalgte individer. Har et individ modtaget to kopier
@@ -100,17 +111,6 @@ sandsynlighed hvormed IV-1 bliver identisk ved arv med gener fra I-1 er
 
 *F* = (1/2)<sup>6</sup> + (1/2)<sup>6</sup> = 2 (1/2)<sup>6</sup> =
 (1/2)<sup>5</sup>.
-
-<details><summary>Klik for at se svaret.</summary>
-<p>
-
-$$\begin{aligned}
-N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
-    &= \frac{ 4N_m}{1+ N_m/N_f}\\
-    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty
-\end{aligned}$$
-</p>
-</details>
 
 Vi ser her, at man blot behøver at tælle antallet af personer i kæden,
 *n*, der forbinder en person over en stamfader; personen tælles dog ikke
