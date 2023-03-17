@@ -50,16 +50,6 @@ end to tilfældigt udvalgte individer i populationen. Identiteten gennem
 arv kvantificeres ved hjælp af indavlskoefficienten *F*. Denne defineres
 som sandsynligheden for, at et individ i et locus bærer to gener, der er
 identiske ved arv, så
-<details><summary>Klik for at se svaret.</summary>
-<p>
-
-$$\begin{aligned}
-N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
-    &= \frac{ 4N_m}{1+ N_m/N_f}\\
-    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty
-\end{aligned}$$
-</p>
-</details>
 
 $$<0 \leq F \leq 1$$
 
@@ -98,7 +88,16 @@ I Figur B er stamtavlen tegnet forenklet og indeholder kun de individer,
 som er af betydning for indavlen af individ IV-1. Betegnelserne Ai, Aj,
 Am og An står for vilkårlige alleler, som ikke er identiske ved arv. De
 kan godt være ens alleler.
+<details><summary>Klik for at se svaret.</summary>
+<p>
 
+$$\begin{aligned}
+N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
+    &= \frac{ 4N_m}{1+ N_m/N_f}\\
+    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty
+\end{aligned}$$
+</p>
+</details>
 Barnet i fjerde generation (Figur C: IV-1) modtager to kopier af allelen
 Ai, såfremt denne allel bliver videregivet langs begge mulige veje, som
 forbinder dette barn med I-1. Under antagelse af at Mendel’s første lov
