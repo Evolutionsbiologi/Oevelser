@@ -690,14 +690,14 @@ til
 | 6          | 4000                 |
 
 
-<figure>
-  <img  align="right" src="DriftMuskox.jpg" width=250 title="Moskusokser">
- </figure>
  
 
 1)  Beregn populationens gennemsnitsstørrelse over de 6 generationer.
 <figure>
   <img  align="center" src="DriftAveMuskox.png" width=250 title="Gennemsnit">
+ </figure>
+<figure>
+  <img  align="right" src="DriftMuskox.jpg" width=250 title="Moskusokser">
  </figure>
 
 
