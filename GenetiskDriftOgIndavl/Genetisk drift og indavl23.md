@@ -4,6 +4,15 @@
 
 ### Teoretisk baggrund
 
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+$$\begin{aligned}
+N_e &= \frac{4N_f\times N_m}{N_f+ N_m}
+\end{aligned}$$
+</p>
+</details>
+
 De følgende noter har til formål at introducere begreberne *indavl*,
 *genetisk drift* samt *populationsstruktur*. De to førstnævnte begreber
 analyseres i opgaverne til denne øvelse, medens *populationsstruktur*
