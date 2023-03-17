@@ -691,9 +691,7 @@ til
 
 1)  Beregn populationens gennemsnitsstørrelse over de 6 generationer.
 <details><summary>Klik for at se svaret.</summary>
-<p>
-
-$$\begin{aligned}
+<p>$$\begin{aligned}
 \overline{N} &= \sum_{i=1}^6 N_i/6\\
              &=(27+150+834+2400+3500+4000)/6\\
              &=1819
