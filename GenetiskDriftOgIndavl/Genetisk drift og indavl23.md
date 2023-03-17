@@ -75,16 +75,6 @@ Hardy-Weinberg proportioner i den enkelte population* – i modsætning til
 genetisk drift, hvor der er Hardy-Weinberg proportioner i den enkelte
 population.
 
-<details><summary>Klik for at se svaret.</summary>
-<p>
-
-$$\begin{aligned}
-N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
-    &= \frac{ 4N_m}{1+ N_m/N_f}\\
-    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty
-\end{aligned}$$
-</p>
-</details>
 Vi skal i det følgende udlede, hvordan man beregner indavlskoefficienten
 *F* for tilfældet hvor to individer, der er mere beslægtede med hinanden
 end to tilfældigt udvalgte individer. Har et individ modtaget to kopier
