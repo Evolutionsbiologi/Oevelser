@@ -47,18 +47,6 @@ på grund af genetisk drift. I denne population kan der så desuden
 forekomme tilfælde, hvor forældre til et afkom er mere beslægtet med
 hinanden end to tilfældigt udvalgte individer.
 
-<details><summary>Klik for at se svaret.</summary>
-<p>
-
-$$\begin{aligned}
-N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
-    &= \frac{ 4N_m}{1+ N_m/N_f}\\
-    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty
-\end{aligned}$$
-</p>
-</details>
-
-
 ##   Indavl
 
 Som nævnt, så vil identiteten gennem arv øges i en population, hvis to
@@ -138,6 +126,16 @@ princip som beskrevet foroven.
 En populations indavlskoefficient *F* bestemmes ved at tage
 gennemsnittet af de forskellige parringstypers indavlskoefficienter
 *F<sub>i</sub>* vægtet med deres frekvens *c<sub>i</sub>* i populationen
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+$$\begin{aligned}
+N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
+    &= \frac{ 4N_m}{1+ N_m/N_f}\\
+    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty
+\end{aligned}$$
+</p>
+</details>
 
 $$ \overline F = \sum_i c_iF_i.$$
 
