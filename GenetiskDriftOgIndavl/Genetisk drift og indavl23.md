@@ -460,7 +460,7 @@ mutationsraterne sættes til at være 0. Start med ens frekvenser af de to
 alleler.
 
 Start med at sætte “Population Size” til 1000 og lad antallet af
-generationer være 100. (
+generationer være 100.
 
 1)  Gentag denne kørsel 5 gange. Hvad sker der med allelfrekvenserne i
     de enkelte populationer?
