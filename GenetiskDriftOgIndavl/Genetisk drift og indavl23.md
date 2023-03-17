@@ -62,9 +62,9 @@ Denne form for indavl medfører en afvigelse fra Hardy-Weinberg
 proportioner, hvor genotypefordelingen i den enkelte population bliver
 
 
-| Genotype | *A*<sub>1</sub>*A*<sub>1</sub> | *A*<sub>1</sub>*A*<sub>2</sub> | *A*<sub>2</sub>*A*<sub>2</sub> |
-|----------|:------------------------------:|:--------------------------------:|:-------------------:|
- Frekvens | *p*<sup>2</sup> + *Fpq*      | 2*pq*(1 − *F*) | *q*<sup>2</sup> + *Fpq* |
+| Genotype | *A*<sub>1</sub>*A*<sub>1</sub> | *A*<sub>1</sub>*A*<sub>2</sub>| *A*<sub>2</sub>*A*<sub>2</sub> |
+|----------|:------------------------------:|:-----------------------------:|:------------------------------:|
+ Frekvens  | *p*<sup>2</sup> + *Fpq*        | 2*pq*(1 − *F*)                | *q*<sup>2</sup> + *Fpq*        |
 
 Her observeres et *tydeligt overskud af homozygoter i forhold til
 Hardy-Weinberg proportioner i den enkelte population* – i modsætning til
@@ -853,11 +853,10 @@ Bestem indavlskoefficienten for afkom af parringer blandt
   <img  align="right" src="DriftIndavlSoeskende.png" width=100 title="Coalescence">
  </figure>
 
-$$
-\begin{aligned}
+$$\begin{aligned}
 F &=  (1/2)^3 + (1/2)^3\\
- &=  (1/2)^2\\
- &= 0,25
+  &=  (1/2)^2\\
+  &= 0,25
 \end{aligned}$$
 
 </p>
