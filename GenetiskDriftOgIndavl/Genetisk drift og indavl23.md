@@ -689,9 +689,6 @@ til
 | 5          | 3500                 |
 | 6          | 4000                 |
 
-
- 
-
 1)  Beregn populationens gennemsnitsstørrelse over de 6 generationer.
 
 <details><summary>Klik for at se svaret.</summary>
@@ -721,6 +718,13 @@ til
 Det er generationerne med de ***små***  størrelser, der har den største indflydelse på den effektive populationsstørrelse.
 </p>
 </details>
+
+
+
+$$\begin{aligned}N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
+    &= \frac{ 4N_m}{1+ N_m/N_f}\\
+    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty\\
+\end{aligned}$$
 
 ### Opgave 5
 
