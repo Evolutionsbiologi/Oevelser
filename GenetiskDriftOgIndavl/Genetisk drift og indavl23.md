@@ -22,6 +22,17 @@ for enten den ene eller den anden allel, hvilket er illustreret i
 figuren. (I dette eksempel indgår kun to forskellige alleler.) Når
 generne ikke er identiske ved arv, kan de være homozygote for enten den
 ene eller den anden allel[^2]. De kan også være heterozygote.
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+$$\begin{aligned}
+N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
+    &= \frac{ 4N_m}{1+ N_m/N_f}\\
+    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty
+\end{aligned}$$
+</p>
+</details>
+
 
 Der er to processer, som bidrager til at et locus i et individ kan blive
 identisk ved arv:
@@ -56,17 +67,6 @@ som sandsynligheden for, at et individ i et locus bærer to gener, der er
 identiske ved arv, så
 
 $$<0 \leq F \leq 1$$
-
-<details><summary>Klik for at se svaret.</summary>
-<p>
-
-$$\begin{aligned}
-N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
-    &= \frac{ 4N_m}{1+ N_m/N_f}\\
-    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty
-\end{aligned}$$
-</p>
-</details>
 
 Denne form for indavl medfører en afvigelse fra Hardy-Weinberg
 proportioner, hvor genotypefordelingen i den enkelte population bliver
