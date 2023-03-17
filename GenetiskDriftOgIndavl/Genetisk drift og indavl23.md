@@ -696,17 +696,8 @@ til
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
-  <figure>
-  <img  align="left" src="DriftMuskox.jpg" width=250 title="Moskusokser">
- </figure>
-
  <figure>
-  <img  align="left" src="DriftBinomial.png" width=250 title="Bin">
- </figure>
-
- <figure>
-  <img  align="left" src="DriftHarmAveMuskox.png" width=250 title="Harmonisk gennemsnit">
+  <img  align="left" src="DriftHarmAveMuskox.png" width=350 title="Harmonisk gennemsnit">
  </figure>
 
 </p>
