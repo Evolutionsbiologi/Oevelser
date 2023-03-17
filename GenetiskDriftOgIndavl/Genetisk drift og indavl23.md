@@ -291,6 +291,19 @@ $${N_{e}} = \ \frac{4N_f\times N_m}{N_f+N_m}$$
 hvor *N<sub>f</sub>* og *N<sub>m</sub>* er henholdsvis antallet af
 hunner og hanner i populationen.
 
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+$$\begin{aligned}
+N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
+    &= \frac{ 4N_m}{1+ N_m/N_f}\\
+    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty
+\end{aligned}$$
+</p>
+</details>
+
+
+
 ## Populationsstruktur
 
 Betragt en stor population, der deles op i mange populationer, hver med
@@ -421,17 +434,6 @@ Disse øvelser har deres fokus på
   kønsratioen afviger fra 1 : 1
 - simple egenskaber af coalescence processen
 - at beregne indavlskoefficienter fra stamtavler
-
-<details><summary>Klik for at se svaret.</summary>
-<p>
-
-$$\begin{aligned}
-N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
-    &= \frac{ 4N_m}{1+ N_m/N_f}\\
-    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty
-\end{aligned}$$
-</p>
-</details>
 
 
 ###  Opgave 1
