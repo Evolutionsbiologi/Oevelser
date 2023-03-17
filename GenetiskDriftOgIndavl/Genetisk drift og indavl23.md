@@ -698,7 +698,7 @@ til
 <p>
 
   <figure>
-  <img  align="right" src="DriftMuskox.jpg" width=250 title="Moskusokser">
+  <img  align="left" src="DriftMuskox.jpg" width=250 title="Moskusokser">
  </figure>
   
  <figure>
