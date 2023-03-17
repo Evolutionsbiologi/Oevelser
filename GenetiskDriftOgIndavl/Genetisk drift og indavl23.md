@@ -545,8 +545,6 @@ Det på være 0,8.  Populationer har ingen hukommelse.
 </p>
 </details>
 
-
-
 ### Opgave 2
 
 <figure>
@@ -589,8 +587,6 @@ Figuren nedenunder illustrerer genetisk drift i en population med en størrelse 
 Ja, der er tale om underdominans, hvor heterozygoten har mindre fitness end begge homozygoter.
 </p>
 </details>
-
-
 
 ### Opgave 3
 
@@ -690,8 +686,7 @@ til
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-$$
-\begin{aligned}
+$$\begin{aligned}
 \overline{N} &= \sum_{i=1}^6 N_i/6\\
 &=(27+150+834+2400+3500+4000)/6\\
 &=1819
@@ -705,8 +700,7 @@ $$
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-$$
-\begin{aligned}
+$$\begin{aligned}
 \frac{1}{N_e} &= \frac{1}{6}\sum_{i=1}^6 \frac{1}{N_i}\\
 &=\left(\frac{1}{27}+\frac{1}{150}+\frac{1}{834}+\frac{1}{2400}+\frac{1}{3500}+\frac{1}{4000}\right)/6\\
 &= 0,007634\\
