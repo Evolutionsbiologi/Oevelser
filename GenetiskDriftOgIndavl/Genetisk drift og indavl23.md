@@ -132,7 +132,7 @@ $$ \overline F = \sum_i c_iF_i.$$
 ## Genetisk drift
 
 <figure>
-  <img  align="right" src="DriftSimul.png" width=320 title="Indavl">
+  <img  align="right" src="DriftSimul.png" width=400 title="Indavl">
  </figure>
 I naturlige populationer forekommer der på grund af deres endelige
 størrelse genetisk drift, hvor den genetiske sammensætning i
