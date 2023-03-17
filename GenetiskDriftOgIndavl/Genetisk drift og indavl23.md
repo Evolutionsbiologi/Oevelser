@@ -371,7 +371,8 @@ Hardy-Weinberg-proportioner i hver af subpopulationerne:
 | Totalpopulation, obs | 58                           | 84                           | 58                           | 200 |
 | Totalpopulation, HW  | 50                           | 100                          | 50                           | 200 |
 
-Her indses, at $ \overline{H}_{S}$ er 0,42 og at *H<sub>T</sub>* er 0,5.
+Her indses, at 
+$\overline{H}_{S}$ er 0,42 og at *H<sub>T</sub>* er 0,5.
 Derfor kan vi beregne Wright’s F-statistik til at være
 
 
