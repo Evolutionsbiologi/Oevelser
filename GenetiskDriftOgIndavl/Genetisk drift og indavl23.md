@@ -605,6 +605,7 @@ fitness-værdier for de tre genotyper i fire autosomale loci:
 |II      | 1              | 1               | 1    |
 |III     | 0,8            | 1               | 0,8  |
 |IV      | 1,1            | 1               | 0,9  |
+
 Han simulerede 10 populationer for hvert scenarie i 50 generationer.
 
 1)  Hvilken form for naturlig selektion er der tale om i de fire
@@ -653,10 +654,8 @@ Her er
 
 Dvs., at det er naturlig selektion, der afgør udfaldet. Genetisk drift spiller ingen stor rolle.
 
-
 </p>
 </details>
-
 
 <figure>
   <img  align="center" src="Drift4Simul.png" width=600 title="Indavl">
@@ -665,7 +664,7 @@ Dvs., at det er naturlig selektion, der afgør udfaldet. Genetisk drift spiller 
 ### Opgave 4
 
 <figure>
-  <img  align="right" src="DriftMuskox.jpg" width=250 title="Muskox">
+  <img  align="right" src="DriftMuskox.jpg" width=250 title="Moskusokser">
  </figure>
  
 I tiden fra 1961 til 1965 foretog Christian Vibe fra Zoologisk Museum i
@@ -677,7 +676,6 @@ dyr[^6], af hvilke der årligt kan nedlægges en del individer.
 Generationstiden for moskusoksen i dette område er cirka otte år, og
 tætheden i de første fem generationer er opgjort
 til
-
 
 | Generation | Populationsstørrelse |
 | :--------: | :------------------: |
@@ -753,20 +751,19 @@ N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
 </p>
 </details>
 
-
-
-
 1)  Hvilken effekt har den hårde kunstige selektion på kort sigt?
 <details><summary>Klik for at se svaret.</summary>
 <p>
-På kort sigt vil den hårde kunstige selektion virke meget stærk. Man vil kunne “flytte” en karakters middelværdi hurtigt.
+På kort sigt vil den hårde kunstige selektion virke meget stærk. Man vil kunne 
+  “flytte” en karakters middelværdi hurtigt.
 </p>
 </details>
 
 3)  Hvilken effekt kan det have på lang sigt?
 <details><summary>Klik for at se svaret.</summary>
 <p>
-På lang sigt forventer vi, at der mistes en betydelig mængde genetisk variation pga. genetisk drift. Dette reducerer effekten af kunstig selektion.
+På lang sigt forventer vi, at der mistes en betydelig mængde genetisk 
+variation pga. genetisk drift. Dette reducerer effekten af kunstig selektion.
 </p>
 </details>
 
@@ -806,10 +803,8 @@ $$\frac{4N}{{k(k-1)}}$$
 5)  Hvor lang tid tager det for at gå fra *k*  gener til  to gener?
     (Forventet tid)
 
-
 6)  Hvor lang tid tager det for de sidste to gener at finde sammen?
     (Forventet tid)
-
 
 <details><summary>Klik for at se svaret for 5 og 6.</summary>
 <p>
@@ -830,8 +825,6 @@ $$\frac{4N}{{2(2-1)}}= 2N$$
 </p>
 </details>
 
-
-
 ### Opgave 7
 
 Bestem indavlskoefficienten for afkom af parringer blandt
@@ -847,8 +840,6 @@ Bestem indavlskoefficienten for afkom af parringer blandt
  *F* = (1/2)<sup>3</sup> + (1/2)<sup>3</sup> = (1/2)<sup>2</sup> = 0,25
 </p>
 </details>
-
-
 
 2) morbror-niece
 <details><summary>Klik for at se svaret.</summary>
