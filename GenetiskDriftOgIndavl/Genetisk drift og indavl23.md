@@ -140,11 +140,9 @@ populationen ændres fra generation til generation på grund af tilfældige
 årsager. Dette er illustreret i figuren. Her har man illustreret
 simulationer for 10 populationer, der hver har en størrelse på 100
 diploide individer. De startede med en frekvens af allel A på 0,5 i
-generation 0.
-
-Vi måler indavlen hjælp af indavlskoefficienten, *F<sub>t</sub>*, som er
-sandsynligheden for at et individ i et locus bærer to gener, der er
-identiske ved arv – her målt i generation *t*.
+generation 0. Vi måler indavlen hjælp af indavlskoefficienten, 
+*F<sub>t</sub>*, som er sandsynligheden for at et individ i et 
+locus bærer to gener, der eridentiske ved arv – her målt i generation *t*.
 
 Genetisk drift øger identitet gennem arv i populationen – det er dog
 vigtig at pointere, at der stadigt foregår tilfældig parring i den
