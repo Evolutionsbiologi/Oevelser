@@ -706,24 +706,11 @@ til
 2)  Beregn den effektive populationsstørrelse over de 6 generationer.
 
 <details><summary>Klik for at se svaret.</summary>
-<body>
-<p><span class="math">
+<p>
  <figure>
   <img  align="center" src="DriftHarmAveMuskox.png" width=400 title="Harmonisk gennemsnit">
  </figure>
-
-  
- $$\begin{aligned}
-\frac{1}{N_e} &= \frac{1}{6}\sum_{i=1}^6 \frac{1}{N_i}\\
-              &=\left(\frac{1}{27}+\frac{1}{150}+\frac{1}{834}+\frac{1}{2400}+\frac{1}{3500}+\frac{1}{4000}\right)/6\\
-              &= 0,007634\\
-              &\Downarrow\\
-N_e           &=131
-\end{aligned}
-$$
-</span>
 </p>
-</body>
 </details>
 
 3)  Hvilke generationers størrelse har størst indflydelse på den
