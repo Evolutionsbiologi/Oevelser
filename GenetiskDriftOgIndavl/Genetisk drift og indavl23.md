@@ -4,17 +4,6 @@
 
 ### Teoretisk baggrund
 
-<details><summary>Klik for at se svaret.</summary>
-<p>
-
-$$\begin{aligned}
-N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
-    &= \frac{ 4N_m}{1+ N_m/N_f}\\
-    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty
-\end{aligned}$$
-</p>
-</details>
-
 De følgende noter har til formål at introducere begreberne *indavl*,
 *genetisk drift* samt *populationsstruktur*. De to førstnævnte begreber
 analyseres i opgaverne til denne øvelse, medens *populationsstruktur*
@@ -432,6 +421,18 @@ Disse øvelser har deres fokus på
   kønsratioen afviger fra 1 : 1
 - simple egenskaber af coalescence processen
 - at beregne indavlskoefficienter fra stamtavler
+
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+$$\begin{aligned}
+N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
+    &= \frac{ 4N_m}{1+ N_m/N_f}\\
+    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty
+\end{aligned}$$
+</p>
+</details>
+
 
 ###  Opgave 1
 
