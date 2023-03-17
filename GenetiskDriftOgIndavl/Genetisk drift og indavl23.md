@@ -71,10 +71,6 @@ proportioner, hvor genotypefordelingen i den enkelte population bliver
 |----------|:------------------------------:|:-----------------------------:|:------------------------------:|
  Frekvens  | *p*<sup>2</sup> + *Fpq*        | 2*pq*(1 − *F*)                | *q*<sup>2</sup> + *Fpq*        |
 
-Her observeres et *tydeligt overskud af homozygoter i forhold til
-Hardy-Weinberg proportioner i den enkelte population* – i modsætning til
-genetisk drift, hvor der er Hardy-Weinberg proportioner i den enkelte
-population.
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
@@ -85,6 +81,10 @@ N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
 \end{aligned}$$
 </p>
 </details>
+Her observeres et *tydeligt overskud af homozygoter i forhold til
+Hardy-Weinberg proportioner i den enkelte population* – i modsætning til
+genetisk drift, hvor der er Hardy-Weinberg proportioner i den enkelte
+population.
 
 Vi skal i det følgende udlede, hvordan man beregner indavlskoefficienten
 *F* for tilfældet hvor to individer, der er mere beslægtede med hinanden
