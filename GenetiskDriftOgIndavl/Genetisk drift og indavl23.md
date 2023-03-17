@@ -751,6 +751,14 @@ $$
 </p>
 </details>
 
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+De bliver længere. Ventetiden får at gå fra $k$ til $k - 1$ gener er
+$$\frac{4N}{{k(k-1)}}$$
+</p>
+</details>
+
 
 1)  Hvilken effekt har den hårde kunstige selektion på kort sigt?
 <details><summary>Klik for at se svaret.</summary>
