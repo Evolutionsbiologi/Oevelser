@@ -37,6 +37,10 @@ kun nogle få generationer tilbage i tiden. Desuden fokuserer man på et
 specifikt individ. Ved genetisk drift ser man længere tilbage i tiden og
 fokuserer på hele populationen. Se den følgende figur.
 
+<figure>
+  <img  align="center" src="DriftDriftIndavl.png" width=650 title="Drift og indavl">
+ </figure>
+
 Begge processer kan godt foregå samtidigt. Vi kan have en specifik
 population, hvor vi kan beregne, hvorledes identiteten ved arv er steget
 på grund af genetisk drift. I denne population kan der så desuden
@@ -74,10 +78,6 @@ beregne indavlskoefficienten. Her vil vi som eksempel beregne
 indavlskoefficienten hos et barn, hvis forældre er fætter og kusine
 (Figur A-C). I stamtavler får kvinder en cirkel,  medens mænd får
 en firkant. Er kønnet ukendt, angives det som en firkant, der er drejet 45 grader.
-
-<figure>
-  <img  align="center" src="DriftDriftIndavl.png" width=650 title="Drift og indavl">
- </figure>
 
 <figure>
   <img  align="center" src="DriftIndavlBeregning.png" width=650 title="Indavl">
