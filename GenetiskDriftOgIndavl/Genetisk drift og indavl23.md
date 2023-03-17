@@ -48,16 +48,6 @@ forekomme tilfælde, hvor forældre til et afkom er mere beslægtet med
 hinanden end to tilfældigt udvalgte individer.
 
 ##   Indavl
-<details><summary>Klik for at se svaret.</summary>
-<p>
-
-$$\begin{aligned}
-N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
-    &= \frac{ 4N_m}{1+ N_m/N_f}\\
-    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty
-\end{aligned}$$
-</p>
-</details>
 
 Som nævnt, så vil identiteten gennem arv øges i en population, hvis to
 individer, der får afkom med hinanden, er mere beslægtede med hinanden
@@ -66,7 +56,7 @@ arv kvantificeres ved hjælp af indavlskoefficienten *F*. Denne defineres
 som sandsynligheden for, at et individ i et locus bærer to gener, der er
 identiske ved arv, så
 
-$<0 \leq F \leq 1$
+$$<0 \leq F \leq 1$$
 
 Denne form for indavl medfører en afvigelse fra Hardy-Weinberg
 proportioner, hvor genotypefordelingen i den enkelte population bliver
@@ -80,6 +70,17 @@ Her observeres et *tydeligt overskud af homozygoter i forhold til
 Hardy-Weinberg proportioner i den enkelte population* – i modsætning til
 genetisk drift, hvor der er Hardy-Weinberg proportioner i den enkelte
 population.
+
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+$$\begin{aligned}
+N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
+    &= \frac{ 4N_m}{1+ N_m/N_f}\\
+    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty
+\end{aligned}$$
+</p>
+</details>
 
 Vi skal i det følgende udlede, hvordan man beregner indavlskoefficienten
 *F* for tilfældet hvor to individer, der er mere beslægtede med hinanden
