@@ -42,6 +42,14 @@ population, hvor vi kan beregne, hvorledes identiteten ved arv er steget
 på grund af genetisk drift. I denne population kan der så desuden
 forekomme tilfælde, hvor forældre til et afkom er mere beslægtet med
 hinanden end to tilfældigt udvalgte individer.
+
+##   Indavl
+Som nævnt, så vil identiteten gennem arv øges i en population, hvis to
+individer, der får afkom med hinanden, er mere beslægtede med hinanden
+end to tilfældigt udvalgte individer i populationen. Identiteten gennem
+arv kvantificeres ved hjælp af indavlskoefficienten *F*. Denne defineres
+som sandsynligheden for, at et individ i et locus bærer to gener, der er
+identiske ved arv, så
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
@@ -52,15 +60,6 @@ N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
 \end{aligned}$$
 </p>
 </details>
-
-
-##   Indavl
-Som nævnt, så vil identiteten gennem arv øges i en population, hvis to
-individer, der får afkom med hinanden, er mere beslægtede med hinanden
-end to tilfældigt udvalgte individer i populationen. Identiteten gennem
-arv kvantificeres ved hjælp af indavlskoefficienten *F*. Denne defineres
-som sandsynligheden for, at et individ i et locus bærer to gener, der er
-identiske ved arv, så
 
 $$<0 \leq F \leq 1$$
 
