@@ -755,7 +755,7 @@ $$
 <p>
 
 De bliver længere. Ventetiden får at gå fra $k$ til $k - 1$ gener er
-$$\frac{4N}{{k(k-1)}}$$
+$$N_e = \frac{4N_f\times N_m}{N_f+ N_m}$$
 </p>
 </details>
 
