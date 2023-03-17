@@ -98,6 +98,7 @@ N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
 \end{aligned}$$
 </p>
 </details>
+
 Barnet i fjerde generation (Figur C: IV-1) modtager to kopier af allelen
 Ai, såfremt denne allel bliver videregivet langs begge mulige veje, som
 forbinder dette barn med I-1. Under antagelse af at Mendel’s første lov
