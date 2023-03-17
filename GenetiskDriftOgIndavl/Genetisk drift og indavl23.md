@@ -853,13 +853,7 @@ Bestem indavlskoefficienten for afkom af parringer blandt
   <img  align="right" src="DriftIndavlSoeskende.png" width=100 title="Coalescence">
  </figure>
 
- *F* = (1/2)<sup>3</sup> + (1/2)<sup>3</sup> = (1/2)(1/2)<sup>2</sup> = 0,25
-$$\begin{aligned}
-F &=  (1/2)^3 + (1/2)^3\\
-  &=  (1/2)^2\\
-  &= 0,25
-\end{aligned}$$
-
+ *F* = (1/2)<sup>3</sup> + (1/2)<sup>3</sup> = (1/2)<sup>2</sup> = 0,25
 </p>
 </details>
 
@@ -873,12 +867,7 @@ F &=  (1/2)^3 + (1/2)^3\\
   <img  align="right" src="DriftIndavlmorbror_niece.png" width=100 title="Coalescence">
  </figure>
 
-$$
-\begin{aligned}
-F &=  (1/2)^4 + (1/2)^4\\
- &=  (1/2)^3\\
- &= 0,125
-\end{aligned}$$
+ *F* = (1/2)<sup>4</sup> + (1/2)<sup>4/sup> = (1/2)<sup>3</sup> = 0,125
 
 </p>
 </details>
@@ -891,11 +880,7 @@ F &=  (1/2)^4 + (1/2)^4\\
   <img  align="right" src="DriftIndavlSelvbefrugtning.png" width=35 title="Coalescence">
  </figure>
 
-$$
-\begin{aligned}
-F &=  (1/2)^1\\
- &= 0,5
-\end{aligned}$$
+*F* = (1/2)<sup>1</sup> = 0,5
 
 </p>
 </details>
