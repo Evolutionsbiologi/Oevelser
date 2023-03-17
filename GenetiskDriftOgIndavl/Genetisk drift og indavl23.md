@@ -140,10 +140,11 @@ populationen ændres fra generation til generation på grund af tilfældige
 årsager. Dette er illustreret i figuren. Her har man illustreret
 simulationer for 10 populationer, der hver har en størrelse på 100
 diploide individer. De startede med en frekvens af allel A på 0,5 i
-generation 0. Vi måler indavlen hjælp af indavlskoefficienten, 
+generation 0. 
+
+Vi måler indavlen hjælp af indavlskoefficienten, 
 *F<sub>t</sub>*, som er sandsynligheden for at et individ i et 
 locus bærer to gener, der eridentiske ved arv – her målt i generation *t*.
-
 Genetisk drift øger identitet gennem arv i populationen – det er dog
 vigtig at pointere, at der stadigt foregår tilfældig parring i den
 enkelte population, dvs, at ***der er Hardy-Weinberg proportioner*** i
@@ -152,7 +153,9 @@ populationens størrelse. Med en populationsstørrelse på *N* vil der være
 2*N* gener i en diploid population. Her vil identitet gennem arv, målt
 som indavlskoefficienten i generation *t*, *F<sub>t</sub>*, vokse efter
 formlen
-$$ F_t = 1 -\left(1- \frac{1}{2N}\right)^t$$
+
+$$F_t = 1 -\left(1- \frac{1}{2N}\right)^t$$
+
 hvor det antages, at identiteten ved arv i generation 0 var 0.
 
 Genetisk drift i isolerede populationer af endelig størrelse påvirker
