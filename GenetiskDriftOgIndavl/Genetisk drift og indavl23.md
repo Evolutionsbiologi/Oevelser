@@ -739,7 +739,7 @@ $$
 <p>
 
   <figure>
-  <img  align="center" src="DriftIndavlNeSkaevKoensratio.png" width=250 title="NeSkaevKoensratio">
+  <img  align="center" src="DriftIndavlNeSkaevKoensratio.png" width=150 title="NeSkaevKoensratio">
  </figure>
 
 </p>
