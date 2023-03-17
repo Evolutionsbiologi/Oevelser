@@ -717,19 +717,6 @@ Det er generationerne med de ***små***  størrelser, der har den største indfl
 </p>
 </details>
 
-
-
-<details><summary>Klik for at se svaret.</summary>
-<p>
-
-$$\begin{aligned}
-N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
-    &= \frac{ 4N_m}{1+ N_m/N_f}\\
-    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty
-\end{aligned}$$
-</p>
-</details>
-
 ### Opgave 5
 
 I det moderne landbrug benyttes ofte meget få hanner til at inseminere
@@ -758,6 +745,10 @@ $$
     &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty\\
 \end{aligned}
 $$
+ 
+  <figure>
+  <img  align="left" src="DriftIndavlNeSkaevKoensratio.png" width=250 title="NeSkaevKoensratio">
+ </figure>
 
 </p>
 </details>
