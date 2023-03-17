@@ -567,9 +567,16 @@ Populationsstørrelserne i hvert forsøg var 100.
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-Nej. Det er højst usandsynligt, at driften i en population med en størrelse på 100 kan resultere i fiksering efter 4 generationer.  Desuden ender alle 6 forsøg med allelfrekvens over ca. 0.9 med at blive fikseret for den ene allel, medens de 7 forsøg, der starter med en frekvens under 0.9, alle ender med at blive fikseret for den anden allel. Drift ville have en mere “tilfældig” karakter. 
+Nej. Det er højst usandsynligt, at driften i en population med en 
+størrelse på 100 kan resultere i fiksering efter 4 generationer.  
+Desuden ender alle 6 forsøg med allelfrekvens over ca. 0.9 med at 
+blive fikseret for den ene allel, medens de 7 forsøg, der starter 
+med en frekvens under 0.9, alle ender med at blive fikseret for 
+den anden allel. Drift ville have en mere “tilfældig” karakter. 
 
-Figuren nedenunder illustrerer genetisk drift i en population med en størrelse på 100 over 10 generationer med en frekvens af allel *A* på 0,9 i generation 0.
+Figuren nedenunder illustrerer genetisk drift i en population med 
+en størrelse på 100 over 10 generationer med en frekvens af allel 
+*A* på 0,9 i generation 0.
 <figure>
 
   <img  align="center" src="DriftSimulUnderD.png" width=600 title="Indavl">
@@ -688,8 +695,8 @@ til
 
 $$\begin{aligned}
 \overline{N} &= \sum_{i=1}^6 N_i/6\\
-&=(27+150+834+2400+3500+4000)/6\\
-&=1819
+             &=(27+150+834+2400+3500+4000)/6\\
+             &=1819
 \end{aligned}
 $$
 </p>
@@ -699,13 +706,12 @@ $$
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
 $$\begin{aligned}
 \frac{1}{N_e} &= \frac{1}{6}\sum_{i=1}^6 \frac{1}{N_i}\\
-&=\left(\frac{1}{27}+\frac{1}{150}+\frac{1}{834}+\frac{1}{2400}+\frac{1}{3500}+\frac{1}{4000}\right)/6\\
-&= 0,007634\\
-&\Downarrow\\
-N_e &=131
+              &=\left(\frac{1}{27}+\frac{1}{150}+\frac{1}{834}+\frac{1}{2400}+\frac{1}{3500}+\frac{1}{4000}\right)/6\\
+              &= 0,007634\\
+              &\Downarrow\\
+N_e           &=131
 \end{aligned}
 $$
 
