@@ -690,6 +690,11 @@ til
 | 6          | 4000                 |
 
 1)  Beregn populationens gennemsnitsstørrelse over de 6 generationer.
+<figure>
+  <img  align="left" src="DriftAveMuskox.png" width=250 title="Gennemsnit">
+ </figure>
+
+
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
