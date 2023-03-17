@@ -867,7 +867,7 @@ Bestem indavlskoefficienten for afkom af parringer blandt
   <img  align="right" src="DriftIndavlmorbror_niece.png" width=100 title="Coalescence">
  </figure>
 
- *F* = (1/2)<sup>4</sup> + (1/2)<sup>4/sup> = (1/2)<sup>3</sup> = 0,125
+ *F* = (1/2)<sup>4</sup> + (1/2)<sup>4</sup> = (1/2)<sup>3</sup> = 0,125
 
 </p>
 </details>
