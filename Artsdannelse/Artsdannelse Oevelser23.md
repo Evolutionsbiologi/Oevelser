@@ -5,7 +5,7 @@
 *Arter* er – ligesom genomer, celler og organismer – en fundamental enhed i biologien. Inden for eksperimentel biologi arbejdes der ofte med specifikke arter som for eksempel bakterien *Escherichia coli*, bananfluen *Drosphila melanogaster* eller musen *Mus musculus*. Når disse arter nævnes, er man sjældent i tvivl om hvilke arter, det drejer sig om. Der er meget ofte klart, hvilke organismer, der kan henføres til samme art. Nogle gange vil det være vanskeligt at afgrænse, hvordan man opdeler organismer i arter. Dette er ikke overraskende, da der til stadighed forgår evolution, og der derfor i nogle tilfælde vil være populationer, der er i færd med at differentieres fra hinanden til artsniveau.
 
 <figure>
-  <img  align="right" src="ArtHybridAnd.jpg" width=150 title="Hybdrid mellem ederfugl og gravand">
+  <img  align="right" src="ArtHybridAnd.jpg" width=150 title="Hybrid mellem ederfugl og gravand">
  </figure>
  
 Der findes mange forskellige definitioner af arter, der hver især har fokus på specifikke egenskaber eller processer. Et vidt accepteret er det *biologiske artsbegreb*, som blev introduceret af Ernst Mayr i 1942. Ifølge det biologiske artsbegreb er en art en gruppe af populationer, der er reproduktivt adskilt fra andre grupper af populationer. Her fokuseres på *reproduktiv isolation*, der dog ikke behøver at være 100%. Mange arter hybridiserer i en vis grad, uden at de derved mister deres genetiske integritet. For eksempel, mange andefugle hybridiserer lejlighedsvis. Det kan dog nogle gange være svært at afgøre, hvilke to arter, der indgår som forældre til en hybrid. Hvem mon det kan have været i fuglen, som er afbildet?
