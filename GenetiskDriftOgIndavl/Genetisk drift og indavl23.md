@@ -702,7 +702,7 @@ til
  </figure>
 
  <figure>
-  <img  align="left" src="DriftAveMuskox.png" width=250 title="Gennemsnit">
+  <img  align="left" src="DriftBinomial.png" width=250 title="Bin">
  </figure>
 
  <figure>
