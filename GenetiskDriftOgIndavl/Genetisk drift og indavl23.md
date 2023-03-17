@@ -376,7 +376,6 @@ Her indses, at
 $\overline{H}_{S}$ er 0,42 og at *H<sub>T</sub>* er 0,5.
 Derfor kan vi beregne Wright’s F-statistik til at være
 
-
 $$
 \begin{aligned}
 F_{ST} &=\frac{H_T -\overline{H}_{S}}
@@ -742,10 +741,9 @@ et stort antal hunner. Antag, at antallet af hunner, *N<sub>f</sub>*, er
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-$$\begin{aligned}
-N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
+$$\begin{aligned}N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
     &= \frac{ 4N_m}{1+ N_m/N_f}\\
-    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty    
+    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty\\
 \end{aligned}$$
 
 </p>
