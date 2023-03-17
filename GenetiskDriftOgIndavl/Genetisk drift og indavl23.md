@@ -64,6 +64,16 @@ identiske ved arv, så
 
 $$<0 \leq F \leq 1$$
 
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+$$\begin{aligned}
+N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
+    &= \frac{ 4N_m}{1+ N_m/N_f}\\
+    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty
+\end{aligned}$$
+</p>
+</details>
 Denne form for indavl medfører en afvigelse fra Hardy-Weinberg
 proportioner, hvor genotypefordelingen i den enkelte population bliver
 
