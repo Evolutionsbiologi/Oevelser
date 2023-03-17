@@ -697,13 +697,18 @@ til
 <details><summary>Klik for at se svaret.</summary>
 <p>
  <figure>
-  <img  align="left" src="DriftHarmAveMuskox.png" width=350 title="Harmonisk gennemsnit">
+  <img  align="center" src="DriftAveMuskox.png" width=400 title="Gennemsnit">
  </figure>
 
 </p>
 </details>
 
 2)  Beregn den effektive populationsstørrelse over de 6 generationer.
+
+ <figure>
+  <img  align="center" src="DriftHarmAveMuskox.png" width=400 title="Harmonisk gennemsnit">
+ </figure>
+
 
 $$\begin{aligned}
 \frac{1}{N_e} &= \frac{1}{6}\sum_{i=1}^6 \frac{1}{N_i}\\
