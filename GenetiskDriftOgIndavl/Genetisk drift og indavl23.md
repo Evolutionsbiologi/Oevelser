@@ -714,7 +714,7 @@ N_e           &=131
 $$
 
 <details><summary>Klik for at se svaret.</summary>
-<p>
+<p><span class="math">
 $$\begin{aligned}
 \frac{1}{N_e} &= \frac{1}{6}\sum_{i=1}^6 \frac{1}{N_i}\\
               &=\left(\frac{1}{27}+\frac{1}{150}+\frac{1}{834}+\frac{1}{2400}+\frac{1}{3500}+\frac{1}{4000}\right)/6\\
@@ -723,7 +723,7 @@ $$\begin{aligned}
 N_e           &=131
 \end{aligned}
 $$
-
+</span>
 </p>
 </details>
 
