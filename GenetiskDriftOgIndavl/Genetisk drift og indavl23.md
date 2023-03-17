@@ -290,10 +290,6 @@ $${N_{e}} = \ \frac{4N_f\times N_m}{N_f+N_m}$$
 hvor *N<sub>f</sub>* og *N<sub>m</sub>* er henholdsvis antallet af
 hunner og hanner i populationen.
 
-<p style="font-family: times, serif;font-size:15pt">
-    Why did we use these specific parameters during the calculation of the fingerprints?
-</p>
-
 ## Populationsstruktur
 
 Betragt en stor population, der deles op i mange populationer, hver med
@@ -304,9 +300,9 @@ fra hinanden. Dette har følger for genotypestrukturen i
 totalpopulationen, der er gennemsnittet hen over alle populationer. Her
 vil genotypestrukturen kunne beskrives med den følgende fordeling
 
-|Genotype|*A*<sub>1</sub>*A*<sub>1</sub>|*A*<sub>1</sub>*A*<sub>2</sub>|*A*<sub>2</sub>*A*<sub>2</sub>|
-|--------|:-----------------------------:|:-------------------------:|:------------------:|
-|Frekvens |*p*<sup>2</sup> + *F<sub>t</sub>pq* |2*pq*(1 - *F*<sub>t</sub>)|*q*<sup>2</sup> + *F<sub>t</sub>pq*
+|Genotype|*A*<sub>1</sub>*A*<sub>1</sub>      |*A*<sub>1</sub>*A*<sub>2</sub>|*A*<sub>2</sub>*A*<sub>2</sub>     |
+|--------|:----------------------------------:|:----------------------------:|:---------------------------------:|
+|Frekvens|*p*<sup>2</sup> + *F<sub>t</sub>pq* |2*pq*(1 - *F*<sub>t</sub>)    |*q*<sup>2</sup> + *F<sub>t</sub>pq*|
 
 <figure>
   <img  align="right" src="DriftPopStruktur.png" width=350 title="Indavl">
