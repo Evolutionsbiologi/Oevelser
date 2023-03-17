@@ -276,7 +276,7 @@ melanogaster.*
 For en population med variabel størrelse, kan den effektive
 populationsstørrelse beregnes som det harmoniske gennemsnit
 
-$$ \frac{1}{N_{e}} = \ \frac{\underline{1}}{t}\sum_{i}^{t}{}\frac{1}{N_{i}}$$
+$$ \frac{1}{N_{e}} = \frac{\underline{1}}{t}\sum_{i}^{t}{}\frac{1}{N_{i}}$$
 
 hvor *N<sub>i</sub>* er populationens størrelse i generation *i*. Det
 samlede antal generationer sættes til *t*. Det antages, at der er lige
@@ -742,8 +742,7 @@ et stort antal hunner. Antag, at antallet af hunner, *N<sub>f</sub>*, er
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-$$
-\begin{aligned}
+$$\begin{aligned}
 N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
     &= \frac{ 4N_m}{1+ N_m/N_f}\\
     &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty    
