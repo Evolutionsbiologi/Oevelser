@@ -700,7 +700,11 @@ til
   <figure>
   <img  align="left" src="DriftMuskox.jpg" width=250 title="Moskusokser">
  </figure>
-  
+
+ <figure>
+  <img  align="left" src="DriftAveMuskox.png" width=250 title="Gennemsnit">
+ </figure>
+
  <figure>
   <img  align="left" src="DriftAveMuskox.png" width=250 title="Gennemsnit">
  </figure>
