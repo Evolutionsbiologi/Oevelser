@@ -53,7 +53,8 @@ N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
 \end{aligned}$$
 </p>
 </details>
-##   Indavl
+
+## Indavl
 Som nævnt, så vil identiteten gennem arv øges i en population, hvis to
 individer, der får afkom med hinanden, er mere beslægtede med hinanden
 end to tilfældigt udvalgte individer i populationen. Identiteten gennem
