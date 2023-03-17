@@ -22,17 +22,6 @@ for enten den ene eller den anden allel, hvilket er illustreret i
 figuren. (I dette eksempel indgår kun to forskellige alleler.) Når
 generne ikke er identiske ved arv, kan de være homozygote for enten den
 ene eller den anden allel[^2]. De kan også være heterozygote.
-<details><summary>Klik for at se svaret.</summary>
-<p>
-
-$$\begin{aligned}
-N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
-    &= \frac{ 4N_m}{1+ N_m/N_f}\\
-    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty
-\end{aligned}$$
-</p>
-</details>
-
 
 Der er to processer, som bidrager til at et locus i et individ kan blive
 identisk ved arv:
@@ -47,7 +36,16 @@ De to processer har et forskelligt tidsperspektiv. Ved indavl kigger man
 kun nogle få generationer tilbage i tiden. Desuden fokuserer man på et
 specifikt individ. Ved genetisk drift ser man længere tilbage i tiden og
 fokuserer på hele populationen. Se den følgende figur.
+<details><summary>Klik for at se svaret.</summary>
+<p>
 
+$$\begin{aligned}
+N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
+    &= \frac{ 4N_m}{1+ N_m/N_f}\\
+    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty
+\end{aligned}$$
+</p>
+</details>
 <figure>
   <img  align="center" src="DriftDriftIndavl.png" width=650 title="Drift og indavl">
  </figure>
