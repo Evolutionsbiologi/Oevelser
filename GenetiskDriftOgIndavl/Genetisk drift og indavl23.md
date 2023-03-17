@@ -100,6 +100,7 @@ sandsynlighed hvormed IV-1 bliver identisk ved arv med gener fra I-1 er
 
 *F* = (1/2)<sup>6</sup> + (1/2)<sup>6</sup> = 2 (1/2)<sup>6</sup> =
 (1/2)<sup>5</sup>.
+
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
