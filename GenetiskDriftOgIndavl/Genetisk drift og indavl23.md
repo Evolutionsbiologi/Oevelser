@@ -54,17 +54,6 @@ end to tilfældigt udvalgte individer i populationen. Identiteten gennem
 arv kvantificeres ved hjælp af indavlskoefficienten *F*. Denne defineres
 som sandsynligheden for, at et individ i et locus bærer to gener, der er
 identiske ved arv, så
-<details><summary>Klik for at se svaret.</summary>
-<p>
-
-$$\begin{aligned}
-N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
-    &= \frac{ 4N_m}{1+ N_m/N_f}\\
-    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty
-\end{aligned}$$
-</p>
-</details>
-
 
 $$<0 \leq F \leq 1$$
 
@@ -132,6 +121,17 @@ I mere komplicerede stamtavler end den ovenstående med flere fælles
 forfædre til et givent indavlet individ beregnes indavlskoefficienten
 som summen af bidragene fra hver fælles stamfader efter det samme
 princip som beskrevet foroven.
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+$$\begin{aligned}
+N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
+    &= \frac{ 4N_m}{1+ N_m/N_f}\\
+    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty
+\end{aligned}$$
+</p>
+</details>
+
 
 En populations indavlskoefficient *F* bestemmes ved at tage
 gennemsnittet af de forskellige parringstypers indavlskoefficienter
