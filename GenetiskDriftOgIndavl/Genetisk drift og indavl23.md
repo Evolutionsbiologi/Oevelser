@@ -714,6 +714,7 @@ N_e           &=131
 $$
 
 <details><summary>Klik for at se svaret.</summary>
+<body>
 <p><span class="math">
 $$\begin{aligned}
 \frac{1}{N_e} &= \frac{1}{6}\sum_{i=1}^6 \frac{1}{N_i}\\
@@ -725,6 +726,7 @@ N_e           &=131
 $$
 </span>
 </p>
+</body>
 </details>
 
 3)  Hvilke generationers størrelse har størst indflydelse på den
