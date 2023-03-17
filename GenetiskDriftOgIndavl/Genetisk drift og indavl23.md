@@ -754,11 +754,9 @@ $$
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-$$
-\begin{aligned}
+$$\begin{aligned}
 N_e &= \frac{4N_f\times N_m}{N_f+ N_m}
-\end{aligned}
-$$
+\end{aligned}$$
 </p>
 </details>
 
