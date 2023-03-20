@@ -269,7 +269,7 @@ med genotyperne *X*<sub>1</sub>*Y* og *X*<sub>2</sub>*Y*. Vi antager nu, at alle
 
 </br>
 
-|         |Hunner </style>               |                              |                              |Hanner            |                  |
+|         |Hunner                        |                              |                              |Hanner            |                  |
 |---------|:----------------------------:|:----------------------------:|:----------------------------:|:----------------:|:----------------:|
 |Genotype |*X*<sub>1</sub>*X*<sub>1</sub>|*X*<sub>1</sub>*X*<sub>2</sub>|*X*<sub>2</sub>*X*<sub>2</sub>|*X*<sub>1</sub>*Y*|*X*<sub>2</sub>*Y*|
 |Forventet|*p*<sup>2</sup>               |2*pq*                         |*q*<sup>2</sup>               |*p*               |*q*               |
