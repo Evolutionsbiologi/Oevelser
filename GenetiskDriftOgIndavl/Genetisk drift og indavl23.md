@@ -11,7 +11,7 @@ afsnittet danner baggrund for forelæsningen om dette
 emne.
 
 <figure>
-  <img  align="right" src="DriftIndavl.png" width=350 title="Indavl">
+  <img  align="right" src="DriftIndavl.png" width=400 title="Indavl">
  </figure>
 
 Naturlige populationer har en endelig størrelse. Dette har til følge, at
