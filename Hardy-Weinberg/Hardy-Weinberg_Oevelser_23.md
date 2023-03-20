@@ -137,7 +137,7 @@ Vi kan karakterisere afvigleser fra Hardy-Weinberg proportioner ved hjælp af in
 *F =* (*H<sub>e</sub> – H<sub>o</sub>*)/ *H<sub>e</sub>*,
 
 hvor *H<sub>e</sub>* er lig med de forventede heterozygoter,
-*H<sub>e</sub> = 2pq*, og *H<sub>o </sub>*er lig med de observerede
+*H<sub>e</sub> = 2pq*, og *H<sub>o</sub>* er lig med de observerede
 heterozygoter. (Man kan også benytte det observerede og forventede antal
 heterozygoter, som i eksemplet forneden.) Der gælder så, at
 
