@@ -511,7 +511,7 @@ De forventede antal under antagelse af Hardy-Weinberg proportioner beregnes på 
 Bemærk det store overskud af homozygoter – som er lige store for hver af homozygoterne. Overensstemmelse med Hardy-Weinberg proportioner testes ved hjælp af en χ<sup>2</sup> test, hvor teststørrelsen findes som
 
  <figure>
-  <img  align="center" src="HWSileneEquation.png" width=150 title="Chi^2 test">
+  <img  align="center" src="HWSileneEquation.png" width=450 title="Chi^2 test">
  </figure>
 
 $$
