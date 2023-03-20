@@ -417,12 +417,16 @@ $$
 \scriptsize
 N(Rh-) = Nq^2
 $$
-så vi kan beregne allelfrekvensen som
-$$$
+
+ så vi kan beregne allelfrekvensen som
+
+ $$
 \scriptsize
 q = \sqrt{N(Rh-)/N}
-$$$ 
-Frekvensen af Rh-allelen findes som
+$$ 
+
+ Frekvensen af Rh-allelen findes som
+ 
  $$
 \scriptsize
 q = \sqrt{73/375}=0,441
