@@ -272,7 +272,7 @@ til:
 - Positiv/negativ selektion
 - Forskelle i substitutionsrater mellem regioner i gener
 - Neutral teori
-- Genetisk diversitet (*H<sub>E</sub>* og π*
+- Genetisk diversitet (*H*<sub>*E*</sub>  og *π*
 - Selektive “sweeps”
 
 ### Opgave 1
