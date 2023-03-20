@@ -703,7 +703,7 @@ Allelen er opstået gennem mutation og har gennem genetisk drift opnået den hø
 <p>
 
 Ligevægtsfrekvensen mellem mutation og naturlig selektion er givet ved
-	$ q=\sqrt{10^{-6}/1}=0,001$
+	*q* = √(10<sup>-6</sup>/1) =0,001
 
 </p>
 </details>
