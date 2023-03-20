@@ -232,7 +232,9 @@ populationens sammensætning beskrives på følgende måde
 Allelfrekvenserne beregnes ud fra relationen mellem frekvensen af den
 recessive allel og frekvensen af den recessive homozygot. Da vi har, at
 
-*q*<sup>2</sup>× *N* = *N<sub>dd</sub>*
+$$
+q^2\times N = N_{dd}
+$$
 
 får vi dermed, at
 
