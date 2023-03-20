@@ -250,6 +250,7 @@ $$
 \begin{aligned}
 p &= \frac{W_{22}-W_{12}}{W_{11} - W_{12}+W_{22}-W_{12}}\\
   &= \frac{1-t-1}{1-s-1+1-t-1}\\
+  &= \frac{-t}{-s-t}\\
   &= \frac{t}{s+t}
 \end{aligned}
 $$
