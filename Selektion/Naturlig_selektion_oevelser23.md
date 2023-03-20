@@ -434,7 +434,7 @@ locus med en letal allel, dvs. *s* = 1, hvor mutationsraten er
 
 $$
 \begin{aligned}
-q_{res}&=  \sqrt{\mu/s}\\
+q_{rec}&=  \sqrt{\mu/s}\\
        &=  \sqrt{10^{-6}/1}\\
        &= 0,001\\
 q_{dom}&=  \mu/s\\
