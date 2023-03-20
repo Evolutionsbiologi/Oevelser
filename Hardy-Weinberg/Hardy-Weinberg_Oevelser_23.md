@@ -491,14 +491,11 @@ nødvendig)
 <details><summary>Klik for at se svaret.</summary>
 <p>
 Nej. Man kunne lave en 2 × 2 kontingenstest på antallet af alleler i de to grupper. Den ville acceptere at de er ens.
-</p>
 </details>
 
  c\) Stemmer genotypefordelingerne overens med Hardy-Weinberg proportioner for hver af grupperne?
  
 <details><summary>Klik for at se svaret.</summary>
-<p>
-
 De forventede antal under antagelse af Hardy-Weinberg proportioner beregnes på følgende måde (for frøplanter):
 
 |Genotype |11                      | 12                  | 22                     |Sum  |
@@ -534,7 +531,6 @@ For de voksne er resultatet
 |        |E     |55,02| 46,96|	10,02 |
 
 χ<sup>2</sup> = 0,00, dvs. der er HW-proportioner.
-</p>
 </details>
 
  d\) Bestem indavlskoefficienten *F* for begge grupper. [*F* =
@@ -558,7 +554,7 @@ Voksne: *F* =  (46,96 – 47)/ 46,96 = –0,001
 </details>
 
 e) Hvad kan have forårsaget en eventuel afvigelse fra Hardy-Weinberg
- propor­tioner?
+ proportioner?
 
 
 <details><summary>Klik for at se svaret.</summary>
