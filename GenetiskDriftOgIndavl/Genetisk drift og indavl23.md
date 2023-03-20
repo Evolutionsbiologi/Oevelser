@@ -728,13 +728,6 @@ et stort antal hunner. Antag, at antallet af hunner, *N<sub>f</sub>*, er
     husk på at *N<sub>m</sub>*/*N<sub>f</sub>* → 0 når antallet af
     hunner er meget større end antallet af hanner.
 
-$$
-  \begin{aligned}N_e &= \frac{4N_f\times N_m}{N_f+ N_m}\\
-    &= \frac{ 4N_m}{1+ N_m/N_f}\\
-    &\approx 4N_m \quad \textrm{for} \quad N_f \rightarrow \infty\\
-\end{aligned}
-$$
-
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
