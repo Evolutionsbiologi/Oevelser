@@ -161,7 +161,7 @@ naturlige populationer. I en stor naturlig plantepopulation var forholdet imelle
 
 Intet som helst. Dominansforhold har ingen indflydelse på en given allels hyppighed i en population. 
 
-Mange er nok blevet vildledt af de kendte Mendelske 3:1 udspaltninger.
+Nogle er nok blevet vildledt af de kendte Mendelske 3:1 udspaltninger.
 
 </p>
 </details>
@@ -200,7 +200,7 @@ udspaltninger i Rhesus-systemet hos de tre mulige forældrekombinationer:
 | Rh+ × Rh−           | 20             | 54  | 23  |
 | Rh− × Rh−           | 7              | −   | 34  |
 
-(Fra Frydenberg og Spärck (1963)*: Arv og race hos mennesket.*)
+(Fra Frydenberg og Spärck (1963)*: Arv og race hos mennesket.* Belingske Forlag, København.)
 
 1)  Hvordan nedarves variationen i Rhesus-systemet? Det vil sige, hvor
     mange alleler indgår, og hvilke genotyper resulterer i hvilke
@@ -208,7 +208,12 @@ udspaltninger i Rhesus-systemet hos de tre mulige forældrekombinationer:
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-Tabellen over udspaltningen i Rhesus-systemet viser tydeligt, at kombinationen Rh− × Rh− udelukkende får Rh− børn, medens kombinationerne Rh+ × Rh+ og Rh+ × Rh− kan få både Rh+ og Rh− børn. Rhesus-systemet må derfor nedarves dominant. Hvis vi benytter betegnelserne Rh for den dominante og rh for den recessive allel, kan genotyperne og fænotyperne gives ved
+Tabellen over udspaltningen i Rhesus-systemet viser tydeligt, at 
+kombinationen Rh− × Rh− udelukkende får Rh− børn, medens kombinationerne 
+Rh+ × Rh+ og Rh+ × Rh− kan få både Rh+ og Rh− børn. Rhesus-systemet må 
+derfor nedarves dominant. Hvis vi benytter betegnelserne Rh for den 
+dominante og rh for den recessive allel, kan genotyperne og fænotyperne 
+ gives ved
 
 |Genotype|Fænotype|
 |:------:|:------:|
@@ -229,7 +234,9 @@ nukleotid-forskelle per base mellem DNA-sekvenser fra en population. Den
 kan beregnes på en meget simpel måde. Hvis man har sekventeret et vist
 antal sekvenser fra den samme population, bestemmes alle parvise
 forskelle mellem sekvenserne og divideres bagefter med antallet af
-sammenligninger og sekvensernes længde.  For eksempel, hvis man har fire sekvenser, der er tusind basepar lange, med de parvise forskelle givet i den følgende tabel
+sammenligninger og sekvensernes længde.  For eksempel, hvis man har 
+fire sekvenser, der er tusind basepar lange, med de parvise forskelle 
+givet i den følgende tabel
 
 |                    |[1]   | [2]  | [3]  |[4]   |
 |--------------------|:----:|:----:|:----:|:----:|
@@ -286,7 +293,10 @@ være 0,0037.
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-Neandertaleren har formentlig haft en lavere populationsstørrelse end mennesket. Her spiller genetisk drift en større rolle og fjerner mere variation i hver generation (se den følgende opgave), så nukleotiddiversiteten bliver lavere.
+Neandertaleren har formentlig haft en lavere populationsstørrelse end
+mennesket. Her spiller genetisk drift en større rolle og fjerner mere 
+variation i hver generation (se den følgende opgave), så 
+nukleotiddiversiteten bliver lavere.
 </p>
 </details>
 
@@ -294,7 +304,22 @@ Neandertaleren har formentlig haft en lavere populationsstørrelse end mennesket
 
 ## Tilfældig genetisk drift
 
-Genetisk drift opstår på grund af populationers endelige størrelse. Som nævnt, taler vi om tilfældig genetisk drift. Hermed mener vi, at allelfrekvenser i et locus ændrer sig tilfældigt fra generation til generation.  Vi starter, for eksempel, 10 populationer med en størrelse på hver 20 diploide individer i generation 0. De er alle polymorfe med to alleler, *A*<sub>1</sub> og *A*<sub>2</sub>, der hver har en frekvens på 0,5. Med tiden vil de enkelte populationers allelfrekvenser ændre sig og bevæge sig bort fra 0,5, se den følgende figur. Efter tilstrækkelig lang tid forventer vi, at populationerne bliver fikseret for enten den ene eller den anden allel. Populationerne bliver fikseret med de to alleler med den frekvens, allelerne havde i generation 0. I vores tilfælde forventer vi, at halvdelen af populationerne fikseres for *A*<sub>1</sub> og den anden halvdel fikseres for allel *A*<sub>2</sub>. Jo mindre en population er, des stærkere virker genetisk drift. Vi skal i den følgende øvelse se på genetisk drifts virkning.
+Genetisk drift opstår på grund af populationers endelige størrelse. 
+Som nævnt, taler vi om tilfældig genetisk drift. Hermed mener vi, 
+at allelfrekvenser i et locus ændrer sig tilfældigt fra generation 
+til generation.  Vi starter, for eksempel, 10 populationer med en 
+størrelse på hver 20 diploide individer i generation 0. De er alle 
+polymorfe med to alleler, *A*<sub>1</sub> og *A*<sub>2</sub>, der 
+hver har en frekvens på 0,5. Med tiden vil de enkelte populationers 
+allelfrekvenser ændre sig og bevæge sig bort fra 0,5, se den følgende 
+figur. Efter tilstrækkelig lang tid forventer vi, at populationerne 
+bliver fikseret for enten den ene eller den anden allel. 
+Populationerne bliver fikseret med de to alleler med den frekvens, 
+allelerne havde i generation 0. I vores tilfælde forventer vi, at 
+halvdelen af populationerne fikseres for *A*<sub>1</sub> og den 
+anden halvdel fikseres for allel *A*<sub>2</sub>. Jo mindre en 
+population er, des stærkere virker genetisk drift. Vi skal i den 
+følgende øvelse se på genetisk drifts virkning.
 
 
  <figure>
@@ -317,7 +342,10 @@ frekvenser for allel *A*<sub>1</sub> i de 10 populationer:
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-Nej. Ved genetisk drift ville allelfrekvenserne fordele sig tilfældigt over hele spektret fra 0 til 1. Se figuren ovenover. I eksperimentet har alle 10 populationer en allelfrekvens under 0,5, hvilket er meget usandsynligt ($\scriptsize0,5^{10} = 0,000977$).
+Nej. Ved genetisk drift ville allelfrekvenserne fordele sig tilfældigt
+over hele spektret fra 0 til 1. Se figuren ovenover. I eksperimentet har 
+alle 10 populationer en allelfrekvens under 0,5, hvilket er meget 
+usandsynligt ($\scriptsize0,5^{10} = 0,000977$).
 
 </p>
 </details>
@@ -379,7 +407,7 @@ at overleve multipliceret med antallet af afkom, som et individ får.
 </p>
 </details>
 
-2)  Beregn de to kloners ***relative*** ***fitness***, der findes ved at
+2)  Beregn de to kloners ***relative fitness***, der findes ved at
     dividere med den største absolutte fitness.
 <details><summary>Klik for at se svaret.</summary>
 <p>
@@ -436,7 +464,8 @@ og Atlanterhavet.
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-De består af seks artspar, der hver især har den nærmeste slægtning på den atlantiske og den pacifiske side af Panama landtangen.
+De består af seks artspar, der hver især har den nærmeste slægtning på 
+den atlantiske og den pacifiske side af Panama landtangen.
 </p>
 </details>
 
@@ -444,7 +473,9 @@ De består af seks artspar, der hver især har den nærmeste slægtning på den 
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-Før Panama landtangen er blevet dannet, fandtes der seks arter i dette område. Efter landtangen er blevet dannet, er de seks par divergeret fra hinanden på grund af genetisk drift og naturlig selektion i de to områder.
+Før Panama landtangen er blevet dannet, fandtes der seks arter i dette 
+område. Efter landtangen er blevet dannet, er de seks par divergeret 
+fra hinanden på grund af genetisk drift og naturlig selektion i de to områder.
 
 </p>
 </details>
