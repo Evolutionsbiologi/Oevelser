@@ -514,6 +514,7 @@ Bemærk det store overskud af homozygoter – som er lige store for hver af homo
   <img  align="center" src="HWSileneEquation.png" width=450 title="Chi^2 test">
  </figure>
 
+<! --- 
 $$
 \scriptsize
 \chi^2 =\sum_{i=1}^3\frac{(O_i-E_i)^2}{E_i}
@@ -524,6 +525,7 @@ som for frøplanternes tilfælde bliver
 \scriptsize
 \chi^2 =\frac{(79-70,63)^2}{70,63}+\frac{(43-59,74)^2}{59,74}+\frac{21-12,63}{12,63}=12,23
 \]
+--->
 Teststørrelsen er derfor signifikant på 5% niveauet, når den overstiger 3,84. Dette er tilfældet for frøplanterne, så vi forkaster hypotesen om Hardy-Weinberg proportioner for dem.
 
 For de voksne er resultatet 
