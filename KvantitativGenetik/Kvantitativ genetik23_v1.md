@@ -4,7 +4,7 @@
 
 ## Teoretisk baggrund
 
-
+ 
 <figure>
   <img  align="right" src="KvantGenHoejdeKvinder.png" width=250 title="Højdefordeling">
  </figure>
