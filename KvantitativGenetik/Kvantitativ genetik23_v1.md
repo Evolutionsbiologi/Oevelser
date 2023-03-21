@@ -311,11 +311,15 @@ for at beregne “narrow sense” heritabilitet for højde hos mennesket.
 
 *Varianser og covarianser for højde hos mænd*
 
+|Varians                                                              |     |
+|---------------------------------------------------------------------|:---:|
 |Varians af forældrenes gennemsnitshøjde \[*V*(*x*)\]                 |24,82|
 |Covarians af datters og forældres gennemsnitshøjde \[*Cov*(*x*,*y*)\]|19,23|
 |Antal observationer                                                  |503  |
 
 
+|Varians                                                              |     |
+|---------------------------------------------------------------------|:---:|
 | Varians af forældrenes gennemsnitshøjde \[*V*(*x*)\]                 |21,21 |
 | Covarians af sønnens og forældres gennemsnitshøjde \[*Cov*(*x*,*y*)\]|17,77 |
 | Antal observationer                                                  |244   |
