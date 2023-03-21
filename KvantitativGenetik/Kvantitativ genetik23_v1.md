@@ -394,7 +394,7 @@ generationer et fald i hårlængden.
 ### Opgave 3
 
  <figure>
-  <img  align="right" src="KvantGenDrosophila.jpg" width=200 title="Drosophila">
+  <img  align="right" src="KvantGenDrosophila.jpg" width=100 title="Drosophila">
  </figure>
 
 Den efterfølgende figur illustrerer et forsøg, hvor man i 60
@@ -416,14 +416,18 @@ efterfulgtes af en pludselig stigning som respons på selektionen.
 2)  Hvilke biologiske fænomener kan have forårsaget at et plateau
     afløses af en periode med stigende respons på selektionen?
 
-**Opgave 4**
+### Opgave 4
+
+
+ <figure>
+  <img  align="right" src="KvantGenFinke.jpg" width=200 title="Pyrenestes ostrinus">
+ </figure>
 
 Den afrikanske finke (*Pyrenestes ostrinus*) er blevet studeret af
 Thomas Bates Smith. Fugle i denne art findes i to grupper med forskellig
 næbstørrelse; en gruppe med store næb og en gruppe med små næb. Figuren
 til højre viser en fordeling af næbstørrelsen i en naturlig population i
 Cameroun (som størrelse for næbstørrelsen er vist bredden af næbbet).
-<img src="media/image33.jpg" style="width:3.56389in;height:1.97014in" />
 
 Bates Smith analyserede udspaltningen af afkom fra forskellige parringer
 i en population. Der foregår tilfældig parring med hensyn til
@@ -432,10 +436,12 @@ krydsninger. I stamtavlen får hunner en cirkel, **○**, medens hanner får
 en firkant, **□**. Er kønnet ukendt, angives det som . Individer med
 stor næbstørrelse er angivet med L (Large), medens individer med små næb
 er angivet med S
-(Small)<img src="media/image34.png" style="width:0.4062in;height:0.31619in" />
+(Small).
 
-.
-<img src="media/image35.png" style="width:6.26736in;height:2.61314in" />
+
+<figure>
+  <img  align="center" src="KvantGenFinkeStamtavle.png" width=550 title="Stamtavle af finke">
+ </figure>
 
 1)  Benyt stamtavlerne til at udlede den genetiske baggrund for
     fænotyperne S og L. Angiv hvilke genotyper, der bestemmer de to
