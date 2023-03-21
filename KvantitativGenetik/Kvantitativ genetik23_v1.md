@@ -137,7 +137,7 @@ $$
 Regressionskoefficienten *b* findes som
 
 $$
-b =\frac{\mathrm{Cov}V_A}{V(x)}
+b =\frac{\mathrm{Cov}(x,y)}{V(x)}
 $$
 
 hvor $\mathrm{Cov}(x, y)$ er covariansen mellem *x* og *y*, der bestemmes som
