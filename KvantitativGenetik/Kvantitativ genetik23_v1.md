@@ -299,7 +299,7 @@ mødre.
 
     
 <figure>
-  <img  align="canter" src="KvantGenOverdominans.png" width=120 title="Overdominans">
+  <img  align="canter" src="KvantGenHeritabilitetHoejde.png" width=120 title="Heritabilitet af højde">
  </figure>
  
 
