@@ -348,9 +348,9 @@ Derfor er genetisk drift aftaget i den danske population.
 
 **Formel**: 
  
- Mor:		*N*<sup>e</sup>/*N* = 2/(2,38 – 1 + 0,79/2,38) = 1,17
+ Mor:		*N*<sub>e</sub>/*N* = 2/(2,38 – 1 + 0,79/2,38) = 1,17
 
- Mormor:	*N*<sup>e</sup>/*N* = 2/(2,99 – 1 + 2.18/2,99) = 0,74
+ Mormor:	*N*<sub>e</supb/*N* = 2/(2,99 – 1 + 2.18/2,99) = 0,74
 
  Vi ser her en stor effekt. Genetisk drift har næsten fået halveret sin effekt.
 
@@ -469,7 +469,7 @@ den, der er fundet i denne opgave.
 <details><summary>Klik for at se svaret.</summary>
 <p>
 Det ved vi intet om.  Heritabiliten fortæller kun noget om den brøkdel af 
-den fænotypiske varians, som den additive varians udgør, h2 = VA/VP.  
+den fænotypiske varians, som den additive varians udgør, $h^2 = V_A/V_P$.  
 Den fortæller intet om forskelle mellem populationer.  Det kan man 
 undersøge i common garden eksperimenter, hvor man lader de samme genotyper 
 leve i de forskellige miljøer, som man vil undersøge for en eventuel effekt
@@ -504,7 +504,7 @@ udvalgte forældre med en gennemsnitlig hårlængde på 17 mm. I generation
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
+$h^2 = R/S = (16 – 15,8)/(17 – 15,8) = 0,2/1,2 = 0,17$
 </p>
 </details>
 
@@ -512,7 +512,7 @@ udvalgte forældre med en gennemsnitlig hårlængde på 17 mm. I generation
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
+Selektionen ændrer den genetiske sammensætning af populationen, her ved enten at fiksere alleler eller ved at nærme sig ligevægte, hvorved den addiditve genetiske varians i forhold til den fænotypiske varians reduceres.
 </p>
 </details>
 
@@ -523,7 +523,7 @@ generationer et fald i hårlængden.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
+Faldet skyldes naturlig selektions virkning. Pleiotrope effekter af de selekterede gener kan have reduceret fitness og bliver nu selekteret imod af naturlig selektion. Der kan også have været selekteret skadelige gener koblet til de selekterede loci igennem hitchhiking. Efter den kunstige selektion ophører, bliver de skadelige gener elimineret gennem naturlig selektion.
 </p>
 </details>
 
@@ -551,7 +551,8 @@ efterfulgtes af en pludselig stigning som respons på selektionen.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
+Heritabiliteten aftager jævnt og ender med værdien 0 når der nås et plateau. 
+(Når der ikke er respons ($R = 0$) må heritabiliteten være 0; $R = h^2S$) 
 </p>
 </details>
 
@@ -560,6 +561,27 @@ efterfulgtes af en pludselig stigning som respons på selektionen.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
+Mutationer kan bidrage med fornyet variation, der bidrager til en fornyet 
+respons på selektionen. Det er nok mere sandsynligt, at der på grund af 
+rekombination er skabt ny variation, der selekteres på. Betragt en række 
+loci på et kromosom, hvor + er en allel, der bidrager positivt til den 
+kvantitative karakter og 0 ikke bidrager med noget. Der findes to kromosomer 
+i populationen(++++0000 og 0000++++), og dermed tre genotyper
+
+11	        12              22
+
+++++0000	++++0000	0000++++
+	
+========	========	========
+	
+++++0000	0000++++	0000++++
+
+
+
+Hvis allelerne alle er additive, vil de have den samme fænottype; der er jo 
+8 +’er i hver genotype. Det er først når der sker en rekombination, hvor man 
+får dannet kromosomet ++++++++ at selektionen kan fiksere populationen for 
+dette kromosom og hvor gennemsnittet så vil stige til 16.
 
 </p>
 </details>
