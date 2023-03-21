@@ -339,7 +339,12 @@ mødre.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-**Intuition**: Jo større variansen er i antal afkom, des større er effekten af genetisk drift. Variansen i antal afkom er aftaget dramatisk: fra 2,37 til 0,73. Derfor er genetisk drift aftaget i den danske population. 
+	
+**Intuition**: 
+
+Jo større variansen er i antal afkom, des større er effekten af genetisk 
+drift. Variansen i antal afkom er aftaget dramatisk: fra 2,37 til 0,73. 
+Derfor er genetisk drift aftaget i den danske population. 
 
 **Formel**: 
  
@@ -362,7 +367,7 @@ mødre.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
+Kønsratio, der afviger fra 1:1 i særkønnede arter. Populationssvingninger igennem tid.
 </p>
 </details>
 
@@ -390,6 +395,10 @@ for at beregne “narrow sense” heritabilitet for højde hos mennesket.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
+
+$h^2_N$(kvinder) = b =Cov(x,y)/ V(x) = 19,23/24,82 = 0.77
+
+$h^2_N$(mænd) = b =Cov(x,y)/ V(x) = 17,77/21,21 = 0.84
 
 </p>
 </details>
@@ -429,6 +438,10 @@ Varianser og covarianser for antal børn hos mænd
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
+$h^2_N$(kvinder) = 2b =2 Cov(x,y)/ V(x) = 2 × 0,176/2,175 = 0,162
+
+$h^2_N$(mænd) = 2b =2 Cov(x,y)/ V(x) = 2 × 0,306/2,360 = 0,259
+
 </p>
 </details>
 
@@ -441,7 +454,9 @@ højde).
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
+Heritabiliteten for karakterer, der er nært knyttede til fitness, har ofte 
+en forholdsvis lav heritabilitet.  Dette skyldes, at naturlig selektion har 
+virket på karakteren og herved reduceret dens heritabilitet. 
 </p>
 </details>
 
@@ -451,9 +466,13 @@ den, der er fundet i denne opgave.
 
 10) Er forskellen i højde mellem danske og franske befolkning genetisk
     betinget?
-
 <details><summary>Klik for at se svaret.</summary>
 <p>
+Det ved vi intet om.  Heritabiliten fortæller kun noget om den brøkdel af 
+den fænotypiske varians, som den additive varians udgør, h2 = VA/VP.  
+Den fortæller intet om forskelle mellem populationer.  Det kan man 
+undersøge i common garden eksperimenter, hvor man lader de samme genotyper 
+leve i de forskellige miljøer, som man vil undersøge for en eventuel effekt
 
 </p>
 </details>
@@ -473,6 +492,7 @@ hårlængde på 9 mm.
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
+$h^2 = R/S = (9 – 8)/(10 – 8) = 0,5	$
 </p>
 </details>
 
