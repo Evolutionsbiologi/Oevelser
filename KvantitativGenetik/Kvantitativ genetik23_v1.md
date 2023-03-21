@@ -237,7 +237,7 @@ den samme tendens.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
+Ikke ret meget, det ligner jo et skud hagl, og signifikansniveauet er over 0,05. Det ser ud som om danskerne finder sammen stort set tilfældigt med hensyn til højde.
 </p>
 </details>
 
@@ -261,6 +261,20 @@ kvindelige studerendes højde, samt for deres forældres højde.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
+For kvinderne stiger højden med 1,98 cm og for mændene med 1.74 cm. Det ligner en
+parallelforskydning mod større højder. 
+ 
+Man har data for mændenes højde tilbage i tiden, da denne er blevet målt på 
+sessionerne. I den følgende figur vises data for danske (og franske) mænd 
+fra begyndelsen af det nittende århundrede og op til slutningen af det tyvende 
+århundrede. Det ses, at danske mænds højde er vokset fra 166 cm i 1830 til 183 
+i 1980, dvs 17 cm på 150 år, dvs. 2,83 cm per generation, hvis vi regner med 
+en generationstid på 25 år. 
+ 
+<figure>
+  <img  align="right" src="KvantGenHoejdeTilvaekstMaend.png" width=550 title="Tilvækst i højde">
+ </figure>
+
 
 </p>
 </details>
@@ -283,6 +297,11 @@ kvindelige studerendes højde, samt for deres forældres højde.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
+Antallet af børn hos mødre aftager med 0,61. Hos fædrene aftager antallet af børn med 0,59.
+
+ Bemærk, at hverken fædrene eller mødrene til de studerende har fået flere end 7 børn, medens der hos mormødrene observeres helt op til 12 børn og hos farfædrene 13 børn.
+	
+Værdierne er ikke gældende for den danske population som helhed. Værdierne er biased opad.  Vi har jo kun medtaget personer, der har fået mindst et barn i de foregående to generationer.
 
 </p>
 </details>
@@ -292,6 +311,9 @@ kvindelige studerendes højde, samt for deres forældres højde.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
+Det skyldes formentligt miljømæssige forskelle mellem generationerne. Miljøet har generelt forbedret sig i forhold til folks størrelsesvækst.  Ændringerne med hensyn til antal børn skyldes kulturelle ændringer, hvilket også kan henføres til miljøet.
+
+Bemærk (dette er ikke en del af den korrekte besvarelse): En høj heritabilitet (her for højde) betyder, at variationen i en population hovedsageligt skyldes variation mellem genotyper. Det betyder dog ikke, at fænotypen er givet fordi vi kender genotypen. Ændringer i miljøet kan selvfølgeligt ændre en genotypes fænotype, og populationen kan dermed ændre sin middelværdi. Tilsvarende kan gennemsnittet for en karakter med lav heritabilitet også ændres, når miljøet ændres.
 
 </p>
 </details>
@@ -317,6 +339,15 @@ mødre.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
+**Intuition**: Jo større variansen er i antal afkom, des større er effekten af genetisk drift. Variansen i antal afkom er aftaget dramatisk: fra 2,37 til 0,73. Derfor er genetisk drift aftaget i den danske population. 
+
+**Formel**: 
+ 
+ Mor:		*N*<sup>e</sup>/*N* = 2/(2,38 – 1 + 0,79/2,38) = 1,17
+
+ Mormor:	*N*<sup>e</sup>/*N* = 2/(2,99 – 1 + 2.18/2,99) = 0,74
+
+ Vi ser her en stor effekt. Genetisk drift har næsten fået halveret sin effekt.
 
 </p>
 </details>
