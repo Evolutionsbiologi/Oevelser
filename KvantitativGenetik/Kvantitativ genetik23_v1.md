@@ -569,6 +569,11 @@ loci på et kromosom, hvor + er en allel, der bidrager positivt til den
 kvantitative karakter og 0 ikke bidrager med noget. Der findes to kromosomer 
 i populationen(++++0000 og 0000++++), og dermed tre genotyper
 
+	
+<figure>
+  <img  align="right" src="KvantGenKromosomer.png" width=250 title="Kromosomer">
+ </figure>
+
 11	        12              22
 
 ++++0000	++++0000	0000++++
