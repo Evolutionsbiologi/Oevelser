@@ -136,10 +136,10 @@ $$
 
 Regressionskoefficienten *b* findes som
 $$
-b = \frac{\mathrm{Cov}(x,y)}{V_x}
+b = \frac{Cov(x,y)}{V_x}
 $$
 
-hvor $Cov(x, y)$ er covariansen mellem *x* og *y*, der bestemmes som
+hvor $\mathrm{Cov}(x, y)$ er covariansen mellem *x* og *y*, der bestemmes som
 
 $$
 \mathrm{Cov}(x,y) = \sum_{i = 1}^{n}(x_i-\overline{x})(y_i-\overline{y})
