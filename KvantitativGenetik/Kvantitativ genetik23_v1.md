@@ -394,7 +394,7 @@ generationer et fald i hårlængden.
 ### Opgave 3
 
  <figure>
-  <img  align="right" src="KvantGenDrosophila.png" width=250 title="Drosophila">
+  <img  align="right" src="KvantGenDrosophila.jpg" width=200 title="Drosophila">
  </figure>
 
 Den efterfølgende figur illustrerer et forsøg, hvor man i 60
@@ -408,7 +408,7 @@ antal børster afløstes af perioder med næsten konstant antal, som så
 efterfulgtes af en pludselig stigning som respons på selektionen.
 
 <figure>
-  <img  align="center" src="KvantGenRetnigsSelektionDrosophila.png" width=450 title="Retningsselektion hos Drosophila">
+  <img  align="center" src="KvantGenRetnigsSelektionDrosophila.png" width=550 title="Retningsselektion hos Drosophila">
  </figure>
 
 1)  Hvorledes ændres heritabiliteten sig under forløbet?
