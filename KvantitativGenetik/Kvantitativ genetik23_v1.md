@@ -420,7 +420,7 @@ efterfulgtes af en pludselig stigning som respons på selektionen.
 
 
  <figure>
-  <img  align="right" src="KvantGenFinke.jpg" width=200 title="Pyrenestes ostrinus">
+  <img  align="right" src="KvantGenFinke.jpg" width=300 title="Pyrenestes ostrinus">
  </figure>
 
 Den afrikanske finke (*Pyrenestes ostrinus*) er blevet studeret af
@@ -432,12 +432,11 @@ Cameroun (som størrelse for næbstørrelsen er vist bredden af næbbet).
 Bates Smith analyserede udspaltningen af afkom fra forskellige parringer
 i en population. Der foregår tilfældig parring med hensyn til
 næbstørrelse. Den følgende figur viser stamtavler for forskellige
-krydsninger. I stamtavlen får hunner en cirkel, **○**, medens hanner får
-en firkant, **□**. Er kønnet ukendt, angives det som . Individer med
+krydsninger. I stamtavlen får hunner en cirkel,  medens hanner får
+en firkant. Er kønnet ukendt, angives det som . Individer med
 stor næbstørrelse er angivet med L (Large), medens individer med små næb
 er angivet med S
 (Small).
-
 
 <figure>
   <img  align="center" src="KvantGenFinkeStamtavle.png" width=550 title="Stamtavle af finke">
@@ -465,7 +464,7 @@ viser fugle, som ikke overlever til voksenstadiet.
 5)  Hvilken form for naturlig selektion virker, når man betragter de to
     størrelsesklasser af finken hver for sig?
 
-**Opgave 5**
+### Opgave 5
 
 Fra en meget stor population af bananfluer indfanges der en stikprøve,
 der bruges til et kvantitativt genetisk forsøg. De holdes på en konstant
@@ -510,7 +509,7 @@ karakteren 14
 5)  Kan man på denne baggrund sige, at forskellen mellem de to
     populationer genetisk betinget?
 
-**Opgave 6**
+### Opgave 6
 
 Fie er forsker og arbejder med at fremavle kalkuner med hurtigere vækst.
 Den egenskab Fie selekterer på er, hvor hurtigt kalkunerne opnår en
