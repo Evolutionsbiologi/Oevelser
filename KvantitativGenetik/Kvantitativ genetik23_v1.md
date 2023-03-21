@@ -142,7 +142,7 @@ $$
 
 
 $$
-h^2_N =\frac{V_A}{V_P}
+b =\frac{\mathrm{Cov}(x,y)}{V(x)}
 $$
 
 hvor $\mathrm{Cov}(x, y)$ er covariansen mellem *x* og *y*, der bestemmes som
