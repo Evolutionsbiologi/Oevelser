@@ -615,6 +615,10 @@ er angivet med S
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
+Udspaltningerne peger på et enkelt locus med to alleler, S og L, hvor L dominerer over S. 
+S krydset med S får altid S afkom, medens de øvrige krydsninger spalter ud. Gentyperne 
+LL og LS resulterer i fænotypen stort næb L, medens genotypen ss resulterer i fænotypen lille næb S. 
+
 
 </p>
 </details>
@@ -623,7 +627,7 @@ er angivet med S
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
+LS og LS
 </p>
 </details>
 
@@ -632,7 +636,7 @@ er angivet med S
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
+Det er afkom af to helsøskende, så indavlskoefficienten er $(1/2)^3 + (1/2)^3 = (1/2)^2 $
 </p>
 </details>
 
