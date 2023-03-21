@@ -348,9 +348,9 @@ Derfor er genetisk drift aftaget i den danske population.
 
 **Formel**: 
  
- Mor:		*N*<sub>e</sub>/*N* = 2/(2,38 – 1 + 0,79/2,38) = 1,17
+Mor:	*N*<sub>e</sub>/*N* = 2/(2,38 – 1 + 0,79/2,38) = 1,17
 
- Mormor:	*N*<sub>e</sub/*N* = 2/(2,99 – 1 + 2.18/2,99) = 0,74
+Mormor:	*N*<sub>e</sub>/*N* = 2/(2,99 – 1 + 2.18/2,99) = 0,74
 
  Vi ser her en stor effekt. Genetisk drift har næsten fået halveret sin effekt.
 
