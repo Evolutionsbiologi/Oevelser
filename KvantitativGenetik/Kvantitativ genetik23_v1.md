@@ -366,7 +366,7 @@ den, der er fundet i denne opgave.
 10) Er forskellen i højde mellem danske og franske befolkning genetisk
     betinget?
 
-**Opgave 2**
+### Opgave 2
 
 Betragt en eksperimentel population af rotter, hvor man i 40
 generationer har selekteret for hårlængde, som i løbet af forsøget
@@ -391,8 +391,11 @@ generationer et fald i hårlængden.
 
 4)  Giv en forklaring på dette fald.
 
-**Opgave
-3**<img src="media/image31.jpg" style="width:1.16667in;height:1.78125in" />
+### Opgave 3
+
+ <figure>
+  <img  align="right" src="KvantGenDrosophila.png" width=250 title="Drosophila">
+ </figure>
 
 Den efterfølgende figur illustrerer et forsøg, hvor man i 60
 generationer kunstigt har selekteret for et øget antal børster på
@@ -404,7 +407,9 @@ selektion. Det foregik imidlertid ikke jævnt. Perioder med stigende
 antal børster afløstes af perioder med næsten konstant antal, som så
 efterfulgtes af en pludselig stigning som respons på selektionen.
 
-<img src="media/image32.png" style="width:4.87292in;height:2.83611in" />
+<figure>
+  <img  align="center" src="KvantGenRetnigsSelektionDrosophila.png" width=450 title="Retningsselektion hos Drosophila">
+ </figure>
 
 1)  Hvorledes ændres heritabiliteten sig under forløbet?
 
