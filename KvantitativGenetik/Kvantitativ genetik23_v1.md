@@ -242,10 +242,10 @@ kvindelige studerendes højde, samt for deres forældres højde.
  </figure>
 
 |Højde                       |Gennemsnit |Varians  |*N*    |
-|-----------------------------|:---------:|:-------:|:-----:|
-|Kvindelige studenter         |169,33     |42,84    |503    |        
+|----------------------------|:---------:|:-------:|:-----:|
+|Kvindelige studenter        |169,33     |42,84    |503    |        
 |Kvindelige studenters mødre |167,35     |40.43    |503    |
-|Mandlige studenter           |182,98     |47,24    |244    |
+|Mandlige studenter          |182,98     |47,24    |244    |
 |Mandlige studenters fædre   |181,24     |40,68    |244    |
 
 2)  Hvordan ændres højden for de to køn sig mellem generationerne? Man
@@ -259,8 +259,8 @@ kvindelige studerendes højde, samt for deres forældres højde.
  </figure>
 
 
-|            |Gennemsnit |Varians  |*N*    |
-| -----------|:---------:|:-------:|:-----:|
+|           |Gennemsnit |Varians  |*N*    |
+| ----------|:---------:|:-------:|:-----:|
 | Mødre     |2,38       | 0,79    | 503   |
 | Mormødre  |2,99       | 2,17    | 503   |
 | Fædre     |2,51       | 0,89    | 244   |
@@ -283,8 +283,8 @@ kvindelige studerendes højde, samt for deres forældres højde.
     eventuelt benytte den følgende formel, der viser forholdet mellem
     den effektive populationsstørrelse og den aktuelle
     populationsstørrelse
-$$
-\frac{N_e}{N} \approx \frac{2}{k-1 +\frac{\displaystyle V_k}{\displaystyle k}}
+    
+$$\frac{N_e}{N} \approx \frac{2}{k-1 +\frac{\displaystyle V_k}{\displaystyle k}}
 $$
     
   Her er *k* er det gennemsnitlige antal børn, og *V<sub>k</sub>* er
