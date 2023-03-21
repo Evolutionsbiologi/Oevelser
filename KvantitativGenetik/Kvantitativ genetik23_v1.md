@@ -305,21 +305,14 @@ for at beregne “narrow sense” heritabilitet for højde hos mennesket.
 
 |Varians                                                              |     |
 |---------------------------------------------------------------------|:---:|
-|Varians af forældrenes gennemsnitshøjde \[*V*(*x*)\]                 |21,21| 
-|Covarians af datters og forældres gennemsnitshøjde \[*Cov*(*x*,*y*)\]|24,82|
-|Antal observationer                                                  |503  |                               
-
-*Varianser og covarianser for højde hos mænd*
-
-|Varians                                                              |     |
-|---------------------------------------------------------------------|:---:|
 |Varians af forældrenes gennemsnitshøjde \[*V*(*x*)\]                 |24,82|
 |Covarians af datters og forældres gennemsnitshøjde \[*Cov*(*x*,*y*)\]|19,23|
 |Antal observationer                                                  |503  |
 
+*Varianser og covarianser for højde hos mænd*
 
-|Varians                                                              |     |
-|---------------------------------------------------------------------|:---:|
+|Varians                                                               |      |
+|----------------------------------------------------------------------|:----:|
 | Varians af forældrenes gennemsnitshøjde \[*V*(*x*)\]                 |21,21 |
 | Covarians af sønnens og forældres gennemsnitshøjde \[*Cov*(*x*,*y*)\]|17,77 |
 | Antal observationer                                                  |244   |
@@ -334,7 +327,7 @@ heritabiliteten af antal børn. Antallet af streger ud fra et punkt
 viser, hvor mange observationer, der er gjort for dette punkt.
 
  <figure>
-  <img  align="center" src="KvantGenhrhoejde.png" width=550 title="Heritabilitet af højde">
+  <img  align="center" src="KvantGenHeritabilitetBoern.png" width=550 title="Heritabilitet af børn">
  </figure>
 
 De følgende tabeller viser varianser og covarianser, som er nødvendige
@@ -343,7 +336,7 @@ mennesket.
 
 Varianser og covarianser for antal børn hos kvinder
 
-|                                                           |       |
+| Varians                                                   |       |
 |-----------------------------------------------------------|-------|
 | Varians af mormors antal børn \[*V*(*x*)\]                | 2,175 |
 | Covarians af mor og mormors antal børn \[*Cov*(*x*,*y*)\] | 0,176 |
@@ -351,7 +344,7 @@ Varianser og covarianser for antal børn hos kvinder
 
 Varianser og covarianser for antal børn hos mænd
 
-|                                                            |       |
+|Varians                                                     |       |
 |------------------------------------------------------------|-------|
 | Varians af farfars antal børn \[*V*(*x*)\]                 | 2,360 |
 | Covarians af fars og farfars antal børn \[*Cov*(*x*,*y*)\] | 0,306 |
