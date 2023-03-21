@@ -504,6 +504,7 @@ udvalgte forældre med en gennemsnitlig hårlængde på 17 mm. I generation
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
+	
 $h^2 = R/S = (16 – 15,8)/(17 – 15,8) = 0,2/1,2 = 0,17$
 </p>
 </details>
