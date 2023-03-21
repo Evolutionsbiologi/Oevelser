@@ -294,7 +294,7 @@ mødre.
     genetisk drifts virkning i en population?
 
  <figure>
-  <img  align="center" src="KvantGenHeritabilitetHoejde.png" width=550 title="Heritabilitet af højde">
+  <img  align="center" src="KvantGenhrhoejde.png" width=550 title="Heritabilitet af højde">
  </figure>
 
     
@@ -333,7 +333,7 @@ antal børn. Sammenhængen mellem disse benyttes til at beregne
 heritabiliteten af antal børn. Antallet af streger ud fra et punkt
 viser, hvor mange observationer, der er gjort for dette punkt.
 
- figure>
+ <figure>
   <img  align="center" src="KvantGenhrhoejde.png" width=550 title="Heritabilitet af højde">
  </figure>
 
