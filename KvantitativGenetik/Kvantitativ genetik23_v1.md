@@ -294,7 +294,7 @@ mødre.
     genetisk drifts virkning i en population?
 
  <figure>
-  <img  align="center" src="KvantGenhrhoejde.png" width=550 title="Heritabilitet af højde">
+  <img  align="center" src="KvantGenhrhoejde.png" width=650 title="Heritabilitet af højde">
  </figure>
 
 
@@ -304,6 +304,7 @@ for at beregne “narrow sense” heritabilitet for højde hos mennesket.
 *Varianser og covarianser for højde hos kvinder*
 
 |Varians                                                              |     |
+|---------------------------------------------------------------------|:---:|
 |Varians af forældrenes gennemsnitshøjde \[*V*(*x*)\]                 |21,21| 
 |Covarians af datters og forældres gennemsnitshøjde \[*Cov*(*x*,*y*)\]|24,82|
 |Antal observationer                                                  |503  |                               
