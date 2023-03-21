@@ -293,11 +293,7 @@ mødre.
 6)  Hvilke andre forhold end varians af antal børn spiller ind på
     genetisk drifts virkning i en population?
 
-$$\frac{N_e}{N} \approx \frac{2}{k-1 +\frac{\displaystyle V_k}{\displaystyle k}}
-$$
-
-  
-<figure>
+ figure>
   <img  align="center" src="KvantGenHeritabilitetHoejde.png" width=550 title="Heritabilitet af højde">
  </figure>
 
@@ -331,7 +327,9 @@ antal børn. Sammenhængen mellem disse benyttes til at beregne
 heritabiliteten af antal børn. Antallet af streger ud fra et punkt
 viser, hvor mange observationer, der er gjort for dette punkt.
 
-<img src="media/image30.png" style="width:5.87847in;height:3.36492in" />
+ figure>
+  <img  align="center" src="KvantGenhrhoejde.png" width=550 title="Heritabilitet af højde">
+ </figure>
 
 De følgende tabeller viser varianser og covarianser, som er nødvendige
 for at beregne “narrow sense” heritabilitet for antal børn hos
