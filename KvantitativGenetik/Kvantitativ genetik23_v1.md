@@ -272,7 +272,7 @@ i 1980, dvs 17 cm på 150 år, dvs. 2,83 cm per generation, hvis vi regner med
 en generationstid på 25 år. 
  
 <figure>
-  <img  align="right" src="KvantGenHoejdeTilvaekstMaend.png" width=550 title="Tilvækst i højde">
+  <img  align="center" src="KvantGenHoejdeTilvaekstMaend.png" width=550 title="Tilvækst i højde">
  </figure>
 
 
