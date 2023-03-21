@@ -297,6 +297,12 @@ mødre.
   <img  align="center" src="KvantGenHeritabilitetHoejde.png" width=550 title="Heritabilitet af højde">
  </figure>
 
+    
+<figure>
+  <img  align="canter" src="KvantGenOverdominans.png" width=120 title="Overdominans">
+ </figure>
+ 
+
 
 De følgende tabeller viser varianser og covarianser, som er nødvendige
 for at beregne “narrow sense” heritabilitet for højde hos mennesket.
@@ -305,18 +311,18 @@ for at beregne “narrow sense” heritabilitet for højde hos mennesket.
 
 |Varians af forældrenes gennemsnitshøjde \[*V*(*x*)\]                 |21,21| 
 |Covarians af datters og forældres gennemsnitshøjde \[*Cov*(*x*,*y*)\]|24,82|
-|Antal observationer                                                    |503  |                               
+|Antal observationer                                                  |503  |                               
 
 *Varianser og covarianser for højde hos mænd*
 
 |Varians af forældrenes gennemsnitshøjde \[*V*(*x*)\]                 |24,82|
 |Covarians af datters og forældres gennemsnitshøjde \[*Cov*(*x*,*y*)\]|19,23|
-|Antal observationer                                                    |503  |
+|Antal observationer                                                  |503  |
 
 
-| Varians af forældrenes gennemsnitshøjde \[*V*(*x*)\]                  |21,21 |
+| Varians af forældrenes gennemsnitshøjde \[*V*(*x*)\]                 |21,21 |
 | Covarians af sønnens og forældres gennemsnitshøjde \[*Cov*(*x*,*y*)\]|17,77 |
-| Antal observationer                                                     |244   |
+| Antal observationer                                                  |244   |
 
 7)  Beregn “narrow sense” heritabiliteten for højde hos mennesket (for
     kvinder og mænd).
