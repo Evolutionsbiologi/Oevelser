@@ -139,6 +139,10 @@ $$
 b =\frac{\mathrm{Cov}(x,y)}{V(x)}
 $$
 
+$$
+b =\frac{\mathrm{Cov}V_A}{V_P}
+$$
+
 hvor $\mathrm{Cov}(x, y)$ er covariansen mellem *x* og *y*, der bestemmes som
 
 $$
