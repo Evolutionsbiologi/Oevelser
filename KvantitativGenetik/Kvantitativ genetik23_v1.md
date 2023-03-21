@@ -252,12 +252,9 @@ kvindelige studerendes højde, samt for deres forældres højde.
     kan vise, at forskellen er statistisk signifikant for begge køn.
     (Det skal ikke gøres her.)
 
-
-  
 <figure>
   <img  align="center" src="KvantGenFordelingBoern.png" width=550 title="Fordeling af antal børn">
  </figure>
-
 
 |           |Gennemsnit |Varians  |*N*    |
 | ----------|:---------:|:-------:|:-----:|
@@ -295,6 +292,9 @@ mødre.
 
 6)  Hvilke andre forhold end varians af antal børn spiller ind på
     genetisk drifts virkning i en population?
+
+$$\frac{N_e}{N} \approx \frac{2}{k-1 +\frac{\displaystyle V_k}{\displaystyle k}}
+$$
 
   
 <figure>
