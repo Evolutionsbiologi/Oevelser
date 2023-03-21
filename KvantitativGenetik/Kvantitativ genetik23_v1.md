@@ -1,6 +1,6 @@
 # Kvantitativ genetik
 
-## Hans R. Siegismund
+### Hans R. Siegismund
 
 ## Teoretisk baggrund
 
@@ -201,9 +201,9 @@ illustreret i den efterfølgende figur. De tre typer er
  </figure>
     
 
-## Opgaver til Kvantitativ Genetik
+# Kvantitativ GenetikOpgaver
 
-### Formål
+## Formål
 
 I de følgende opgaver fokuseres der på de følgende emner med baggrund i
 kvantitativ genetik
@@ -234,6 +234,13 @@ den samme tendens.
     er 0,068, som ikke er signifikant på 0,05 niveauet. Er der tegn på
     “assortativ parring”?
 
+
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
+
 De følgende figurer viser fordelingerne af højde for mandlige og
 kvindelige studerendes højde, samt for deres forældres højde.
    
@@ -252,6 +259,12 @@ kvindelige studerendes højde, samt for deres forældres højde.
     kan vise, at forskellen er statistisk signifikant for begge køn.
     (Det skal ikke gøres her.)
 
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
+
 <figure>
   <img  align="center" src="KvantGenFordelingBoern.png" width=550 title="Fordeling af antal børn">
  </figure>
@@ -268,8 +281,20 @@ kvindelige studerendes højde, samt for deres forældres højde.
     generationerne? Man kan vise, at forskellen er statistisk
     signifikant for begge køn. (Det skal ikke gøres her.)
 
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
+
 4)  Forklar **kort**, om forskellene i højden og antal børn skyldes
     genetiske eller miljømæssige forskelle mellem generationerne.
+
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
 
 5)  Hvad sker der med variansen af børn mellem de to generationer? (Man
     kan vise, at forskellen er statistisk signifikant for begge køn.
@@ -290,6 +315,12 @@ kvinder, der her er tale om. (Normalt er *N<sub>e</sub>* mindre end
 *N*, men der kan ske det modsatte.) Tag udgangspunkt i mormødre og
 mødre.
 
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
+
 6)  Hvilke andre forhold end varians af antal børn spiller ind på
     genetisk drifts virkning i en population?
 
@@ -297,6 +328,12 @@ mødre.
   <img  align="center" src="KvantGenhrhoejde.png" width=650 title="Heritabilitet af højde">
  </figure>
 
+
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
 
 De følgende tabeller viser varianser og covarianser, som er nødvendige
 for at beregne “narrow sense” heritabilitet for højde hos mennesket.
@@ -319,6 +356,12 @@ for at beregne “narrow sense” heritabilitet for højde hos mennesket.
 
 7)  Beregn “narrow sense” heritabiliteten for højde hos mennesket (for
     kvinder og mænd).
+
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
 
 De følgende figurer viser antallet af mødres antal børn som funktion af
 mormødres antal børn, samt fædres antal børn som funktion af farfædres
@@ -352,6 +395,12 @@ Varianser og covarianser for antal børn hos mænd
 
 8)  Beregn “narrow sense” heritabiliteten for antal børn hos mennesket.
 
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
+
 Hos mange andre arter har man observeret lignende forskelle i
 heritabilitet mellem karakterer, der er fitnessrelaterede (som antal
 børn) og karakterer, der ikke er så direkte knyttet til fitness (som
@@ -359,12 +408,24 @@ højde).
 
 9)  Hvad skyldes denne forskel?
 
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
+
 I Frankrig er den gennemsnitlige højde for mænd 177 cm og 163 cm for
 kvinder. Heritabiliteten for højde i Frankrig er af samme størrelse som
 den, der er fundet i denne opgave.
 
 10) Er forskellen i højde mellem danske og franske befolkning genetisk
     betinget?
+
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
 
 ### Opgave 2
 
@@ -378,18 +439,42 @@ hårlængde på 9 mm.
 1)  Bestem heritabiliteten (narrow sense) for denne karakter i den
     første generation.
 
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
+
 I generation 39 var den gennemsnitlige hårlængde 15,8 mm, hvoraf man
 udvalgte forældre med en gennemsnitlig hårlængde på 17 mm. I generation
 40 var gennemsnittet 16
 
 2)  Bestem heritabiliteten på dette tidspunkt.
 
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
+
 3)  Forklar forskellen i heritabiliteten mellem de to tidspunkter.
+
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
 
 Man stoppede selektionseksperimentet og observerede i de følgende
 generationer et fald i hårlængden.
 
 4)  Giv en forklaring på dette fald.
+
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
 
 ### Opgave 3
 
@@ -413,8 +498,20 @@ efterfulgtes af en pludselig stigning som respons på selektionen.
 
 1)  Hvorledes ændres heritabiliteten sig under forløbet?
 
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
+
 2)  Hvilke biologiske fænomener kan have forårsaget at et plateau
     afløses af en periode med stigende respons på selektionen?
+
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
 
 ### Opgave 4
 
@@ -446,10 +543,28 @@ er angivet med S
     fænotyperne S og L. Angiv hvilke genotyper, der bestemmer de to
     fænotyper og angiv dominansforhold. Begrundes ***kort***.
 
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
+
 2)  Angiv genotyperne for forældrene i stamtavle nr. 4.
+
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
 
 3)  Hvad er indavlskoefficienten af individet, der er angivet med en
     pil, hvis vi antager at olde- og bedsteforældrene er ubeslægtede?
+
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
 
 Finken lever hovedsageligt af frø, hvor størrelsen af de frø, der
 spises, er korreleret med næbstørrelsen. Finker med små næb spiser små
@@ -461,8 +576,20 @@ viser fugle, som ikke overlever til voksenstadiet.
 4)  Hvilken form for naturlig selektion virker, når man betragter begge
     størrelsesklasser af finken?
 
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
+
 5)  Hvilken form for naturlig selektion virker, når man betragter de to
     størrelsesklasser af finken hver for sig?
+
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
 
 ### Opgave 5
 
@@ -486,8 +613,20 @@ additive genetiske varians i generation *t* og i generation 0.
 1)  Hvor stor en brøkdel af den additive genetiske varians er der
     tilbage efter 16 generationer?
 
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
+
 2)  Forventes *V<sub>A</sub>* at gå mod nul, når tiden går mod uendelig,
     eller er der andre ting, der modvirker dette?
+
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
 
 Man laver et selektionseksperiment med fluer, der stammer fra den 16.
 generation og med fluer, der indsamles fra den store vilde population.
@@ -499,8 +638,20 @@ populationen.
 
 3)  Hvad er miljøvariansen i den vilde population?
 
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
+
 4)  Hvad er middelværdien af afkomsgenerationen i populationen, der har
     været i laboratoriet, og den, der er indsamlet på ny?
+
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
 
 Man indsamler fluer fra en anden population, der viser sig at have den
 samme heritabilitet for karakteren, nemlig 0,75. Her er gennemsnittet af
@@ -508,6 +659,12 @@ karakteren 14
 
 5)  Kan man på denne baggrund sige, at forskellen mellem de to
     populationer genetisk betinget?
+
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
 
 ### Opgave 6
 
@@ -522,8 +679,20 @@ afkomsgeneration.
 
 1)  Hvor stort er selektionsdifferentialet?
 
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
+
 2)  Hvor mange uger vil det i gennemsnit tage for den første
     afkomsgeneration, at opnå en vægt på 6 kg?
+
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
 
 Fie har brugt en del SNP-markører i sit avlsarbejde. Når hun
 sammenligner nukleotiddiversiteten i udgangspopulationen med
@@ -534,10 +703,22 @@ er faldet til det halve.
     avlspopulationen har været ca. 6 under selektionseksperimentet.
     Hvordan kommer hun til det resultat?
 
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
+
 4)  Fie mener, at det er vigtigt at bevare så meget af den genetiske
     variation som muligt i avlsstammen. Hvilke(n) faktor(er) vil påvirke
     tabet af genetiske variation i avlsstammen og hvordan kan Fie
     modvirke dette?
+
+<details><summary>Klik for at se svaret.</summary>
+<p>
+
+</p>
+</details>
 
 **Besvarelser til opgaver i Kvantitativ Genetik**
 
