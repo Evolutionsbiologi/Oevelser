@@ -571,17 +571,8 @@ i populationen(++++0000 og 0000++++), og dermed tre genotyper
 
 	
 <figure>
-  <img  align="right" src="KvantGenKromosomer.png" width=250 title="Kromosomer">
+  <img  align="center" src="KvantGenKromosomer.png" width=550 title="Kromosomer">
  </figure>
-
-11	        12              22
-
-++++0000	++++0000	0000++++
-	
-========	========	========
-	
-++++0000	0000++++	0000++++
-
 
 
 Hvis allelerne alle er additive, vil de have den samme fænottype; der er jo 
