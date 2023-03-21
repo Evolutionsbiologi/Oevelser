@@ -136,7 +136,13 @@ $$
 
 Regressionskoefficienten *b* findes som
 $$
-b = \frac{\mathrm{Cov}(x,y)}{V(x)},
+b = \frac{\mathrm{Cov}(x,y)
+         }{V(x)},
+$$
+
+
+$$
+h^2_N =\frac{V_A}{V_P}
 $$
 
 hvor $\mathrm{Cov}(x, y)$ er covariansen mellem *x* og *y*, der bestemmes som
