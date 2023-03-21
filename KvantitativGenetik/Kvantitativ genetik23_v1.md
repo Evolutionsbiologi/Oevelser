@@ -293,7 +293,7 @@ mødre.
 6)  Hvilke andre forhold end varians af antal børn spiller ind på
     genetisk drifts virkning i en population?
 
- figure>
+ <figure>
   <img  align="center" src="KvantGenHeritabilitetHoejde.png" width=550 title="Heritabilitet af højde">
  </figure>
 
