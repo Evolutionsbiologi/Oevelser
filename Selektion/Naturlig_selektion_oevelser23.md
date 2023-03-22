@@ -929,7 +929,7 @@ IV: Underdominant selektion.   *W*<sub>AA</sub> > *W*<sub>AB</sub> og *W*<sub>BB
 <p>
 I: stabil ligevægt
 II: neutral ligevægt
-IV: ustabil ligevægt
+IV: ustabil ligevægt 
 
 </p>
 </details>
