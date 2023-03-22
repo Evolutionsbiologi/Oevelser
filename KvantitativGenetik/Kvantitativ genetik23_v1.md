@@ -177,7 +177,7 @@ tre forskellige typer
  </figure>
 
 3.  Underdominans, hvor heterozygoten har en lavere fitness end begge
-    homozygoter, det vil sige $W_{11} < W_{12}$   og $W_{22} < W_{12}$.
+    homozygoter, det vil sige $W_{12} < W_{11}$   og $W_{12} < W_{22}$.
 
 For kvantitative karakterer har vi tilsvarende typer for selektion, der
 illustreret i den efterfølgende figur. De tre typer er
