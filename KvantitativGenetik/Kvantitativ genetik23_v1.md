@@ -73,7 +73,7 @@ $$
 
 Dominansdelen skyldes afvigelse fra additive effekter indenfor de
 enkelte loci (se figuren nedenfor), medens interaktionsvariansen er
-forårsaget af ikke-additive bidrag fra de for- skellige loci. Et andet
+forårsaget af ikke-additive bidrag fra de forskellige loci. Et andet
 navn for denne er epistatisk varians.
 
 <figure>
@@ -377,16 +377,15 @@ Mormor:	*N*<sub>e</sub>/*N* = 2/(2,99 – 1 + 2.18/2,99) = 0,74
 6)  Hvilke andre forhold end varians af antal børn spiller ind på
     genetisk drifts virkning i en population?
 
- <figure>
-  <img  align="center" src="KvantGenhrhoejde.png" width=650 title="Heritabilitet af højde">
- </figure>
-
-
 <details><summary>Klik for at se svaret.</summary>
 <p>
 Kønsratio, der afviger fra 1:1 i særkønnede arter. Populationssvingninger igennem tid.
 </p>
 </details>
+
+ <figure>
+  <img  align="center" src="KvantGenhrhoejde.png" width=650 title="Heritabilitet af højde">
+ </figure>
 
 De følgende tabeller viser varianser og covarianser, som er nødvendige
 for at beregne “narrow sense” heritabilitet for højde hos mennesket.
@@ -413,9 +412,9 @@ for at beregne “narrow sense” heritabilitet for højde hos mennesket.
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-$h^2_N$(kvinder) = b =Cov(x,y)/ V(x) = 19,23/24,82 = 0.77
+$h^2_N$(kvinder) = b = Cov(x,y)/V(x) = 19,23/24,82 = 0.77
 
-$h^2_N$(mænd) = b =Cov(x,y)/ V(x) = 17,77/21,21 = 0.84
+$h^2_N$(mænd) = b = Cov(x,y)/V(x) = 17,77/21,21 = 0.84
 
 </p>
 </details>
@@ -569,7 +568,8 @@ antal børster afløstes af perioder med næsten konstant antal, som så
 efterfulgtes af en pludselig stigning som respons på selektionen.
 
 <figure>
-  <img  align="center" src="KvantGenRetnigsSelektionDrosophila.png" width=550 title="Retningsselektion hos Drosophila">
+  <img  align="center" src="KvantGenRetnigsSelektionDrosophila.png" 
+   width=550 title="Retningsselektion hos Drosophila">
  </figure>
 
 1)  Hvorledes ændres heritabiliteten sig under forløbet?
@@ -592,12 +592,10 @@ rekombination er skabt ny variation, der selekteres på. Betragt en række
 loci på et kromosom, hvor + er en allel, der bidrager positivt til den 
 kvantitative karakter og 0 ikke bidrager med noget. Der findes to kromosomer 
 i populationen(++++0000 og 0000++++), og dermed tre genotyper
-
 	
 <figure>
   <img  align="center" src="KvantGenKromosomer.png" width=350 title="Kromosomer">
  </figure>
-
 
 Hvis allelerne alle er additive, vil de have den samme fænottype; der er jo 
 8 +’er i hver genotype. Det er først når der sker en rekombination, hvor man 
@@ -608,8 +606,6 @@ dette kromosom og hvor gennemsnittet så vil stige til 16.
 </details>
 
 ### Opgave 4
-
-
  <figure>
   <img  align="right" src="KvantGenFinke.jpg" width=300 title="Pyrenestes ostrinus">
  </figure>
@@ -643,7 +639,6 @@ Udspaltningerne peger på et enkelt locus med to alleler, S og L, hvor L dominer
 S krydset med S får altid S afkom, medens de øvrige krydsninger spalter ud. Gentyperne 
 LL og LS resulterer i fænotypen stort næb L, medens genotypen ss resulterer i fænotypen lille næb S. 
 
-
 </p>
 </details>
 
@@ -676,7 +671,7 @@ viser fugle, som ikke overlever til voksenstadiet.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
+Disruptiv selektion, hvor de to grupper har forskellige fødenicher.
 </p>
 </details>
 
@@ -685,7 +680,9 @@ viser fugle, som ikke overlever til voksenstadiet.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
+Stabiliserende selektion, hvor individer tæt på middelværdien af en given 
+størrelsesklasse har højere overlevelse end individer længere væk fra 
+middelværdien.
 </p>
 </details>
 
@@ -698,12 +695,12 @@ kvantitativ genetisk karakter, hvis fænotypiske varians
 (*V<sub>P</sub>*) udelukkende består af additiv genetisk varians
 (*V<sub>A</sub>*) og miljøvarians (*V<sub>E</sub>*),
 
-*V<sub>P</sub>* = *V<sub>A</sub>* + *V<sub>E</sub>*.
+$$V_P = V_A + V_E.$$
 
 Additiv genetisk varians aftager på samme måde som gendiversitet som
 følge af genetisk drift,
 
-*V<sub>A</sub>*(*t*) = *V<sub>A</sub>*(0)(1 – 1/(2*N*))*<sup>t</sup>*,
+$$V_A(t) = V_A(0)\left(1 – \frac{1}{2N}\right)^t,$$
 
 Hvor *V<sub>A</sub>*(*t*) og *V<sub>A</sub>*(0) er henholdsvis den
 additive genetiske varians i generation *t* og i generation 0.
@@ -713,7 +710,12 @@ additive genetiske varians i generation *t* og i generation 0.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
+<figure>
+  <img  align="center" src="KvantGenV_AtoverVA0.png" 
+   width=550 title="V_A/V_0">
+ </figure>
 
+	
 </p>
 </details>
 
@@ -722,7 +724,7 @@ additive genetiske varians i generation *t* og i generation 0.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
+Vi forventer, at der indstiller sig en ligevægt mellem tab gennem genetisk drift og input via nye mutationer. 
 </p>
 </details>
 
@@ -738,7 +740,7 @@ populationen.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
+$$V_E = V_P – V_A = 8 – 0,75 × 8 = 2$$
 </p>
 </details>
 
@@ -747,6 +749,26 @@ populationen.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
+Selektionsdifferentialet er ens i begge populationer, $S = 4$
+
+Responsen er givet ved
+
+$$
+R = h^2 × S
+$$
+Ny-indsamlet population
+$$
+R = 0,75 × 4 = 3
+$$
+Afkomspopulationens middelværdi: 10 + 3 = 13
+
+Population, der har været 16 generationer i laboratoriet
+$$
+R = 0,58 × 0,75 × 4 = 1,74.
+$$
+Afkomspopulationens middelværdi: 10 + 1,74 = 11,74
+
+(Her er heritabiliteten 0,58 af den oprindelige.)
 
 </p>
 </details>
