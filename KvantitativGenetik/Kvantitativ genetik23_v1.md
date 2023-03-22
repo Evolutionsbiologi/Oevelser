@@ -230,7 +230,7 @@ mennesker finder en partner, der også er høj, samt at lave mennesker har
 den samme tendens.
    
 <figure>
-  <img  align="center" src="KvantGenAssortativ.png" width=500 title="Assortativ parring">
+  <img  align="center" src="KvantGenAssortativ.jpeg" width=500 title="Assortativ parring">
  </figure>
 
 1)  Figuren indeholder regressionslinjen for mødres højde som funktion
@@ -249,7 +249,7 @@ De følgende figurer viser fordelingerne af højde for mandlige og
 kvindelige studerendes højde, samt for deres forældres højde.
    
 <figure>
-  <img  align="center" src="KvantGenHoejdefordeling.png" width=550 title="Højdefordelinger">
+  <img  align="center" src="KvanGenHoejdefordeling.jpeg" width=550 title="Højdefordelinger">
  </figure>
 
 |Højde                       |Gennemsnit |Varians  |*N*    |
@@ -283,7 +283,7 @@ en generationstid på 25 år.
 </details>
 
 <figure>
-  <img  align="center" src="KvantGenFordelingBoern.png" width=550 title="Fordeling af antal børn">
+  <img  align="center" src="KvantGenFordelingBoern.jpeg" width=550 title="Fordeling af antal børn">
  </figure>
 
 |           |Gennemsnit |Varians  |*N*    |
@@ -384,7 +384,7 @@ Kønsratio, der afviger fra 1:1 i særkønnede arter. Populationssvingninger ige
 </details>
 
  <figure>
-  <img  align="center" src="KvantGenhrhoejde.png" width=650 title="Heritabilitet af højde">
+  <img  align="center" src="KvantGenHeritabilitetHoejde.jpeg" width=650 title="Heritabilitet af højde">
  </figure>
 
 De følgende tabeller viser varianser og covarianser, som er nødvendige
@@ -426,7 +426,7 @@ heritabiliteten af antal børn. Antallet af streger ud fra et punkt
 viser, hvor mange observationer, der er gjort for dette punkt.
 
  <figure>
-  <img  align="center" src="KvantGenHeritabilitetBoern.png" width=550 title="Heritabilitet af børn">
+  <img  align="center" src="KvantGenHeritabilitetBoern.jpeg" width=550 title="Heritabilitet af børn">
  </figure>
 
 De følgende tabeller viser varianser og covarianser, som er nødvendige
@@ -637,7 +637,7 @@ er angivet med S
 <p>
 Udspaltningerne peger på et enkelt locus med to alleler, S og L, hvor L dominerer over S. 
 S krydset med S får altid S afkom, medens de øvrige krydsninger spalter ud. Gentyperne 
-LL og LS resulterer i fænotypen stort næb L, medens genotypen ss resulterer i fænotypen lille næb S. 
+LL og LS resulterer i fænotypen stort næb L, medens genotypen SS resulterer i fænotypen lille næb S. 
 
 </p>
 </details>
@@ -801,6 +801,7 @@ afkomsgeneration.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
+
 *S* = 11 uger – 12 uger = – 1 uge
 </p>
 </details>
@@ -810,6 +811,7 @@ afkomsgeneration.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
+
 Respons: *R* = *h*<sup>2</sup> × *S* = –1 × 0,4 = –0,4
 Middelværdi af afkomsgenerationen: 12 – 0,4 = 11,6
 
