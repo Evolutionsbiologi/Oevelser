@@ -765,6 +765,7 @@ $$
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
+ 
 $$\chi^2 =\sum_{i=1}^3\frac{(O_i-E_i)^2}{E_i} = 10,00 \qquad P = 0,00148
 $$
 </p>
