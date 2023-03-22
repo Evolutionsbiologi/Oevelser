@@ -126,7 +126,7 @@ h^2_N =b.
 $$
 
 
-Det er vist i figuren  for højde hos kvindelige og mandligestudenter, der
+Det er vist i figuren  for højde hos kvindelige studerende, der
 har deltaget i kurset i evolutionsbiologi.
 
 Laves en regression mellem afkom og *den ene forælder*, kan det vises,
@@ -254,10 +254,10 @@ kvindelige studerendes højde, samt for deres forældres højde.
 
 |Højde                       |Gennemsnit |Varians  |*N*    |
 |----------------------------|:---------:|:-------:|:-----:|
-|Kvindelige studenter        |169,33     |42,84    |503    |        
-|Kvindelige studenters mødre |167,35     |40.43    |503    |
-|Mandlige studenter          |182,98     |47,24    |244    |
-|Mandlige studenters fædre   |181,24     |40,68    |244    |
+|Kvindelige studerende       |169,33     |42,84    |503    |        
+|Kvindelige studrendes mødre |167,35     |40.43    |503    |
+|Mandlige studerende         |182,98     |47,24    |244    |
+|Mandlige studerendes fædre  |181,24     |40,68    |244    |
 
 2)  Hvordan ændres højden for de to køn sig mellem generationerne? Man
     kan vise, at forskellen er statistisk signifikant for begge køn.
