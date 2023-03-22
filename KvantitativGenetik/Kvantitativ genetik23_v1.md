@@ -13,8 +13,8 @@ Kvantitative karakterer er under indflydelse fra variationen fra et
 større antal loci. Disse karakterer udviser fænotypisk variation, hvor
 forskellene mellem individer ofte er så små, at de kan være svære at
 måle, og hvor det er vanskeligt at beskrive den genetiske baggrund, der
-bestemmer dem. Et eksempel er illustreret i den følgende figur, som
-viser højden hos 380 kvindelige delagere i kurset i evolutionsbiologi.
+bestemmer dem. Et eksempel er illustreret i figuren, som
+viser fordelingen af højden hos 380 kvindelige delagere i kurset i evolutionsbiologi.
 Til denne kategori hører også antal afkom, overlevelse og andre
 egenskaber, der er knyttet til et dyrs eller en plantes evne til at
 producere afkom til næste generation. De sidstnævnte karakterer er alle
