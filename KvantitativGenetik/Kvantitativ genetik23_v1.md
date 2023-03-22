@@ -116,9 +116,10 @@ $$
  </figure>
 
 Heritabiliteten beregnes nemt ved regressioner mellem beslægtede
-individer. Det kan vises, at heritabiliteten er lig med  
-regressionskoefficienten *b* mellem afkommets værdi og *forældrenes
-middelværdi* for den observerede karakter, det vil sige
+individer. Det kan vises, at heritabiliteten 
+er lig med regressionskoefficienten *b* mellem afkommets værdi 
+og *forældrenes middelværdi* for den observerede karakter, 
+det vil sige
 
 $$
 h^2_N =b.
@@ -277,7 +278,6 @@ en generationstid på 25 år.
 <figure>
   <img  align="center" src="KvantGenHoejdeTilvaekstMaend.png" width=550 title="Tilvækst i højde">
  </figure>
-
 
 </p>
 </details>
@@ -610,7 +610,7 @@ dette kromosom og hvor gennemsnittet så vil stige til 16.
   <img  align="right" src="KvantGenFinke.jpg" width=300 title="Pyrenestes ostrinus">
  </figure>
 
-Den afrikanske finke (*Pyrenestes ostrinus*) er blevet studeret af
+Den afrikanske finke *Pyrenestes ostrinus* er blevet studeret af
 Thomas Bates Smith. Fugle i denne art findes i to grupper med forskellig
 næbstørrelse; en gruppe med store næb og en gruppe med små næb. Figuren
 til højre viser en fordeling af næbstørrelsen i en naturlig population i
