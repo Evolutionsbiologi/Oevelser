@@ -77,7 +77,8 @@ forårsaget af ikke-additive bidrag fra de for- skellige loci. Et andet
 navn for denne er epistatisk varians.
 
 <figure>
-  <img  align="center" src="KvantGenGenotypiskeVaerdier.png" width=550 title="Genotypiske værdier">
+  <img  align="center" src="KvantGenGenotypiskeVaerdier.png" 
+       width=550 title="Genotypiske værdier">
  </figure>
 
 Genotypiske værdier for en kvantitativ karakter. Foroven: additive
@@ -110,11 +111,13 @@ $$
 
 
 <figure>
-  <img  align="right" src="KvantGenHeritabilitetKvinder.png" width=300 title="Heritabilitet hos kvinder">
+  <img  align="right" src="KvantGenHeritabilitetKvinder.png" 
+       width=300 title="Heritabilitet hos kvinder">
  </figure>
 
 Heritabiliteten beregnes nemt ved regressioner mellem beslægtede
-individer. Det kan vises, at heritabiliteten er lig med  regressionskoefficienten *b* mellem afkommets værdi og *forældrenes
+individer. Det kan vises, at heritabiliteten er lig med  
+regressionskoefficienten *b* mellem afkommets værdi og *forældrenes
 middelværdi* for den observerede karakter, det vil sige
 
 $$
@@ -154,7 +157,7 @@ Naturlig selektion i et autosomalt locus med to alleler kunne opdeles i
 tre forskellige typer
 
 <figure>
-  <img  align="right" src="KvantGenRetnigsSelektion.png" width=250 title="Retningsselektion">
+  <img  align="right" src="KvantGenRetnigsSelektion.png" width=210 title="Retningsselektion">
  </figure>
 
 1.  Retningsselektion, hvor de tre genotyper havde fitnessværdier, enten
@@ -162,7 +165,7 @@ tre forskellige typer
     $W_{11} \le W_{12} \le W_{22}$ med højst ét lighedstegn.
     
 <figure>
-  <img  align="right" src="KvantGenOverdominans.png" width=120 title="Overdominans">
+  <img  align="right" src="KvantGenOverdominans.png" width=100 title="Overdominans">
  </figure>
  
 2.  Overdominans, hvor heterozygoten havde en højere fitness end begge
@@ -170,7 +173,7 @@ tre forskellige typer
     
 
 <figure>
-  <img  align="right" src="KvantGenUnderdominans.png" width=120 title="Genotypiske værdier">
+  <img  align="right" src="KvantGenUnderdominans.png" width=100 title="Genotypiske værdier">
  </figure>
 
 3.  Underdominans, hvor heterozygoten havde en lavere fitness end begge
