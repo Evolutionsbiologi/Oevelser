@@ -153,31 +153,31 @@ Her er der indsamlet *n* parvise kombinationer af *x* og *y* værdier.
 
 ## Selektion på kvantitativ karakter
 
-Naturlig selektion i et autosomalt locus med to alleler kunne opdeles i
+Naturlig selektion i et autosomalt locus med to alleler kan opdeles i
 tre forskellige typer
 
 <figure>
-  <img  align="right" src="KvantGenRetnigsSelektion.png" width=210 title="Retningsselektion">
+  <img  align="right" src="KvantGenRetnigsSelektion.png" width=200 title="Retningsselektion">
  </figure>
 
-1.  Retningsselektion, hvor de tre genotyper havde fitnessværdier, enten
-    som $W_{11} \ge W_{12} \ge W_{22}$     højst ét lighedstegn eller som
-    $W_{11} \le W_{12} \le W_{22}$ med højst ét lighedstegn.
+1.  Retningsselektion, hvor de tre genotyper har fitnessværdier, enten
+    som $W_{11} \ge W_{12} \ge W_{22}$ med højst ét lighedstegn eller som
+    $W_{11} \le W_{12} \le W_{22}$ med højst ét lighedstegn. Der må højst være et lighedstegn, 
+    for ellers vil der ikke være forskel i fitness mellem de tre genotyper.
     
 <figure>
-  <img  align="right" src="KvantGenOverdominans.png" width=100 title="Overdominans">
+  <img  align="right" src="KvantGenOverdominans.png" width=90 title="Overdominans">
  </figure>
  
-2.  Overdominans, hvor heterozygoten havde en højere fitness end begge
-    homozygoter, $W_{12} \ge W_{11}$   og $W_{12} \ge W_{22}$.
-    
+2.  Overdominans, hvor heterozygoten har en højere fitness end begge
+    homozygoter, det vil sige $W_{12} > W_{11}$   og $W_{12} > W_{22}$.
 
 <figure>
-  <img  align="right" src="KvantGenUnderdominans.png" width=100 title="Genotypiske værdier">
+  <img  align="right" src="KvantGenUnderdominans.png" width=90 title="Underdominans">
  </figure>
 
-3.  Underdominans, hvor heterozygoten havde en lavere fitness end begge
-    homozygoter,  $W_{11} \ge W_{12}$   og $W_{22} \ge W_{12}$.
+3.  Underdominans, hvor heterozygoten har en lavere fitness end begge
+    homozygoter, det vil sige $W_{11} < W_{12}$   og $W_{22} < W_{12}$.
 
 For kvantitative karakterer har vi tilsvarende typer for selektion, der
 illustreret i den efterfølgende figur. De tre typer er
@@ -204,7 +204,7 @@ illustreret i den efterfølgende figur. De tre typer er
  </figure>
     
 
-# Kvantitativ GenetikOpgaver
+# Kvantitativ Genetik Opgaver
 
 ## Formål
 
@@ -300,11 +300,16 @@ en generationstid på 25 år.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-Antallet af børn hos mødre aftager med 0,61. Hos fædrene aftager antallet af børn med 0,59.
+Antallet af børn hos mødre aftager med 0,61. Hos fædrene aftager 
+antallet af børn med 0,59.
 
- Bemærk, at hverken fædrene eller mødrene til de studerende har fået flere end 7 børn, medens der hos mormødrene observeres helt op til 12 børn og hos farfædrene 13 børn.
+Bemærk, at hverken fædrene eller mødrene til de studerende har fået 
+flere end 7 børn, medens der hos mormødrene observeres helt op til 
+12 børn og hos farfædrene 13 børn.
 	
-Værdierne er ikke gældende for den danske population som helhed. Værdierne er biased opad.  Vi har jo kun medtaget personer, der har fået mindst et barn i de foregående to generationer.
+Værdierne er ikke gældende for den danske population som helhed. 
+Værdierne er biased opad.  Vi har jo kun medtaget personer, der har 
+fået mindst et barn i de foregående to generationer.
 
 </p>
 </details>
@@ -314,9 +319,18 @@ Værdierne er ikke gældende for den danske population som helhed. Værdierne er
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-Det skyldes formentligt miljømæssige forskelle mellem generationerne. Miljøet har generelt forbedret sig i forhold til folks størrelsesvækst.  Ændringerne med hensyn til antal børn skyldes kulturelle ændringer, hvilket også kan henføres til miljøet.
+Det skyldes formentligt miljømæssige forskelle mellem generationerne. 
+Miljøet har generelt forbedret sig i forhold til folks størrelsesvækst.  
+Ændringerne med hensyn til antal børn skyldes kulturelle ændringer, 
+hvilket også kan henføres til miljøet.
 
-Bemærk (dette er ikke en del af den korrekte besvarelse): En høj heritabilitet (her for højde) betyder, at variationen i en population hovedsageligt skyldes variation mellem genotyper. Det betyder dog ikke, at fænotypen er givet fordi vi kender genotypen. Ændringer i miljøet kan selvfølgeligt ændre en genotypes fænotype, og populationen kan dermed ændre sin middelværdi. Tilsvarende kan gennemsnittet for en karakter med lav heritabilitet også ændres, når miljøet ændres.
+Bemærk (dette er ikke en del af den korrekte besvarelse): En høj 
+heritabilitet (her for højde) betyder, at variationen i en population 
+hovedsageligt skyldes variation mellem genotyper. Det betyder dog ikke, 
+at fænotypen er givet fordi vi kender genotypen. Ændringer i miljøet 
+kan selvfølgeligt ændre en genotypes fænotype, og populationen kan 
+dermed ændre sin middelværdi. Tilsvarende kan gennemsnittet for en 
+karakter med lav heritabilitet også ændres, når miljøet ændres.
 
 </p>
 </details>
@@ -516,7 +530,9 @@ $h^2 = R/S = (16 – 15,8)/(17 – 15,8) = 0,2/1,2 = 0,17$
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-Selektionen ændrer den genetiske sammensætning af populationen, her ved enten at fiksere alleler eller ved at nærme sig ligevægte, hvorved den addiditve genetiske varians i forhold til den fænotypiske varians reduceres.
+Selektionen ændrer den genetiske sammensætning af populationen, her 
+ved enten at fiksere alleler eller ved at nærme sig ligevægte, hvorved 
+den addiditve genetiske varians i forhold til den fænotypiske varians reduceres.
 </p>
 </details>
 
@@ -527,7 +543,12 @@ generationer et fald i hårlængden.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-Faldet skyldes naturlig selektions virkning. Pleiotrope effekter af de selekterede gener kan have reduceret fitness og bliver nu selekteret imod af naturlig selektion. Der kan også have været selekteret skadelige gener koblet til de selekterede loci igennem hitchhiking. Efter den kunstige selektion ophører, bliver de skadelige gener elimineret gennem naturlig selektion.
+Faldet skyldes naturlig selektions virkning. Pleiotrope effekter af 
+de selekterede gener kan have reduceret fitness og bliver nu selekteret 
+imod af naturlig selektion. Der kan også have været selekteret skadelige 
+gener koblet til de selekterede loci igennem hitchhiking. Efter den 
+kunstige selektion ophører, bliver de skadelige gener elimineret gennem 
+naturlig selektion.
 </p>
 </details>
 
@@ -574,7 +595,7 @@ i populationen(++++0000 og 0000++++), og dermed tre genotyper
 
 	
 <figure>
-  <img  align="center" src="KvantGenKromosomer.png" width=550 title="Kromosomer">
+  <img  align="center" src="KvantGenKromosomer.png" width=350 title="Kromosomer">
  </figure>
 
 
