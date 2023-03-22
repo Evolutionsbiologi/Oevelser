@@ -204,7 +204,7 @@ individer med antallet *N,* og at hyppigheden af allel *A*<sub>1</sub>
 er *p*<sub>1</sub> i generation 0. Så er sandsynligheden for at der i
 generation 1 er *j* *A*<sub>1</sub>-alleler i populationen givet ved
 
-$$  p(j) = {2N \choose j}p_1^i (1-p_1)^{2N-j}$$
+$$  p(j) = {2N \choose j}p_1^j (1-p_1)^{2N-j}$$
 
 Ligningen giver en fuldstændig beskrivelse af fordelingen af antallet af
 allel *A*<sub>1</sub> i generation 1. Lad os starte med en population i
