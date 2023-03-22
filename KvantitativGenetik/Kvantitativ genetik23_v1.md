@@ -712,7 +712,7 @@ additive genetiske varians i generation *t* og i generation 0.
 <p>
 <figure>
   <img  align="center" src="KvantGenV_AtoverVA0.png" 
-   width=550 title="V_A/V_0">
+   width=150 title="V_A/V_0">
  </figure>
 
 	
@@ -753,19 +753,18 @@ Selektionsdifferentialet er ens i begge populationer, $S = 4$
 
 Responsen er givet ved
 
-$$
-R = h^2 × S
-$$
+*R* = *h*<sup>2</sup> × *S*
+
 Ny-indsamlet population
-$$
-R = 0,75 × 4 = 3
-$$
+
+*R* = 0,75 × 4 = 3
+
 Afkomspopulationens middelværdi: 10 + 3 = 13
 
 Population, der har været 16 generationer i laboratoriet
-$$
-R = 0,58 × 0,75 × 4 = 1,74.
-$$
+
+*R* = 0,58 × 0,75 × 4 = 1,74.
+
 Afkomspopulationens middelværdi: 10 + 1,74 = 11,74
 
 (Her er heritabiliteten 0,58 af den oprindelige.)
@@ -782,7 +781,8 @@ karakteren 14
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
+Det ved vi intet om. Heritabiliteten fortæller **kun** noget om variationen 
+**inden for** en population. Vi bliver nødt til at lave et common garden experiment.
 </p>
 </details>
 
@@ -801,7 +801,7 @@ afkomsgeneration.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
+*S* = 11 uger – 12 uger = – 1 uge
 </p>
 </details>
 
@@ -810,6 +810,8 @@ afkomsgeneration.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
+Respons: *R* = *h*<sup>2</sup> × *S* = –1 × 0,4 = –0,4
+Middelværdi af afkomsgenerationen: 12 – 0,4 = 11,6
 
 </p>
 </details>
@@ -826,6 +828,10 @@ er faldet til det halve.
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
+*H*<sup>t</sup>t = *H*<sup>0</sup>(1 – 1/(2*N*<sub>e</sub>))<sup>t</sup>
+
+*H*<sup>t</sup>t/*H*<sup>0</sup>0 = 0,5 ≈ (1 – 1/(2×6))<sup>8</sup>
+
 </p>
 </details>
 
@@ -836,7 +842,11 @@ er faldet til det halve.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-
+Det er primært genetisk drift der vil påvirke den genetiske variation 
+i avlsstammen. Tabet af variation reduceres bedst ved at have så stor 
+population som muligt i hver generation (min. genetisk drift)+ lige 
+mange haner som høner (max *N*<sub>e</sub>) + lige meget afkom pr 
+høne (max *N*<sub>e</sub>).
 </p>
 </details>
 
