@@ -386,7 +386,7 @@ $$
 
 Da *p* er tæt på 1, vil vi have
 
-$$e sq^2\approx \mu$$
+$$q^2\approx \mu$$
 
 som løses til
 
@@ -743,17 +743,33 @@ Nej. De forventede antal under antagelse af Hardy-Weinberg proportioner er
 |Genotype | *TthTh*      |*Thth*	| *thth*      | *N* |
 |---------|:------------:|:------------:|:-----------:|:---:|
 |O	  |9196	         |800           |   4	      |10000|
-|E	  | $\footnotesize p^2 \times N$| $\footnotesize 2pq \times N$|$\footnotesize q^2 \times N$| $\footnotesize N$ |
+|E	  |$p^2 \times N$|$2pq \times N$|$q^2\times N$| $N$ |
 |         |    =	 |       =      |   =         |     |
 |         |	9208,32  | 775,36       |16,32        |     |
 
 $$
-\scriptsize
- \chi^2 =\sum _{i=1}^3\frac{(O_i-E_i)^2}{E_i}=10,00 \qquad P = 0,00148
+ \chi^2 =\sum_{i=1}^3\frac{(O_i-E_i)^2}{E_i} = 10,00 \qquad P = 0,00148
 $$
 
 </p>
 </details>
+
+$$
+ \chi^2 =\sum_{i=1}^3\frac{(O_i-E_i)^2}{E_i} = 10,00 \qquad P = 0,00148
+$$
+<p>
+$$
+ \chi^2 =\sum_{i=1}^3\frac{(O_i-E_i)^2}{E_i} = 10,00 \qquad P = 0,00148
+$$
+</p>
+
+<details><summary>Klik for at se svaret.</summary>
+<p>
+$$\chi^2 =\sum_{i=1}^3\frac{(O_i-E_i)^2}{E_i} = 10,00 \qquad P = 0,00148
+$$
+</p>
+</details>
+	
 
 3)  Bestem indavlskoefficienten *F*. \[*F* = (*H<sub>e</sub>* –
     *H<sub>o</sub>*)/*H<sub>e</sub>*, hvor *H<sub>e</sub>* og
