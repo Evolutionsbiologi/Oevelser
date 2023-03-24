@@ -334,7 +334,8 @@ kender. Vi husker på, at den gennemsnitlige allelfrekvens kan bruges som
 et godt bud på allelfrekvensen i populationen før den blev delt op.
 Derfor kan vi beregne det, der kaldes Wright’s *F*-statistik, hvor vi
 beregner den totale populations indavlskoefficient som
-$$ F_{ST}= \frac {V} {p_0(1-p_0)}  $$
+
+$$F_{ST}= \frac {V} {p_0(1-p_0)}  $$
 
 her er *V* variansen af allelfrekvensen hen over alle populationer og
 *p*<sub>0</sub> er den gennemsnitlige allelfrekvens. Bemærk, at vi her
