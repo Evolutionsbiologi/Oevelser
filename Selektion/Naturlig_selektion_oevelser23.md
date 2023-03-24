@@ -208,8 +208,8 @@ ustabile ligevægt.
   <img  align="right" src="SelOverD.png" width=150 title="Over">
  </figure>
 I dette tilfælde har heterozygoten en større fitness end begge
-homozygoter. Der er tale om *overdominans*. Vi har nu igen *tre
-ligevægte*e for polymorfien, men i modsætning til underdominans har vi
+homozygoter. Der er tale om overdominans. Vi har nu igen tre
+ligevægtee for polymorfien, men i modsætning til underdominans har vi
 nu en indre ligevægt
 
 *p* = (*W*<sub>22</sub> - *W*<sub>12</sub>)/(*W*<sub>11</sub> - *W*<sub>12</sub> + *W*<sub>22</sub> - *W*<sub>12</sub>)
