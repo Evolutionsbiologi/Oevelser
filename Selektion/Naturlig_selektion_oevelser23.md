@@ -545,8 +545,12 @@ Hyppigheden af *W*<sup>\*</sup>-kromosomet vil stige, når det introduceres i en
 <p>
 
 Frekvensen af *W*<sup>\*</sup>-kromosomet vil til sidst nå 1, hvor der kun er hunner tilbage i populationen, der så vil uddø.
-Polymorfien kan opretholdes i et system af metapopulationer, hvor der findes “inficerede” og “uinficerede” populationer. “Inficerede” populationer vil efter en tid uddø, hvorpå de koloniseres fra “uinficerede” populationer igen. De “uinficerede” populationer vil ligeledes med en vis rate modtage individer, der bærer *W*<sup>\*</sup>-kromosomet og vil derefter uddø.
- 
+Polymorfien kan opretholdes i et system af metapopulationer, hvor der 
+findes “inficerede” og “uinficerede” populationer. “Inficerede” 
+populationer vil efter en tid uddø, hvorpå de koloniseres fra 
+“uinficerede” populationer igen. De “uinficerede” populationer vil 
+ligeledes med en vis rate modtage individer, der bærer 
+*W*<sup>\*</sup>-kromosomet og vil derefter uddø.
 
 </p>
 </details>
@@ -747,30 +751,12 @@ Nej. De forventede antal under antagelse af Hardy-Weinberg proportioner er
 |         |    =	 |       =      |   =         |     |
 |         |	9208,32  | 775,36       |16,32        |     |
 
-$$
- \chi^2 =\sum_{i=1}^3\frac{(O_i-E_i)^2}{E_i} = 10,00 \qquad P = 0,00148
-$$
 
+<figure>
+  <img  align="center" src="SelChiTest.png" width=550 title="Trifolium">
+ </figure>
 </p>
 </details>
-
-$$
- \chi^2 =\sum_{i=1}^3\frac{(O_i-E_i)^2}{E_i} = 10,00 \qquad P = 0,00148
-$$
-<p>
-$$
- \chi^2 =\sum_{i=1}^3\frac{(O_i-E_i)^2}{E_i} = 10,00 \qquad P = 0,00148
-$$
-</p>
-
-<details><summary>Klik for at se svaret.</summary>
-<p>
- 
-$$\chi^2 =\sum_{i=1}^3\frac{(O_i-E_i)^2}{E_i} = 10,00 \qquad P = 0,00148
-$$
-</p>
-</details>
-	
 
 3)  Bestem indavlskoefficienten *F*. \[*F* = (*H<sub>e</sub>* –
     *H<sub>o</sub>*)/*H<sub>e</sub>*, hvor *H<sub>e</sub>* og
