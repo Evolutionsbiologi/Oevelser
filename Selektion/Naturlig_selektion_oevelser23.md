@@ -244,8 +244,6 @@ Fitnessværdiernes difference fra 1 betegner vi som
 ***selektionskoefficent***. Vi kan derfor udtrykke ligevægtspunktet for
 overdominans ved hjælp af selektionskoefficienterne *s* og *t.*
 
-.
-
 $$
 \begin{aligned}
 p &= \frac{W_{22}-W_{12}}{W_{11} - W_{12}+W_{22}-W_{12}}\\
@@ -753,7 +751,7 @@ Nej. De forventede antal under antagelse af Hardy-Weinberg proportioner er
 
 
 <figure>
-  <img  align="center" src="SelChiTest.png" width=550 title="Trifolium">
+  <img  align="center" src="SelChiTest.png" width=550 title="Chi2 test">
  </figure>
 </p>
 </details>
