@@ -750,11 +750,7 @@ Nej. De forventede antal under antagelse af Hardy-Weinberg proportioner er
 |         |	9208,32  | 775,36       |16,32        |     |
 
 <figure>
-<img  align="right" src="SelChiTest.png" width=225 title="Darwin">
-</figure>
-
-<figure>
-  <img  align="center" src="SelChiTest.png" width=250 title="Chi2 test">
+  <img  align="center" src="SelChiTest.png" width=450 title="Chi2 test">
  </figure>
 </p>
 </details>
