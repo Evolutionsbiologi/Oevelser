@@ -642,7 +642,8 @@ I tilfælde for den apomiktiske plante, der bliver fikseret for heterozygoten me
   <img  align="right" src="SelKondor.png" width=300 title="Kondor">
  </figure>
  
-Den californiske kondor (*Gymnogyps californianus*) har efter
+Den californiske kondor 
+[(*Gymnogyps californianus*)](https://en.wikipedia.org/wiki/California_condor) har efter
 europæernes ankomst til Amerika været forfulgt. Det har resulteret i en
 drastisk nedgang i bestandens størrelse, som kulminerede i 1987, da de
 sidste vilde kondorer blev anbragt i fangenskab (fjorten individer).
@@ -797,7 +798,7 @@ Den relative fitness er beregnet ved at dividere med den højeste fitness, som o
 ### Opgave 6
 
 <figure>
-  <img  align="right" src="SelDelphinium.png" width=200 title="Kondor">
+  <img  align="right" src="SelDelphinium.png" width=200 title="Ridderspore">
  </figure>
 
 Riddersporen *Delphinium nelsonii* er medlem af ranunkelfamilien. Den
