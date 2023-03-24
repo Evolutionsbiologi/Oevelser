@@ -343,7 +343,7 @@ frekvenser for allel *A*<sub>1</sub> i de 10 populationer:
 Nej. Ved genetisk drift ville allelfrekvenserne fordele sig tilfældigt
 over hele spektret fra 0 til 1. Se figuren ovenover. I eksperimentet har 
 alle 10 populationer en allelfrekvens under 0,5, hvilket er meget 
-usandsynligt ($\scriptsize0,5^{10} = 0,000977$).
+usandsynligt ($0,5^{10} = 0,000977$).
 
 </p>
 </details>
