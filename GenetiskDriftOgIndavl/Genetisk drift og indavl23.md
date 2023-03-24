@@ -300,7 +300,7 @@ vil genotypestrukturen kunne beskrives med den følgende fordeling
 
 |Genotype|*A*<sub>1</sub>*A*<sub>1</sub>      |*A*<sub>1</sub>*A*<sub>2</sub>|*A*<sub>2</sub>*A*<sub>2</sub>     |
 |--------|:----------------------------------:|:----------------------------:|:---------------------------------:|
-|Frekvens|*p*<sup>2</sup> + *F<sub>t</sub>pq* |2*pq*(1 - *F*<sub>t</sub>)    |*q*<sup>2</sup> + *F<sub>t</sub>pq*|
+|Frekvens|*p*<sup>2</sup> + *Fpq* |2*pq*(1 - *F*)    |*q*<sup>2</sup> + *Fpq*|
 
 <figure>
   <img  align="right" src="DriftPopStruktur.png" width=350 title="Indavl">
