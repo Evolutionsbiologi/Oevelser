@@ -394,9 +394,9 @@ $$ q =\sqrt{ \mu/s}$$
 Her er de tre genotypers fitness givet med
 
 |                |*A*<sub>11</sub> | *A*<sub>12</sub> |*A*<sub>22</sub>|
-| ---------------|:---------------:|:----------------:|:-------------:|
-| Relativ fitness|1                 |1 – *s*        |1 – *x*|
-|Selektionskoefficient| 0           |*s*       |*x*                   |
+| ---------------|:---------------:|:----------------:|:--------------:|
+| Relativ fitness|1                |1 – *s*           |1 – *x*         |
+|Selektionskoefficient| 0          |*s*               |*x*             |
 
 Hvor *s* er selektionskoefficienten mod den dominante heterozygote
 bærer, og *x* er selektionskoefficienten mod den dominante homozygote
@@ -563,7 +563,7 @@ bærerens fitness, som angivet i tabellen:
 
 | Genotype  |*A*<sub>1</sub>*A*<sub>1</sub>| *A*<sub>1</sub>*A*<sub>2</sub> |  *A*<sub>2</sub>*A*<sub>2</sub>|
 |--------|:----------------------------:|:---------------------:|:-----:|
-|Fitness  |0.6                           |1| 0.4|
+|Fitness  |0.2                           |1| 0.8|
 
 1)  Hvilken form for selektion foregår? Hvad er selektionskoefficenterne
     for de to homozygoter?
@@ -572,9 +572,9 @@ bærerens fitness, som angivet i tabellen:
 
 Overdominant selektion. 	
 
-*A*<sub>1</sub>*A*<sub>1</sub>: *s* = 0.4 
+*A*<sub>1</sub>*A*<sub>1</sub>: *s* = 0.8 
 
-*A*<sub>2</sub>*A*<sub>2</sub>: *t* = 0.6
+*A*<sub>2</sub>*A*<sub>2</sub>: *t* = 0.2
 </p>
 </details>
 
@@ -591,7 +591,7 @@ genetisk drift.
 
 2 ustabile: *p* = 0 og *q* = 1 
 
-1 stabil:  *p = t*/(*s* + *t*) = 0.6/(0.4 + 0.6) = 0.6
+1 stabil:  *p = t*/(*s* + *t*) = 0.2/(0.8 + 0.2) = 0.2
 
 
 </p>
@@ -698,8 +698,7 @@ Allelen er opstået gennem mutation og har gennem genetisk drift opnået den hø
     ligevægt mellem mutation, der har en rate på *μ* = 10<sup>-6</sup>,
     og selektion? (Det vil sige, at populationen har opnået en
     størrelse, hvor drift ikke spiller nogen større rolle. I dette
-    tilfælde bestemmes ligevægtsfrekvensen som
-    $\scriptsize q=\sqrt{\mu/s}$,
+    tilfælde bestemmes ligevægtsfrekvensen som $q=\sqrt{\mu/s}$,
     hvor *s* er selektionskoefficienten mod den letale homozygot.)
 <details><summary>Klik for at se svaret.</summary>
 <p>
