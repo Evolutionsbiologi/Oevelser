@@ -636,7 +636,7 @@ er angivet med S
 <details><summary>Klik for at se svaret.</summary>
 <p>
 Udspaltningerne peger på et enkelt locus med to alleler, S og L, hvor L dominerer over S. 
-S krydset med S får altid S afkom, medens de øvrige krydsninger spalter ud. Gentyperne 
+S krydset med S får altid S afkom, medens de øvrige krydsninger spalter ud. Genotyperne 
 LL og LS resulterer i fænotypen stort næb L, medens genotypen SS resulterer i fænotypen lille næb S. 
 
 </p>
@@ -724,7 +724,8 @@ additive genetiske varians i generation *t* og i generation 0.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
-Vi forventer, at der indstiller sig en ligevægt mellem tab gennem genetisk drift og input via nye mutationer. 
+Vi forventer, at der indstiller sig en ligevægt mellem tab gennem 
+genetisk drift og input via nye mutationer. 
 </p>
 </details>
 
