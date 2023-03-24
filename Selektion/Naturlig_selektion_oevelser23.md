@@ -751,7 +751,7 @@ Nej. De forventede antal under antagelse af Hardy-Weinberg proportioner er
 
 
  <figure>
-  <img  align="right" src="SelDarwin.png" width=225 title="Darwin">
+  <img  align="right" src="SelChiTest.png" width=225 title="Darwin">
  </figure>
 
 <figure>
