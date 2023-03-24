@@ -219,7 +219,7 @@ og at allelerne *D* og *d* optræder med hyppighederne *p* og *q*, kan
 populationens sammensætning beskrives på følgende måde
 
 
-| Genotype       |*DD* $\qquad \qquad$ *Dd* |*dd*               |     |
+| Genotype       |*DD* $\qquad$ *Dd*        |*dd*               |     |
 | :--------------|:------------------------:|:-----------------:|:---:|
 |                |└───┬───┘                 |                   |     |
 |Fænotype        |*D-*                      |  *dd*             | Sum |
