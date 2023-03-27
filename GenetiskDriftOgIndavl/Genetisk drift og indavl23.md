@@ -725,28 +725,11 @@ Det er generationerne med de ***små***  størrelser, der har den største indfl
 I det moderne landbrug benyttes ofte meget få hanner til at inseminere
 et stort antal hunner. Dette gør, at man kan selektere meget hårdt på en given karakter.
 
-$$\begin{aligned}
-    N_e &= \frac{4N_f\times N_m}{N_f+N_m}\\
-        &= \frac{4 \times 100\times N_m \times N_m}{100\times N_m + N_m}\\
-        &= \frac{4 \times 100\times N_m^2}{101\times N_m}\\
-        &= 3,96 \times N_m
-\end{aligned}
-$$
-
-$$\begin{aligned}
-    N_e &= \frac{4N_f\times N_m}{N_f+N_m}\\
-        &= \frac{4 \times 1000\times N_m \times N_m}{1000\times N_m + N_m}\\
-        &= \frac{4 \times 1000\times N_m^2}{1001\times N_m}\\
-        &= 3,9996 \times N_m
-\end{aligned}
-$$
-
 1)  Hvad er den effektive populationsstørrelse, når der er 100 gange så 
     mange hunner som hanner (målt som funktion af antallet af hanner, $N_m$)?
  <details><summary>Klik for at se svaret.</summary>
  <p>
-
- <img  align="center" src="DriftIndavlNeN_fx100xN_m.png" width=450 title="N_f = 100 x N_m">
+ <img  align="center" src="DriftIndavlNeN_fx100xN_m.png" width=200 title="N_f = 100 x N_m">
  </figure>
  </p>
 </details>
@@ -756,18 +739,14 @@ $$
  <details><summary>Klik for at se svaret.</summary>
  <p>
 
- <img  align="center" src="DriftIndavlNeN_fx1000xN_m.png" width=450 title="N_f = 100 x N_m">
+ <img  align="center" src="DriftIndavlNeN_fx1000xN_m.png" width=200 title="N_f = 1000 x N_m">
  </figure>
  </p>
+Vi ser dermed, at hvis antallet af hunner bliver meget større end antallet 
+af hanner, så nærmer den effektive populationsstørrelse, $N_e$, sig $4N_m$.
 </details>
 
-Antag, at antallet af hunner, *N<sub>f</sub>*, er
-**meget** større end antallet af hanner, *N<sub>m</sub>*.(målt som funktion af
-    *N<sub>m</sub>*)? Divider tæller og nævner med *N<sub>f</sub>*, og
-    husk på at *N<sub>m</sub>*/*N<sub>f</sub>* → 0 når antallet af
-    hunner er meget større end antallet af hanner.
-
-2)  Hvilken effekt har den hårde kunstige selektion på kort sigt?
+3)  Hvilken effekt har den hårde kunstige selektion på kort sigt?
 <details><summary>Klik for at se svaret.</summary>
 <p>
 På kort sigt vil den hårde kunstige selektion virke meget stærk. Man vil kunne 
