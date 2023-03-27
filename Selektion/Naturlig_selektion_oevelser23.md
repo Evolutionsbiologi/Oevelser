@@ -370,21 +370,21 @@ sammensmeltning af gameter, som resulterer i Hardy-Weinberg
 fjerne det følgende antal skadelige alleler fra populationen
 
 
-$$ \Delta q(sel) = q^2s$$
+$$ \Delta q(\mathrm{sel}) = q^2s$$
 
 I ligevægt mellem mutation og selektion må vi have, at
 
 
 $$
 \begin{aligned}
-\Delta q(sel) &= q^2s\\
-q^2s&= p\mu  
+\Delta q(\mathrm{sel}) &= \Delta  q(\mu)\\
+          q^2s&= p\mu  
 \end{aligned}
 $$
 
-Da *p* er tæt på 1, vil vi have
+Da $p \approx 1$, vil vi have
 
-$$q^2\approx \mu$$
+$$q^2s\approx \mu$$
 
 som løses til
 
@@ -409,17 +409,21 @@ fjerne det følgende antal skadelige alleler fra populationen
 
 $$
 \begin{aligned}
-\Delta q(sel) &= 2pqs/2\\
-s&= pqs  
+\Delta q(\mathrm{sel}) &= 2pqs/2\\
+                       &= pqs  
 \end{aligned}
 $$
 
 Her dividerer med 2, da hver heterozygot kun bærer en *A*<sub>2</sub>
-allel. Vi husker på, at *p* er tæt på 1. I ligevægt mellem mutation og
+allel. Vi husker på, at  $p \approx 1$. I ligevægt mellem mutation og
 selektion må vi have, at
 
-
-$$ sq\approx \mu$$
+$$
+\begin{aligned}
+\Delta q(\mathrm{sel}) &= \Delta  q(\mu)\\
+                  pqs  &= p\mu  
+\end{aligned}
+$$
 
 som løses til
 
@@ -432,12 +436,12 @@ locus med en letal allel, dvs. *s* = 1, hvor mutationsraten er
 
 $$
 \begin{aligned}
-q_{rec}&=  \sqrt{\mu/s}\\
-       &=  \sqrt{10^{-6}/1}\\
-       &= 0,001\\
-q_{dom}&=  \mu/s\\
-       &=  10^{-6}/1\\
-       &= 0,000.001
+q_{\mathrm{rec}}&=  \sqrt{\mu/s}\\
+                &=  \sqrt{10^{-6}/1}\\
+                &= 0,001\\
+q_{\mathrm{dom}}&=  \mu/s\\
+                &=  10^{-6}/1\\
+                &= 0,000.001
 \end{aligned}
 $$
 
@@ -827,7 +831,7 @@ $$q^2 = 7,4 \times10^{-4}  \Leftrightarrow  q =\sqrt{7,4 \times10^{-4}}= 0,0272$
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-*w*<sub>hvid</sub> = 143/229 = 0,624 
+$$w_{\mathrm{hvid}} = 143/229 = 0,624. $$
 </p>
 </details>
 
@@ -835,7 +839,7 @@ $$q^2 = 7,4 \times10^{-4}  \Leftrightarrow  q =\sqrt{7,4 \times10^{-4}}= 0,0272$
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-*s* = 1 – 0.624 = 0,376
+$$s = 1 – 0.624 = 0,376.$$
 </p>
 </details>
 
@@ -846,7 +850,7 @@ skal mutationsraten bestemmes.
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-$$\sqrt{\mu/s} \Leftrightarrow \mu = q^2s  =7,4 \times10^{-4}\times 0,376= 2,78\times \times10^{-4}$$
+$$q = \sqrt{\mu/s} \Leftrightarrow \mu = q^2s  = 7,4 \times10^{-4}\times 0,376= 2,78 \times 10^{-4}$$
 </p>
 </details>
 
