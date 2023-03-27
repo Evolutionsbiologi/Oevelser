@@ -349,7 +349,6 @@ En anden måde at beregne *F<sub>ST</sub>* på er at se på, hvor meget
 diversiteten i en totalpopulation nedsættes på grund af dens opsplitning
 i subpopulationer. Her benyttes ligningen
 
-
 $$ F_{ST}=\frac{{H_T-\overline{H}_S }}{H_T}$$
 
 hvor *H<sub>T</sub>* er den forventede diversitet i totalpopulationen
@@ -738,7 +737,7 @@ et stort antal hunner. Dette gør, at man kan selektere meget hårdt på en give
  <img  align="center" src="DriftIndavlNeN_fx1000xN_m.png" width=200 title="N_f = 1000 x N_m">
  </figure>
  </p>
-Vi ser dermed, at hvis antallet af hunner bliver *meget* større end antallet 
+Vi ser dermed, at hvis antallet af hunner bliver meget større end antallet 
 af hanner, så nærmer den effektive populationsstørrelse, $N_e$, sig $4N_m$.
 </details>
 
