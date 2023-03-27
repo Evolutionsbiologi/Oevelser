@@ -510,7 +510,9 @@ Populationerne divergerer hurtigere.  Effekten af genetisk drift tiltager med fa
   <img  align="center" src="DriftSimul10.png" width=600 title="Simull">
  </figure>
 
-Genetisk drift virker endnu stærkere.  Med en populationsstørrelse på 10 ender stort set alle populationer med at blive fikseret inden der er gået 100 generationer
+Genetisk drift virker endnu stærkere.  Med en populationsstørrelse på 10 
+ender stort set alle populationer med at blive fikseret inden der er 
+gået 100 generationer
 </p>
 </details>
 
@@ -591,7 +593,8 @@ en størrelse på 100 over 10 generationer med en frekvens af allel
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-Ja, der er tale om underdominans, hvor heterozygoten har mindre fitness end begge homozygoter.
+Ja, der er tale om underdominans, hvor heterozygoten har mindre 
+fitness end begge homozygoter.
 </p>
 </details>
 
@@ -642,22 +645,14 @@ Han simulerede 10 populationer for hvert scenarie i 50 generationer.
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-- I: C Når allelfrekvensen skubbes bort fra 0,5, fortsætter den enten mod 1 eller 0. Når frekvensen er over 0,6 eller under 0,4 bevæger den sig ikke tilbage og krydser 0,5.
-- II: B Her divergerer allelfrekvenserne tilfældigt. Det kan gå både op og ned. Allelfrekvenserne spredes over et stadigt bredere interval med tiden.
-- III: D Overdominant selektion med en ligevægtsfrekvens på 0,5 holder allelfrekrekvensen tæt på 0,5.
+- I: C Når allelfrekvensen skubbes bort fra 0,5, fortsætter den enten 
+  mod 1 eller 0. Når frekvensen er over 0,6 eller under 0,4 bevæger 
+  den sig ikke tilbage og krydser 0,5.
+- II: B Her divergerer allelfrekvenserne tilfældigt. Det kan gå både 
+  op og ned. Allelfrekvenserne spredes over et stadigt bredere interval med tiden.
+- III: D Overdominant selektion med en ligevægtsfrekvens på 0,5 holder 
+  allelfrekrekvensen tæt på 0,5.
 - IV: A Retningsselektion fikserer alle populationer med *p* = 1.
-
-<---
-Bonuspoint: med selektionskoefficienter på 0,1, som er tilfældet her, og N =200, gælder der, at
-
-2*Ns* > 1
-
-Her er
-
-2 × 200 × 0,1 = 40 >> 1.
-
-Dvs., at det er naturlig selektion, der afgør udfaldet. Genetisk drift spiller ingen stor rolle.
---->
 </p>
 </details>
 
@@ -706,8 +701,9 @@ til
 <details><summary>Klik for at se svaret.</summary>
 <p>
  <figure>
-  <img  align="center" src="DriftHarmAveMuskox.png" width=400 title="Harmonisk gennemsnit">
+  <img  align="center" src="DriftHarmAveMuskox_.png" width=400 title="Harmonisk gennemsnit">
  </figure>
+
 </p>
 </details>
 
@@ -742,7 +738,7 @@ et stort antal hunner. Dette gør, at man kan selektere meget hårdt på en give
  <img  align="center" src="DriftIndavlNeN_fx1000xN_m.png" width=200 title="N_f = 1000 x N_m">
  </figure>
  </p>
-Vi ser dermed, at hvis antallet af hunner bliver meget større end antallet 
+Vi ser dermed, at hvis antallet af hunner bliver *meget* større end antallet 
 af hanner, så nærmer den effektive populationsstørrelse, $N_e$, sig $4N_m$.
 </details>
 
