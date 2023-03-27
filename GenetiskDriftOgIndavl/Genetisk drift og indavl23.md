@@ -687,6 +687,13 @@ til
 
 1)  Beregn populationens gennemsnitsstørrelse over de 6 generationer.
 
+$$\begin{aligned}
+\overline{N} &= (N_1 + N_2 + \cdots + N_k)/k\\
+             &= (27 + 150 + 834 + 2400 + 3500 + 4000)/6\\
+             &= 1831
+\end{aligned}
+$$
+
 <details><summary>Klik for at se svaret.</summary>
 <p>
  <figure>
