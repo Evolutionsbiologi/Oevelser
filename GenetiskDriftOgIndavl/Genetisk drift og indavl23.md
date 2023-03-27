@@ -271,19 +271,20 @@ melanogaster.*
  </figure>
 
 For en population med variabel størrelse, kan den effektive
-populationsstørrelse beregnes som det harmoniske gennemsnit
+populationsstørrelse beregnes som 
 
-$$ \frac{1}{N_{e}} = \frac{\underline{1}}{t}\sum_{i}^{t}{}\frac{1}{N_{i}}$$
+$$ N_{e} = \frac{k}{\frac{1}{N_1} + \frac{1}{N_2} + \cdots + \frac{1}{N_k} 
+                   }$$
 
 hvor *N<sub>i</sub>* er populationens størrelse i generation *i*. Det
-samlede antal generationer sættes til *t*. Det antages, at der er lige
+samlede antal generationer er *k*. Det antages, at der er lige
 mange hanner og hunner i populationen.
 
 Hvis kønsratioen i en population afviger fra 50% hunner og 50% hanner,
 vil den effektive populationsstørrelse være mindre end den observerede.
 Den kan estimeres med følgende formel
 
-$${N_{e}} = \ \frac{4N_f\times N_m}{N_f+N_m}$$
+$$N_e = \frac{4N_f\times N_m}{N_f+N_m}$$
 
 hvor *N<sub>f</sub>* og *N<sub>m</sub>* er henholdsvis antallet af
 hunner og hanner i populationen.
@@ -646,6 +647,7 @@ Han simulerede 10 populationer for hvert scenarie i 50 generationer.
 - III: D Overdominant selektion med en ligevægtsfrekvens på 0,5 holder allelfrekrekvensen tæt på 0,5.
 - IV: A Retningsselektion fikserer alle populationer med *p* = 1.
 
+<---
 Bonuspoint: med selektionskoefficienter på 0,1, som er tilfældet her, og N =200, gælder der, at
 
 2*Ns* > 1
@@ -655,7 +657,7 @@ Her er
 2 × 200 × 0,1 = 40 >> 1.
 
 Dvs., at det er naturlig selektion, der afgør udfaldet. Genetisk drift spiller ingen stor rolle.
-
+--->
 </p>
 </details>
 
@@ -721,23 +723,49 @@ Det er generationerne med de ***små***  størrelser, der har den største indfl
 ### Opgave 5
 
 I det moderne landbrug benyttes ofte meget få hanner til at inseminere
-et stort antal hunner. Antag, at antallet af hunner, *N<sub>f</sub>*, er
-**meget** større end antallet af hanner, *N<sub>m</sub>*.
+et stort antal hunner. Dette gør, at man kan selektere meget hårdt på en given karakter.
 
-1)  Hvad er den effektive populationsstørrelse (målt som funktion af
+$$\begin{aligned}
+    N_e &= \frac{4N_f\times N_m}{N_f+N_m}\\
+        &= \frac{4 \times 100\times N_m \times N_m}{100\times N_m + N_m}\\
+        &= \frac{4 \times 100\times N_m^2}{101\times N_m}\\
+        &= 3,96 \times N_m
+\end{aligned}
+$$
+
+$$\begin{aligned}
+    N_e &= \frac{4N_f\times N_m}{N_f+N_m}\\
+        &= \frac{4 \times 1000\times N_m \times N_m}{1000\times N_m + N_m}\\
+        &= \frac{4 \times 1000\times N_m^2}{1001\times N_m}\\
+        &= 3,9996 \times N_m
+\end{aligned}
+$$
+
+1)  Hvad er den effektive populationsstørrelse, når der er 100 gange så 
+    mange hunner som hanner (målt som funktion af antallet af hanner, $N_m$)?
+ <details><summary>Klik for at se svaret.</summary>
+ <p>
+
+ <img  align="center" src="DriftIndavlNeN_fx100xN_m.png" width=450 title="N_f = 100 x N_m">
+ </figure>
+ </p>
+</details>
+
+2)  Hvad er den effektive populationsstørrelse, når der er 1000 gange så 
+    mange hunner som hanner (målt som funktion af antallet af hanner, $N_m$)?
+ <details><summary>Klik for at se svaret.</summary>
+ <p>
+
+ <img  align="center" src="DriftIndavlNeN_fx1000xN_m.png" width=450 title="N_f = 100 x N_m">
+ </figure>
+ </p>
+</details>
+
+Antag, at antallet af hunner, *N<sub>f</sub>*, er
+**meget** større end antallet af hanner, *N<sub>m</sub>*.(målt som funktion af
     *N<sub>m</sub>*)? Divider tæller og nævner med *N<sub>f</sub>*, og
     husk på at *N<sub>m</sub>*/*N<sub>f</sub>* → 0 når antallet af
     hunner er meget større end antallet af hanner.
-
-<details><summary>Klik for at se svaret.</summary>
-<p>
-
-  <figure>
-  <img  align="center" src="DriftIndavlNeSkaevKoensratio.png" width=200 title="NeSkaevKoensratio">
- </figure>
-
-</p>
-</details>
 
 2)  Hvilken effekt har den hårde kunstige selektion på kort sigt?
 <details><summary>Klik for at se svaret.</summary>
