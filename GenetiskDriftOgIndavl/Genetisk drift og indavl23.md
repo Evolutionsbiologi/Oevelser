@@ -687,17 +687,10 @@ til
 
 1)  Beregn populationens gennemsnitsstørrelse over de 6 generationer.
 
-$$\begin{aligned}
-\overline{N} &= (N_1 + N_2 + \cdots + N_k)/k\\
-             &= (27 + 150 + 834 + 2400 + 3500 + 4000)/6\\
-             &= 1831
-\end{aligned}
-$$
-
 <details><summary>Klik for at se svaret.</summary>
 <p>
  <figure>
-  <img  align="center" src="DriftAveMuskox.png" width=400 title="Gennemsnit">
+  <img  align="center" src="DriftAveMuskox_.png" width=400 title="Gennemsnit">
  </figure>
 
 </p>
@@ -767,7 +760,7 @@ variation pga. genetisk drift. Dette reducerer effekten af kunstig selektion.
 
 ###  Opgave 6
 
-Betragt den følgende genealogi af *k* = 10 gener.
+Betragt den følgende genealogi af *N* = 10 gener.
 <figure>
   <img  align="center" src="DriftCoalescence.jpg" width=350 title="Coalescence">
  </figure>
