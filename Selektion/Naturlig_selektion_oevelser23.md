@@ -663,7 +663,7 @@ recessiv letal allel.
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-*q* ≥ 2/(2 x 14) = 0,071.
+$$q \geq 2/(2 \times 14) = 0,071.$$
 
 Der må mindst have været to heterozygoter blandt de fjorten individer.
 
@@ -709,7 +709,8 @@ Allelen er opstået gennem mutation og har gennem genetisk drift opnået den hø
 <p>
 
 Ligevægtsfrekvensen mellem mutation og naturlig selektion er givet ved
-	*q* = √(10<sup>-6</sup>/1) =0,001
+
+$$q = \sqrt{10^{-6}/1} = 0,001$$
 
 </p>
 </details>
