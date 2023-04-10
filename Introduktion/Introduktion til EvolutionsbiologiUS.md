@@ -73,7 +73,7 @@ $$
 
 
  <figure>
-  <img  align="right" src="IntroDenisova.png" width=225 title="Mutation">
+  <img  align="right" src="IntroDenisova.png" width=225 title="Denisova hule">
  </figure>
 
 Vi vil her benytte dette til at bestemme alderen på en hidtil ukendt
