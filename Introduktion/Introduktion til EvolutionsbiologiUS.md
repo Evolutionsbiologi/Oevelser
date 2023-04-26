@@ -68,7 +68,7 @@ nukleotidforskelle, *D*, mellem to sekvenser beregne hvor lang tid siden
 de splittedes ad,
 
 $$ 
-T = D/(2L).
+T = D/(2μL).
 $$
 
 
