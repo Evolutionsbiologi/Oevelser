@@ -332,6 +332,8 @@ ende op i et lokalt maksimum.
 <div style="page-break-before:always">&nbsp;</div>
 <p></p>
 
+<span class='page-break'/><span class='page-break'/>
+
 ### Ligevægt mellem mutation og selektion
 
 Langt de fleste mutationer i kodende gener viser sig at være skadelige.
