@@ -23,7 +23,7 @@ tilpasningen til deres miljø. De bedst tilpassede individer har større
 chancer for at overleve og reproducere sig. På grund af arv vil de
 derfor delvist videregive egenskaberne til næste generation, som så vil
 være bedre tilpasset til miljøet end forældrene var det i generationen
-før
+før.
 
  <figure>
   <img  align="right" src="SelDarwin.png" width=225 title="Darwin">
@@ -109,7 +109,7 @@ p(W_{11} - W_{12}) -q(W_{22}-W_{12})=0
 $$
 
 har en løsning med allelfrekvenserne i intervallet fra 0 til 1.
-Ligningen kan løses efter *p* (hvor vi husker, at *q* = 1 – *p*).
+Ligningen kan løses efter *p* (hvor vi husker, at *q* = 1 – *p*)
 
 $$
 p= \frac{W_{22}-W_{12}}{ W_{11} - W_{12}+W_{22}-W_{12}}
@@ -198,7 +198,7 @@ som er en ***ustabil ligevægt***, dvs, hvis man ændrer frekvensen af allel
 *A*<sub>1</sub> lidt fra ligevægten, vil den bevæge sig bort fra den.
 
 I dette system vil vi ende op med en allelfrekvens af *A*<sub>1</sub> på
-enten 0 eller 1, afhængigt af, om ceder startes under eller over den
+enten 0 eller 1, afhængigt af, om der startes under eller over den
 ustabile ligevægt.
 
 
@@ -234,7 +234,7 @@ Derfor kan vi normere værdierne, hvor vi sætter den højeste værdi til 1.
 I det nævnte tilfælde bliver værdierne så ½, 1 og ½. Generelt kan vi
 udtrykke fitnessværdierne som i følgende tabel
 
-|Genotype             |*A*<sub>11</sub>|*A*<sub>12</sub> |*A..*<sub>22</sub>|
+|Genotype             |*A*<sub>11</sub>|*A*<sub>12</sub> |*A*<sub>22</sub>  |
 |---------------------|:--------------:|:---------------:|:----------------:|
 |Fitness              |*W*<sub>11</sub>| *W*<sub>12</sub>|*W*<sub>22</sub>  |
 |Relativ fitness      |1 – *s*         |1                | 1 – *t*          |
@@ -253,6 +253,8 @@ p &= \frac{W_{22}-W_{12}}{W_{11} - W_{12}+W_{22}-W_{12}}\\
 \end{aligned}
 $$
 
+<br>
+ 
 ### Ændring i populationens gennemsnitlige fitness
 
 Darwin’s grundlæggende observation var, at de bedst tilpassede individer
@@ -334,6 +336,7 @@ ende op i et lokalt maksimum.
 
 <span class='page-break'/><span class='page-break'/>
 
+<br>
 
 ### Ligevægt mellem mutation og selektion
 
