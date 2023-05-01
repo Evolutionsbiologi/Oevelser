@@ -338,6 +338,10 @@ ende op i et lokalt maksimum.
 
 <br>
 
+<br>
+
+<br>
+
 ### Ligevægt mellem mutation og selektion
 
 Langt de fleste mutationer i kodende gener viser sig at være skadelige.
