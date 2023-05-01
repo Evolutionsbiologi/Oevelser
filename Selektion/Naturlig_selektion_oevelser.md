@@ -167,8 +167,8 @@ med højst ét lighedstegn
  </figure>
  
 Dette system er ækvivalent til det første, nu vil naturlig selektion øge
-frekvensen af allel *A*<sub>2</sub>. Der findes to ligevægte
-for allel *A*<sub>1</sub>
+frekvensen af allel *A*<sub>2</sub>, som vil blive fikseret i populationen. 
+Der findes to ligevægte for allel *A*<sub>1</sub>
 
 0: som er ***stabil***, dvs, hvis man ændrer frekvensen af
 *A*<sub>1</sub> lidt fra 0, vil den bevæge sig tilbage til 0.
