@@ -575,8 +575,8 @@ Betragt et autosomalt locus med to alleler, der har indflydelse på
 bærerens fitness, som angivet i tabellen:
 
 | Genotype  |*A*<sub>1</sub>*A*<sub>1</sub>| *A*<sub>1</sub>*A*<sub>2</sub> |  *A*<sub>2</sub>*A*<sub>2</sub>|
-|--------|:----------------------------:|:---------------------:|:-----:|
-|Fitness  |0.2                           |1| 0.8|
+|--------   |:----------------------------:|:------------------------------:|:-----:|
+|Fitness    |0.2                           |1                               | 0.8   |
 
 1)  Hvilken form for selektion foregår? Hvad er selektionskoefficenterne
     for de to homozygoter?
@@ -620,7 +620,7 @@ genotype. Der ses igen bort fra genetisk drift.
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-Populationen fikseres for *A*<sub>1</sub>*A*<sub>1</sub>: Heterozygoten har en selektiv fordel, men i hver generation vil den spalte ud med hver homozygot og vil efterhånden forsvinde. Genotype *A*<sub>1</sub>*A*<sub>1</sub> har højere fitness end *A*<sub>2</sub>*A*<sub>2</sub> og vil over tiden blive fikseret.
+Populationen fikseres for *A*<sub>2</sub>*A*<sub>1</sub>: Heterozygoten har en selektiv fordel, men i hver generation vil den spalte ud med hver homozygot og vil efterhånden forsvinde. Genotype *A*<sub>2</sub>*A*<sub>2</sub> har højere fitness end *A*<sub>1</sub>*A*<sub>1</sub> og vil over tiden blive fikseret.
 </p>
 </details>
 
@@ -685,7 +685,7 @@ værdi på 0,09.
 
 1)  Kan hyppigheden af denne letale allel skyldes én af de følgende tre
     kræfter hver for sig? (Der spørges efter en kombination af disse
-    kræfter i spørgsmål c!)
+    kræfter i spørgsmål 3!)
 - Mutation
 - Genetisk drift
 - Naturlig selektion
@@ -778,8 +778,8 @@ Nej. De forventede antal under antagelse af Hardy-Weinberg proportioner er
 
 *F* = (775,36 – 800)/775,36 = –0,03,
 
-d.v.s, at vi har et overskud af heterozygoter og et tilsvarende underskud af homozygoter i forhold til de forventede Hardy-Weinberg proportioner.
-
+d.v.s, at vi har et overskud af heterozygoter og et tilsvarende underskud 
+af homozygoter i forhold til de forventede Hardy-Weinberg proportioner.
 
 </p>
 </details>
@@ -804,7 +804,10 @@ d.v.s, at vi har et overskud af heterozygoter og et tilsvarende underskud af hom
   <img  align="right" src="SelHaldane.png" width=100 title="Haldane">
  </figure>
 
-Den relative fitness er beregnet ved at dividere med den højeste fitness, som observeres hos heterozygoten. Der er derfor tale om overdominans, hvor heterozygoten har højere fitness end de to homozygoter. Haldane’s gæt i 1949 var derfor rigtigt
+Den relative fitness er beregnet ved at dividere med den højeste fitness, 
+som observeres hos heterozygoten. Der er derfor tale om overdominans, 
+hvor heterozygoten har højere fitness end de to homozygoter. 
+Haldane’s gæt i 1949 var derfor rigtigt.
 
 </p>
 </details>
@@ -874,7 +877,8 @@ frøplanter.
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-En del af frøplanterne er produceret ved selvbestøvning og er dermed indavlede, hvilket medfører overskud af homozygoter i populationen.
+En del af frøplanterne er produceret ved selvbestøvning og er dermed indavlede, 
+hvilket medfører overskud af homozygoter i populationen.
 </p>
 </details>
 
@@ -906,7 +910,7 @@ II: Ingen selektion. *W*<sub>AA</sub> = *W*<sub>AB</sub> = *W*<sub>BB</sub>. All
 
 III: Retningsselektion. *W*<sub>AA</sub>  ≥ *W*<sub>AB</sub> ≥ *W*<sub>BB</sub> med højst ét lighedstegn. Langt de fleste populationer fikseres for allel A.
 
-IV: Underdominant selektion.   *W*<sub>AA</sub> > *W*<sub>AB</sub> og *W*<sub>BB</sub> > *W*<sub>AB</sub> Vi ser, at når en population får en frekvens af A på over 0,5 bliver den altid fikseret for allel A. Ændringerne i allelfrekvenser er ikke så tilfældige, som man forventer med genetisk drift.
+IV: Underdominant selektion.   *W*<sub>AA</sub> > *W*<sub>AB</sub> og *W*<sub>BB</sub> > *W*<sub>AB</sub> Vi ser, at når en population får en frekvens af A på over 0,8 bliver den altid fikseret for allel A. Ændringerne i allelfrekvenser er ikke så tilfældige, som man forventer med genetisk drift.
 
 </p>
 </details>
