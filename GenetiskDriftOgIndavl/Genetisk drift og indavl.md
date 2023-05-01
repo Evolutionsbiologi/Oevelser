@@ -246,9 +246,9 @@ Wright (1931)[^3] introducerede begrebet effektiv populationsstørrelse,
 afvigelser fra modellen vokser indavlskoefficienten, *F<sub>t</sub>*,
 med en rate, som er specifik for den givne situation.
 
->>> *Den **effektive populationsstørrelse** defineres som populations-
- størrelsen i en ideal-population, der har samme tilvækst i genetisk
- drift som i den specifikke population.*
+>>> *Den **effektive populationsstørrelse** defineres som 
+>>> populationsstørrelsen i en ideal-population, der har samme tilvækst 
+>>> i genetisk drift som i den specifikke population.*
 
 Vi kan illustrere effektiv populationsstørrelse ved hjælp af et
 eksperiment med bananfluen *Drosophila melanogaster.* Her startede man
@@ -292,7 +292,9 @@ hunner og hanner i populationen.
 ## Populationsstruktur
 
 Betragt en stor population, der deles op i mange populationer, hver med
-en størrelse på *N*. De enkelte populationer fikseres efterhånden på
+en størrelse på *N*. Vi antager, at populationerne er *isolerede* fra hinanden.
+Det vil sige, at migrationen imellem dem er 0. 
+De enkelte populationer fikseres efterhånden på
 grund af genetisk drift. Denne proces foregår uafhængig i de enkelte
 populationer og medfører, at populationernes allelfrekvens divergerer
 fra hinanden. Dette har følger for genotypestrukturen i
@@ -307,8 +309,8 @@ vil genotypestrukturen kunne beskrives med den følgende fordeling
   <img  align="right" src="DriftPopStruktur.png" width=350 title="Indavl">
  </figure>
 
-Her er *p* og *q* allelfrekvenserne i totalpopulationen, dvs. gennem-
-snittet hen over alle populationer, dvs. *p* er lig med *p*<sub>0</sub>
+Her er *p* og *q* allelfrekvenserne i totalpopulationen, dvs. 
+gennemsnittet hen over alle populationer, dvs. *p* er lig med *p*<sub>0</sub>
 og *F<sub>t</sub>* er indavlskoefficienten givet i ligningerne foroven.
 Det ses, at der er et *overskud af homozygoter i forhold til
 Hardy-Weinberg proportioner og et tilsvarende underskud af
