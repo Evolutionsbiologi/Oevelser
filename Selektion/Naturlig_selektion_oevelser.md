@@ -132,6 +132,8 @@ $W_{22} < W_{12}$,
 det vil sige, at heterozygoten har større fitness end begge homozygoter.
 Vi vender tilbage til disse løsninger senere.
 
+<br>
+
 For et autosomalt locus med to alleler, hvorpå der virker
 overlevelsesselektion på genotyperne, findes der fire principielle
 muligheder for selektionens virkning. De gennemgåes i det følgende.
