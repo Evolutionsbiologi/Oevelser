@@ -134,7 +134,7 @@ Vi vender tilbage til disse løsninger senere.
 
 For et autosomalt locus med to alleler, hvorpå der virker
 overlevelsesselektion på genotyperne, findes der fire principielle
-muligheder for selektionens virkning.
+muligheder for selektionens virkning. De gennemgåes i det følgende.
 
 **1) Retningsselektion** 
 $W_{11} \ge W_{12} \ge W_{12}$
