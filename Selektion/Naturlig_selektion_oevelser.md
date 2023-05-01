@@ -334,13 +334,6 @@ ende op i et lokalt maksimum.
 
 <span class='page-break'/><span class='page-break'/>
 
-<br>
-
-<br>
-
-<br>
-
-<br>
 
 ### Ligevægt mellem mutation og selektion
 
