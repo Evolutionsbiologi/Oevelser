@@ -797,10 +797,10 @@ Betragt en diploid population af størrelsen *N* = 5.  Den indeholder 10 gener, 
 <p>
 
 Ventetiden bliver længere. Med *N* = 100000 og for $k = 20$ bliver ventetiden 
-$$ = \frac{4\times 100000}{20\times19} = 1053$$. For $k = 2$ bliver ventetiden 
-$$ = \frac{4\times 100000}{2\times1} = 200000$$
+(4 x 100000)/(20 x 19) = 1053 For $k = 2$ bliver ventetiden 
+(4 x 100000)/(2 x 1) = 200000.
 
-</p>
+  </p>
 </details>
 
 Den samlede ventetid for at gå fra *k* gener til vi når tilbage til MRCA 
@@ -821,13 +821,9 @@ som cirka  bliver $4N$, hvis $k$ er forholdsvis stor.
 
 Tiden for at gå fra 2 gener til 1 er
 $$\frac{4N}{{2(2-1)}}= 2N$$
-  
-  
-$$2N(1-1/k )\approx 2N \textrm{ hvis  }k\textrm{  ikke er alt for lille}$$
-
-Ventetiden får at gå fra $k$ til $k - 1$ gener er
-$$\frac{4N}{{k(k-1)}}$$
-
+Da den samlede tid for at gå fra *k* gener til 1 gen er $4N$,
+må tiden for at gå fra $k$ til 2 gener være
+ $$4N - 22N = 2N$$
 
 <figure>
   <img  align="center" src="DriftCoalescenceMRCA.png" width=5000 title="Coalescence">
