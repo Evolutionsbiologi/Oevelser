@@ -823,7 +823,7 @@ Tiden for at gå fra 2 gener til 1 er
 $$\frac{4N}{{2(2-1)}}= 2N$$
 Da den samlede tid for at gå fra *k* gener til 1 gen er $4N$,
 må tiden for at gå fra $k$ til 2 gener være
- $$4N - 22N = 2N$$
+ $$4N - 2N = 2N$$
 
 <figure>
   <img  align="center" src="DriftCoalescenceMRCA.png" width=5000 title="Coalescence">
