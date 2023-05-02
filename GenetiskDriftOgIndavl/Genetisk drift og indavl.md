@@ -126,7 +126,7 @@ En populations indavlskoefficient *F* bestemmes ved at tage
 gennemsnittet af de forskellige parringstypers indavlskoefficienter
 *F<sub>i</sub>* vægtet med deres frekvens *c<sub>i</sub>* i populationen
 
-$$ \overline{F}_{\mathrm{ind}} = \sum_i c_iF_{\mathrm{ind}}(i).$$
+$$\overline{F}_{\mathrm{ind}} = \sum_i F_{\mathrm{ind}}(i)$$
 
 ## Genetisk drift
 
