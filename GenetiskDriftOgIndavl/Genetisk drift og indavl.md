@@ -306,9 +306,9 @@ fra hinanden. Dette har følger for genotypestrukturen i
 totalpopulationen, der er gennemsnittet hen over alle populationer. Her
 vil genotypestrukturen kunne beskrives med den følgende fordeling
 
-|Genotype|*A*<sub>1</sub>*A*<sub>1</sub>      |*A*<sub>1</sub>*A*<sub>2</sub>|*A*<sub>2</sub>*A*<sub>2</sub>     |
-|--------|:----------------------------------:|:----------------------------:|:---------------------------------:|
-|Frekvens|*p*<sup>2</sup> + *Fpq* |2*pq*(1 - *F*)    |*q*<sup>2</sup> + *Fpq*|
+|Genotype|*A*<sub>1</sub>*A*<sub>1</sub>          |*A*<sub>1</sub>*A*<sub>2</sub>|*A*<sub>2</sub>*A*<sub>2</sub>     |
+|--------|:--------------------------------------:|:----------------------------:|:---------------------------------:|
+|Frekvens|*p*<sup>2</sup> + *Fpq*                 |2*pq*(1 - *F*)                |*q*<sup>2</sup> + *Fpq*            |
 
 <figure>
   <img  align="right" src="DriftPopStruktur.png" width=350 title="Indavl">
@@ -317,7 +317,7 @@ vil genotypestrukturen kunne beskrives med den følgende fordeling
 Her er *p* og *q* allelfrekvenserne i totalpopulationen, dvs. 
 gennemsnittet hen over alle populationer, dvs. *p* er lig med *p*<sub>0</sub>
 og *F<sub>t</sub>* er indavlskoefficienten givet i ligningerne foroven.
-Det ses, at der er et *overskud af homozygoter i forhold til
+Det ses, at der er et *overskud af homozygoter i totalpopulationen i forhold til
 Hardy-Weinberg proportioner og et tilsvarende underskud af
 heterozygoter*. Den genetiske drifts effekt på den totale populations
 genotypestruktur er den samme som indavlens effekt på en enkelt
