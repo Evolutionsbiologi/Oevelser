@@ -128,8 +128,9 @@ gennemsnittet af de forskellige parringstypers indavlskoefficienter
 
 
 <figure>
-  <img  align="left" src="DriftIndavlAveF.png" width=250 title="Indavl">
+  <img  align="center" src="DriftIndavlAveF.png" width=150 title="Indavl">
  </figure>
+
 
 ## Genetisk drift
 
