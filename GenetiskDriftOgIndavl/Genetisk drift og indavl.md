@@ -61,9 +61,9 @@ $$0 \leq F_{\mathrm{ind}} \leq 1$$
 Denne form for indavl medfører en afvigelse fra Hardy-Weinberg
 proportioner, hvor genotypefordelingen i den enkelte population bliver
 
-| Genotype | *A*<sub>1</sub>*A*<sub>1</sub> | *A*<sub>1</sub>*A*<sub>2</sub>| *A*<sub>2</sub>*A*<sub>2</sub> |
-|----------|:------------------------------:|:-----------------------------:|:------------------------------:|
- Frekvens  | *p*<sup>2</sup> + *Fpq*        | 2*pq*(1 − *F*)                | *q*<sup>2</sup> + *Fpq*        |
+| Genotype | *A*<sub>1</sub>*A*<sub>1</sub>         | *A*<sub>1</sub>*A*<sub>2</sub>| *A*<sub>2</sub>*A*<sub>2</sub>       |
+|----------|:--------------------------------------:|:-----------------------------:|:------------------------------------:|
+ Frekvens  | *p*<sup>2</sup> + *F*<sub>ind</sub>*pq*| 2*pq*(1 − *F*<sub>ind</sub>)  |*q*<sup>2</sup> + *F<sub>ind</sub>*pq*|
 
 Her observeres et *tydeligt overskud af homozygoter i forhold til
 Hardy-Weinberg proportioner i den enkelte population* – i modsætning til
@@ -71,7 +71,7 @@ genetisk drift, hvor der er Hardy-Weinberg proportioner i den enkelte
 population.
 
 Vi skal i det følgende udlede, hvordan man beregner indavlskoefficienten
-*F* for tilfældet hvor to individer, der er mere beslægtede med hinanden
+*F*<sub>ind</sub> for tilfældet hvor to individer, der er mere beslægtede med hinanden
 end to tilfældigt udvalgte individer. Har et individ modtaget to kopier
 af samme gen fra en stamfader (m/k), betragtes disse gener som værende
 identiske ved arv. Kender man individets stamtavle, er det muligt at
@@ -98,7 +98,7 @@ antal gange allelen bliver videregivet i en meiose. I dette tilfælde er
 (Figur B) med sandsynligheden (1/2)<sup>6</sup>, så den samlede
 sandsynlighed hvormed IV-1 bliver identisk ved arv med gener fra I-1 er
 
-*F* = (1/2)<sup>6</sup> + (1/2)<sup>6</sup> = 2 (1/2)<sup>6</sup> =
+*F*<sub>ind</sub> = (1/2)<sup>6</sup> + (1/2)<sup>6</sup> = 2 (1/2)<sup>6</sup> =
 (1/2)<sup>5</sup>.
 
 Vi ser her, at man blot behøver at tælle antallet af personer i kæden,
@@ -106,7 +106,7 @@ Vi ser her, at man blot behøver at tælle antallet af personer i kæden,
 selv med. Opløftes 1/2 med dette tal, har man bestemt
 indavlskoefficienten.
 
-*F* = (1/2)*<sup>n</sup>*.
+*F*<sub>ind</sub> = (1/2)*<sup>n</sup>*.
 
 IV-1 kan også blive identisk ved arv for allelerne Am og An, (Figur B)
 som bæres af I-2. Denne sandsynlighed er ligeledes (1/2)<sup>5</sup>.
@@ -114,7 +114,7 @@ Hændelserne, at IV-1 bliver identisk ved arv for gener enten fra I-1
 eller I-2, udelukker hinanden, så den samlede sandsynlighed for at blive
 identisk ved arv er
 
-*F* = (1/2)<sup>5</sup> + (1/2)<sup>5</sup> = 2 (1/2)<sup>5</sup> =
+*F*<sub>ind</sub> = (1/2)<sup>5</sup> + (1/2)<sup>5</sup> = 2 (1/2)<sup>5</sup> =
 (1/2)<sup>4</sup> = 1/16.
 
 I mere komplicerede stamtavler end den ovenstående med flere fælles
@@ -126,7 +126,7 @@ En populations indavlskoefficient *F* bestemmes ved at tage
 gennemsnittet af de forskellige parringstypers indavlskoefficienter
 *F<sub>i</sub>* vægtet med deres frekvens *c<sub>i</sub>* i populationen
 
-$$ \overline{F} = \sum_i c_iF_i.$$
+$$ \overline{F}_{\mathrm{ind}} = \sum_i c_iF_{\mathrm{ind}}(i).$$
 
 ## Genetisk drift
 
