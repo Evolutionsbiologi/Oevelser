@@ -56,7 +56,7 @@ arv for et individ kvantificeres ved hjælp af indavlskoefficienten
 som sandsynligheden for, at et individ i et locus bærer to gener, der er
 identiske ved arv, så
 
-$$0 \leq F_{textrm{ind}} \leq 1$$
+$$0 \leq F_{\textrm{ind}} \leq 1$$
 
 Denne form for indavl medfører en afvigelse fra Hardy-Weinberg
 proportioner, hvor genotypefordelingen i den enkelte population bliver
