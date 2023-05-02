@@ -51,11 +51,12 @@ hinanden end to tilfældigt udvalgte individer.
 Som nævnt, så vil identiteten gennem arv øges i en population, hvis to
 individer, der får afkom med hinanden, er mere beslægtede med hinanden
 end to tilfældigt udvalgte individer i populationen. Identiteten gennem
-arv kvantificeres ved hjælp af indavlskoefficienten *F*. Denne defineres
+arv for et individ kvantificeres ved hjælp af indavlskoefficienten 
+*F*<sub>ind</sub>. Denne defineres
 som sandsynligheden for, at et individ i et locus bærer to gener, der er
 identiske ved arv, så
 
-$$0 \leq F \leq 1$$
+$$0 \leq F_{textrm{ind}} \leq 1$$
 
 Denne form for indavl medfører en afvigelse fra Hardy-Weinberg
 proportioner, hvor genotypefordelingen i den enkelte population bliver
