@@ -789,7 +789,7 @@ Betragt en diploid population af størrelsen *N* = 5.  Den indeholder 10 gener, 
 4)  Bliver ventetiderne for coalescent-hændelser kortere eller længere
     jo mere tilbage i tiden man går? Ventetiden for at gå fra $k$ til $k - 1$ 
     gener er givet ved 
-    $$\frac{4N}{{k(k-1)}}.$$ 
+    $$\frac{4N}{{k(k-1)}}$$ 
     Du kan tage udgangspunkt i en 
     population med *N* = 100000 og beregne ventetiden for $k = 20$ og $k =2$.
 
@@ -797,11 +797,16 @@ Betragt en diploid population af størrelsen *N* = 5.  Den indeholder 10 gener, 
 <p>
 
 Ventetiden bliver længere. Med *N* = 100000 og for $k = 20$ bliver ventetiden 
-$= \frac{4\times 100000}{20\times19} = 1053$. For $k = 2$ bliver ventetiden 
-$= \frac{4\times 100000}{2\times1} = 200000$
+$ \frac{4\times 100000}{20\times19} = 1053$. For $k = 2$ bliver ventetiden 
+$ \frac{4\times 100000}{2\times1} = 200000$
 
 </p>
 </details>
+
+Den samlede ventetid for at gå fra *k* gener til vi når tilbage til MRCA 
+(most recent common ancestor) er
+$$\sum_{i=2}^k\frac{4N}{i(i-1)} = 4N\left( 1- \frac{1}{k}\right),$$
+som cirka  bliver $4N$, hvis k er forholdsvis stor.
 
 5)  Hvor lang tid tager det for at gå fra *k*  gener til  to gener?
     (Forventet tid)
