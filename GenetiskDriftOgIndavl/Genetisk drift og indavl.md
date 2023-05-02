@@ -236,7 +236,7 @@ populationens indavlskoefficient *F<sub>t</sub>*, for tabet af
 heterozygoti *H<sub>t</sub>* og som væksten af variansen *V<sub>t</sub>*
 mellem de enkelte populationer. Grundlaget for at udlede formlerne var
 en model, som forudsætter ens populationsstørrelser gennem tiden,
-selvbefrugtning tilladt og ens bidrag fra de enkelte individer i
+selvbefrugtning tilladt og ens forventet bidrag fra de enkelte individer i
 populationen. Disse forudsætninger er sjældent opfyldte i naturlige
 populationer. I naturen vil populationsstørrelsen ofte fluktuere gennem
 tiden. Selvbefrugtning er næppe særligt udbredt i dyreverdenen, medens
@@ -275,7 +275,7 @@ melanogaster.*
   <img  align="center" src="DriftDrosophila.png" width=600 title="Indavl">
  </figure>
 
-For en population med variabel størrelse, kan den effektive
+For en population med variabel størrelse over tid, kan den effektive
 populationsstørrelse beregnes som 
 
 $$ N_{e} = \frac{k}{\frac{1}{N_1} + \frac{1}{N_2} + \cdots + \frac{1}{N_k} 
@@ -298,7 +298,7 @@ hunner og hanner i populationen.
 
 Betragt en stor population, der deles op i mange populationer, hver med
 en størrelse på *N*. Vi antager, at populationerne er *isolerede* fra hinanden.
-Det vil sige, at migrationen imellem dem er 0. 
+Det vil sige, at migrationen imellem dem er 0. De udveksler ikke gener mellem hinanden.
 De enkelte populationer fikseres efterhånden på
 grund af genetisk drift. Denne proces foregår uafhængig i de enkelte
 populationer og medfører, at populationernes allelfrekvens divergerer
