@@ -797,8 +797,8 @@ Betragt en diploid population af størrelsen *N* = 5.  Den indeholder 10 gener, 
 <p>
 
 Ventetiden bliver længere. Med *N* = 100000 og for $k = 20$ bliver ventetiden 
-$ = \frac{4\times 100000}{20\times19} = 1053$. For $k = 2$ bliver ventetiden 
-$ = \frac{4\times 100000}{2\times1} = 200000$
+$$ = \frac{4\times 100000}{20\times19} = 1053$$. For $k = 2$ bliver ventetiden 
+$$ = \frac{4\times 100000}{2\times1} = 200000$$
 
 </p>
 </details>
