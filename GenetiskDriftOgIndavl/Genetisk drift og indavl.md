@@ -576,7 +576,7 @@ Populationsstørrelserne i hvert forsøg var 100.
 <p>
 
 Nej. Det er højst usandsynligt, at driften i en population med en 
-størrelse på 100 kan resultere i fiksering efter 4 generationer.  
+størrelse på 100 kan resultere i fiksering efter 4 generationer.
 Desuden ender alle 6 forsøg med allelfrekvens over ca. 0.9 med at 
 blive fikseret for den ene allel, medens de 7 forsøg, der starter 
 med en frekvens under 0.9, alle ender med at blive fikseret for 
@@ -766,7 +766,7 @@ variation pga. genetisk drift. Dette reducerer effekten af kunstig selektion.
 
 ###  Opgave 6
 
-Betragt den følgende genealogi af *N* = 10 gener.
+Betragt en diploid population af størrelsen *N* = 5.  Den indeholder 10 gener, som har den følgende genealogi:
 <figure>
   <img  align="center" src="DriftCoalescence.jpg" width=350 title="Coalescence">
  </figure>
@@ -787,7 +787,8 @@ Betragt den følgende genealogi af *N* = 10 gener.
 </details>
 
 4)  Bliver ventetiderne for coalescent-hændelser kortere eller længere
-    jo mere tilbage i tiden man går?
+    jo mere tilbage i tiden man går? Ventetiden for at gå fra $k$ til $k - 1$ gener er
+$$\frac{4N}{{k(k-1)}}$$. Du kan tage udgangspunkt i en population med *N* = 100000 og beregne ventetiden for *k* = 20 og *k* =2.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
