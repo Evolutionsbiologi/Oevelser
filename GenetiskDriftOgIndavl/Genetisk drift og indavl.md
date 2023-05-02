@@ -797,8 +797,8 @@ Betragt en diploid population af størrelsen *N* = 5.  Den indeholder 10 gener, 
 <p>
 
 Ventetiden bliver længere. Med *N* = 100000 og for $k = 20$ bliver ventetiden 
-$ \frac{4\times 100000}{20\times19} = 1053$. For $k = 2$ bliver ventetiden 
-$ \frac{4\times 100000}{2\times1} = 200000$
+$ = \frac{4\times 100000}{20\times19} = 1053$. For $k = 2$ bliver ventetiden 
+$ = \frac{4\times 100000}{2\times1} = 200000$
 
 </p>
 </details>
@@ -808,11 +808,13 @@ Den samlede ventetid for at gå fra *k* gener til vi når tilbage til MRCA
 $$\sum_{i=2}^k\frac{4N}{i(i-1)} = 4N\left( 1- \frac{1}{k}\right),$$
 som cirka  bliver $4N$, hvis k er forholdsvis stor.
 
-5)  Hvor lang tid tager det for at gå fra *k*  gener til  to gener?
+5)  Hvor lang tid tager det for de sidste to gener at finde sammen? Dvs., at gå fra $k = 2$ til $k= 1$?
     (Forventet tid)
 
-6)  Hvor lang tid tager det for de sidste to gener at finde sammen?
+6)  Hvor lang tid tager det for at gå fra *k*  gener til  to gener? 
+   (Husk på, at den samlede tid for at gå fra *k* til MRCA, hvor $k = 1$, er $4N$
     (Forventet tid)
+
 
 <details><summary>Klik for at se svaret for 5 og 6.</summary>
 <p>
@@ -823,8 +825,6 @@ $$2N(1-1/k )\approx 2N \textrm{ hvis  }k\textrm{  ikke er alt for lille}$$
 Ventetiden får at gå fra $k$ til $k - 1$ gener er
 $$\frac{4N}{{k(k-1)}}$$
 
-Så tiden for at gå fra 2 gener til 1 gen er
-$$\frac{4N}{{2(2-1)}}= 2N$$
 
 <figure>
   <img  align="center" src="DriftCoalescenceMRCA.png" width=5000 title="Coalescence">
