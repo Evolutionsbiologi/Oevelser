@@ -787,14 +787,17 @@ Betragt en diploid population af størrelsen *N* = 5.  Den indeholder 10 gener, 
 </details>
 
 4)  Bliver ventetiderne for coalescent-hændelser kortere eller længere
-    jo mere tilbage i tiden man går? Ventetiden for at gå fra $k$ til $k - 1$ gener er
-$$\frac{4N}{{k(k-1)}}$$. Du kan tage udgangspunkt i en population med *N* = 100000 og beregne ventetiden for *k* = 20 og *k* =2.
+    jo mere tilbage i tiden man går? Ventetiden for at gå fra $k$ til $k - 1$ 
+    gener er givet ved $$\frac{4N}{{k(k-1)}}$$. Du kan tage udgangspunkt i en 
+    population med *N* = 100000 og beregne ventetiden for *k* = 20 og *k* =2.
 
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-De bliver længere. Ventetiden får at gå fra $k$ til $k - 1$ gener er
-$$\frac{4N}{{k(k-1)}}$$
+Ventetiden bliver længere. Med *N* = 100000 og for *k* = 20 bliver ventetiden 
+$= \frac{4\times 100000}{20\times19} = 1053$. For *k* =2 bliver ventetiden 
+$= \frac{4\times 100000}{2\times1} = 200000$
+
 </p>
 </details>
 
