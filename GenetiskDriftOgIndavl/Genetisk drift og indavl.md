@@ -317,9 +317,9 @@ vil genotypestrukturen kunne beskrives med den følgende fordeling
 Her er *p* og *q* allelfrekvenserne i totalpopulationen, dvs. 
 gennemsnittet hen over alle populationer, dvs. *p* er lig med *p*<sub>0</sub>
 og *F<sub>t</sub>* er indavlskoefficienten givet i ligningerne foroven.
-Det ses, at der er et *overskud af homozygoter i totalpopulationen i forhold til
+Det ses, at der er et ***overskud af homozygoter i totalpopulationen i forhold til
 Hardy-Weinberg proportioner og et tilsvarende underskud af
-heterozygoter*. Den genetiske drifts effekt på den totale populations
+heterozygoter***. Den genetiske drifts effekt på den totale populations
 genotypestruktur er den samme som indavlens effekt på en enkelt
 populations afvigelse fra Hardy- Weinberg ligevægten, se foroven. Det er
 vigtigt at fremhæve, at ***med genetisk drift er der stadigt
@@ -518,7 +518,7 @@ Populationerne divergerer hurtigere.  Effekten af genetisk drift tiltager med fa
 
 Genetisk drift virker endnu stærkere.  Med en populationsstørrelse på 10 
 ender stort set alle populationer med at blive fikseret inden der er 
-gået 100 generationer
+gået 60 generationer.
 </p>
 </details>
 
