@@ -633,13 +633,11 @@ Han simulerede 10 populationer for hvert scenarie i 50 generationer.
 </p>
 </details>
 
-2)  Hvor mange ligevægte (stabile og ustabile) findes der for hvert af
-    de fire scenarier?
+2)  Hvor mange ligevægte (stabile og ustabile) findes der for locus I, III og IV?
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
 - I: 2 stabile (0, 1), 1 ustabil (0,5)
-- II: ingen, allelfrekvensens ligevægt er neutral
 - III: 2 ustabile (0, 1), 1 stabil (0,5)
 - IV: 1 ustabil (1), 1 stabil (0) (allelfrekvensen er for A)
 
@@ -841,10 +839,15 @@ Bestem indavlskoefficienten for afkom af parringer blandt
 <p>
 
 <figure>
-  <img  align="right" src="DriftIndavlSoeskende.png" width=100 title="Coalescence">
+  <img  align="right" src="DriftIndavlSoeskende.png" width=100 title="Søskende">
  </figure>
 
  *F* = (1/2)<sup>3</sup> + (1/2)<sup>3</sup> = (1/2)<sup>2</sup> = 0,25
+<br>
+<br>
+<br>
+<br>
+<br>
 </p>
 </details>
 
@@ -853,10 +856,15 @@ Bestem indavlskoefficienten for afkom af parringer blandt
 <p>
 
 <figure>
-  <img  align="right" src="DriftIndavlmorbror_niece.png" width=100 title="Coalescence">
+  <img  align="right" src="DriftIndavlmorbror_niece.png" width=100 title="Morbror-niece">
  </figure>
 
  *F* = (1/2)<sup>4</sup> + (1/2)<sup>4</sup> = (1/2)<sup>3</sup> = 0,125
+<br>
+<br>
+<br>
+<br>
+<br>
 
 </p>
 </details>
@@ -866,10 +874,15 @@ Bestem indavlskoefficienten for afkom af parringer blandt
 <p>
 
 <figure>
-  <img  align="right" src="DriftIndavlSelvbefrugtning.png" width=35 title="Coalescence">
+  <img  align="right" src="DriftIndavlSelvbefrugtning.png" width=35 title="Selvbefrugtning">
  </figure>
 
 *F* = (1/2)<sup>1</sup> = 0,5
+<br>
+<br>
+<br>
+<br>
+<br>
 
 </p>
 </details>
