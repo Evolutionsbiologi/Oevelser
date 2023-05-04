@@ -865,6 +865,8 @@ Bestem indavlskoefficienten for afkom af parringer blandt
 <br>
 <br>
 <br>
+<br>
+<br>
 
 </p>
 </details>
