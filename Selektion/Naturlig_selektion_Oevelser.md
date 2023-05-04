@@ -622,7 +622,7 @@ genotype. Der ses igen bort fra genetisk drift.
 <details><summary>Klik for at se svaret.</summary>
 <p>
 
-Populationen fikseres for *A*<sub>2</sub>*A*<sub>1</sub>: Heterozygoten har en selektiv fordel, men i hver generation vil den spalte ud med hver homozygot og vil efterhånden forsvinde. Genotype *A*<sub>2</sub>*A*<sub>2</sub> har højere fitness end *A*<sub>1</sub>*A*<sub>1</sub> og vil over tiden blive fikseret.
+Populationen fikseres for *A*<sub>2</sub>*A*<sub>2</sub>: Heterozygoten har en selektiv fordel, men i hver generation vil den spalte ud med hver homozygot og vil efterhånden forsvinde. Genotype *A*<sub>2</sub>*A*<sub>2</sub> har højere fitness end *A*<sub>1</sub>*A*<sub>1</sub> og vil over tiden blive fikseret.
 </p>
 </details>
 
