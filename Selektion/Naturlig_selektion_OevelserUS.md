@@ -204,7 +204,7 @@ enten 0 eller 1, afhængigt af, om der startes under eller over den
 ustabile ligevægt.
 
 
-**4) Overdominans**  *W*<sub>11</sub> < *W*<sub>12</sub> og *W*<sub>22</sub> < *W*<sub>22</sub>
+**4) Overdominans**  *W*<sub>11</sub> < *W*<sub>12</sub> og *W*<sub>22</sub> < *W*<sub>12</sub>
 
 <figure>
   <img  align="right" src="SelOverD.png" width=150 title="Over">
