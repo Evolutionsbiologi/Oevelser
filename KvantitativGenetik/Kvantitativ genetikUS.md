@@ -147,7 +147,7 @@ $$
 hvor $\mathrm{Cov}(x, y)$ er covariansen mellem *x* og *y*, der bestemmes som
 
 $$
-\mathrm{Cov}(x,y) = \sum_{i = 1}^{n}(x_i-\overline{x})(y_i-\overline{y})/[n(n-1)]
+\mathrm{Cov}(x,y) = \sum_{i = 1}^{n}(x_i-\overline{x})(y_i-\overline{y})/(n-1)
 $$
 
 Her er der indsamlet *n* parvise kombinationer af *x* og *y* værdier.
