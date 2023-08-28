@@ -23,7 +23,7 @@ populationer end mellem forskellige populationer
 
 Genetisk variation i en population påvirkes af flere evolutionære
 kræfter. Den produceres ved ***mutation*** og ***rekombination***.
-**Den** ændres tilfældigt gennem ***genetisk drift***. Den er en
+Den ændres tilfældigt gennem ***genetisk drift***. Den er en
 forudsætning for ***naturlig selektion***, hvor biologiske enheder
 (individer, f.eks.) har en genetisk betinget forskel i ***fitness***,
 d.v.s. deres evne til at overleve og reproducere. Populationer indenfor
@@ -482,4 +482,4 @@ fra hinanden på grund af genetisk drift og naturlig selektion i de to områder.
     unknown hominin from southern Siberia. *Nature* **464**: 894–897.
 
 [^2]: Briggs, A.W. *et al.* 2009. Targeted retrieval and analysis of
-five Neandertal mtDNA genomes. S*cience* **325**: 318–321.
+five Neandertal mtDNA genomes. *Science* **325**: 318–321.
